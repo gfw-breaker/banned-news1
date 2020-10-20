@@ -480,4 +480,3 @@
 #### [Oslo Freedom Forum ](../pages/yataibaodao/rc-04132020100649.md)
 #### [美学者：中国除湖北外新冠感染者近三百万](../pages/yataibaodao/rc-04102020135751.md)
 #### [中国金援利率高    美智库忧疫情加剧债务国风险](../pages/yataibaodao/rc-04092020112632.md)
-#### [中国疫情数据可信吗？张文宏：上海的数据是真的](../pages/yataibaodao/rc-04072020222201.md)
