@@ -3,15 +3,15 @@
 #### [与伊朗交易 中国6实体2人列美国务院黑名单](../pages/prog203/a102967201.md?t=10201551) 
 #### [美国第一夫人康复 周二将与川普出席竞选活动](../pages/prog203/a102967098.md?t=10201551) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [第三次总统辩论再生变故 川普团队：主题偏向拜登](../pages/prog203/a102967055.md?t=10201551) 
 #### [拜登女婿大量投资中国  吹捧中共为“抗疫”表率](../pages/prog203/a102966813.md?t=10201551) 
 #### [【微视频】拜登事件后续：佩洛西是否会再次弹劾总统？](../pages/prog203/a102966918.md?t=10201551) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10201602) 
 #### [本·拉登侄女：支持川普的“代价”远超她的姓氏](../pages/prog203/a102966566.md?t=10201551) 
 #### [【禁闻】记者直击：从反川到挺川的美国华裔](../pages/prog203/a102966882.md?t=10201551) 
 #### [亨特笔电门 纽约舆论哗然：拜登大势已去](../pages/prog203/a102966864.md?t=10201551) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10201602) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10201602)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10201602) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10201602) 
 #### [美情报总监：拜登电脑门不是俄国信息战](../pages/prog203/a102966877.md?t=10201551) 
 #### [【重播】专访《蚕食美国》制片人](../pages/prog203/a102966872.md?t=10201551) 
 #### [末场辩论主持人支持民主党 川普:我会玩这场游戏](../pages/prog203/a102966569.md?t=10201551) 
@@ -32,4 +32,4 @@
 #### [拜登疑向中共泄密 导致30名CIA特工遭处决](../pages/prog203/a102966388.md?t=10201551) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog203-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog203-earlier.md?t=10201602)

@@ -3,15 +3,15 @@
 #### [薛瑞福：台湾如亚洲「富尔达缺口」 攸关印太安全](../pages/soh6/433900.md?t=10201551) 
 #### [美国制裁6家与伊朗非法贸易的中企及高管](../pages/soh6/433912.md?t=10201551) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [听到“笔电门”拜登扭头就走 川普团队提11疑点](../pages/soh6/433867.md?t=10201551) 
 #### [美第一夫人梅拉尼娅本周将重返竞选活动](../pages/soh6/433864.md?t=10201551) 
 #### [美司法部起诉6俄国军情人员](../pages/soh6/433858.md?t=10201551) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10201602) 
 #### [共和党议员促司法部长：任命特别检查官调查拜登丑闻](../pages/soh6/433831.md?t=10201551) 
 #### [越来越多自由派华裔开始挺川 他们为何改变立场？](../pages/soh6/433786.md?t=10201551) 
 #### [【白宫组图】开放日民众赏花园美景 重温总统们的园艺设计](../pages/soh6/433759.md?t=10201551) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10201602) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10201602)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10201602) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10201602) 
 #### [亨特更多丑闻浮现 国家情报总监：与俄国信息战无关](../pages/soh6/433789.md?t=10201551) 
 #### [担心被灭口 维修店老板上交拜登丑闻硬盘前拷贝四份](../pages/soh6/433780.md?t=10201551) 
 #### [海量丑闻证据难否认 拜登家族缄默不语](../pages/soh6/433744.md?t=10201551) 
@@ -25,4 +25,4 @@
 #### [国会施压FBI  要求曝光对拜登“电脑门”的调查](../pages/soh6/433468.md?t=10201551) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md?t=10201602)

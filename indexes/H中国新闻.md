@@ -3,15 +3,15 @@
 #### [青岛“十合一”中共病毒检测 一心求快无视隐忧](../pages/soh5/433888.md?t=10201551) 
 #### [网曝90%VPN由中共网警开发！什么是安全的翻墙软件首选？](../pages/soh5/433891.md?t=10201551) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [中共外交部否认威胁绑架美国人质 胡锡进与北京不同调](../pages/soh5/433852.md?t=10201551) 
 #### [法轮功创造的医学奇迹(四)](../pages/soh5/433843.md?t=10201551) 
 #### [世界在正视并调查中共“按需杀人 活摘器官”的罪恶](../pages/soh5/433798.md?t=10201551) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10201602) 
 #### [中共大使打伤台外交官 赵立坚胡锡进“恶人先告状”](../pages/soh5/433750.md?t=10201551) 
 #### [啥情况？钟南山“带货”板蓝根 也遭该公司打脸](../pages/soh5/433729.md?t=10201551) 
 #### [食用自制酸汤子酿惨剧 黑龙江一家9口中毒身亡 ](../pages/soh5/433723.md?t=10201551) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10201602) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10201602)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10201602) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10201602) 
 #### [青岛版“火神山”医院开建 设千张床位 真实疫情引惊疑](../pages/soh5/433681.md?t=10201551) 
 #### [中国高校今年28名厅局级官员被查 校长、书记超7成](../pages/soh5/433702.md?t=10201551) 
 #### [成都大学新书记走马上任 毛洪涛轻生原因依然成谜](../pages/soh5/433675.md?t=10201551) 
@@ -24,4 +24,4 @@
 #### [中共五中全会清场期  辽宁访民被“钓”进驻京办](../pages/soh5/433606.md?t=10201551) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/soh5-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/soh5-earlier.md?t=10201602)

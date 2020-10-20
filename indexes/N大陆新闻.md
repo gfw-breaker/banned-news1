@@ -3,15 +3,15 @@
 #### [与伊朗交易 中国6实体2人列美国务院黑名单](../pages/prog204/a102967201.md?t=10201551) 
 #### [法轮功学员黄华杰狱中被倒立撞地 伤情严重](../pages/prog204/a102967198.md?t=10201551) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [习近平高调纪念抗美援朝 法媒：中方真的胜了吗？](../pages/prog204/a102967121.md?t=10201551) 
 #### [美媒：成都大学书记之死 撕破高校权斗腐败黑幕](../pages/prog204/a102967077.md?t=10201551) 
 #### [巡视组进驻不久 湖北高院副院长张忠斌自杀](../pages/prog204/a102967051.md?t=10201551) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10201602) 
 #### [台风沙德尔形成 往海南岛或中南半岛移动](../pages/prog204/a102967044.md?t=10201551) 
 #### [纳瓦罗列中共七宗罪：这笔账必有到期的一天](../pages/prog204/a102967038.md?t=10201551) 
 #### [习近平加速左转 三份密件四次讲话曝光](../pages/prog204/a102967010.md?t=10201551) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10201602) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10201602)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10201602) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10201602) 
 #### [“酸汤子”中毒事件 黑龙江唯一幸存者也去世](../pages/prog204/a102966993.md?t=10201551) 
 #### [【禁闻】战狼变流氓 威胁抓美国人 打伤台外交官](../pages/prog204/a102966861.md?t=10201551) 
 #### [【疫情更新31】又甩锅？青岛称冷冻鳕鱼外包装验出病毒](../pages/prog204/a102966143.md?t=10201551) 
@@ -34,4 +34,4 @@
 #### [共军东部战区“出征誓师” 剪辑造假细节曝光](../pages/prog204/a102966225.md?t=10201551) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog204-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog204-earlier.md?t=10201602)

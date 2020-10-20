@@ -3,15 +3,15 @@
 #### [纽约地铁L线12车站竣工 新设施亮相](../pages/nsc412/n12488044.md?t=10201551) 
 #### [纽约市大选日投票指南](../pages/nsc412/n12488116.md?t=10201551) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [继里根之后 川普或在11月大选赢得纽约](../pages/nsc412/n12488123.md?t=10201551) 
 #### [亨特笔电门 纽约舆论哗然：拜登大势已去](../pages/nsc412/n12488048.md?t=10201551) 
 #### [法官判决 暂停市府迁出卢塞恩饭店游民](../pages/nsc412/n12487985.md?t=10201551) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10201602) 
 #### [纽约市公园局员工念“法轮大法好”  病痛消失](../pages/nsc412/n12488108.md?t=10201551) 
 #### [【西岸观察】亨特电脑门曝中共惯用色诱要挟](../pages/nsc412/n12487958.md?t=10201551) 
 #### [7个月损失八千万 纽约YMCA裁掉近半员工](../pages/nsc412/n12488040.md?t=10201551) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10201602) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10201602)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10201602) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10201602) 
 #### [纽约家长抗议 学校未经同意对学生病毒检测](../pages/nsc412/n12488042.md?t=10201551) 
 #### [重振旅游业 纽约市旅游局推出新项目](../pages/nsc412/n12488051.md?t=10201551) 
 #### [突袭庇护城市 美移民局逮捕172名犯罪非法移民](../pages/nsc412/n12488055.md?t=10201551) 
@@ -65,4 +65,4 @@
 #### [专偷苹果产品  纽约连爆模式盗窃案](../pages/nsc412/n12485604.md?t=10201551) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nsc412-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nsc412-earlier.md?t=10201602)

@@ -3,15 +3,15 @@
 #### [【史海】“文革”血债：想杀谁就杀谁的“民办枪毙”](../pages/prog1695/a102884298.md?t=10201551) 
 #### [文革处决纪录：非战争下的中国之最](../pages/prog1695/a102882581.md?t=10201551) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [中共在文革抄家中抄得了多少钱？](../pages/prog1695/a102880758.md?t=10201551) 
 #### [共产党如何把毛思想灌输到人民的脑中？(图)](../pages/prog1695/a102880751.md?t=10201551) 
 #### [“私藏2万张文革底片”摄影记者去世 曾坦言斗人也被人斗(组图)](../pages/prog1695/a102878442.md?t=10201551) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10201602) 
 #### [没去台湾的民国大师们几乎全部毁于文革浩劫(图)](../pages/prog1695/a102878438.md?t=10201551) 
 #### [肠子都悔青了！做梦都没想到会杀孩子](../pages/prog1695/a102874720.md?t=10201551) 
 #### [人性之恶！红卫兵“破四旧”都干了啥？(图)](../pages/prog1695/a102843791.md?t=10201551) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10201602) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10201602)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10201602) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10201602) 
 #### [中共领导人长寿之谜 并非吃特供那么简单(图)](../pages/prog1695/a102841604.md?t=10201551) 
 #### [人神共愤！被中共杀害的抗日国军将领(图)](../pages/prog1695/a102836872.md?t=10201551) 
 #### [狱中日记：林昭最后的日子(图)](../pages/prog1695/a102834576.md?t=10201551) 
@@ -35,4 +35,4 @@
 #### [【晓天访谈】大跃进前奏 人民公社化运动的真相 中国特大饥荒60周年祭（四）](../pages/prog1695/a102669466.md?t=10201551) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog1695-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog1695-earlier.md?t=10201602)

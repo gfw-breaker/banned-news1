@@ -3,15 +3,15 @@
 #### [魔鬼在统治着我们的世界(16)：法律篇](../pages/nsc422/n10485969.md?t=10201551) 
 #### [魔鬼在统治着我们的世界(15)：经济篇(下)](../pages/nsc422/n10469975.md?t=10201551) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [魔鬼在统治着我们的世界(14)：经济篇(上)](../pages/nsc422/n10457370.md?t=10201551) 
 #### [魔鬼在统治着我们的世界(13)：政治篇(下)](../pages/nsc422/n10448270.md?t=10201551) 
 #### [魔鬼在统治着我们的世界(12)：政治篇(上)](../pages/nsc422/n10444576.md?t=10201551) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10201602) 
 #### [魔鬼在统治着我们的世界(11)：家庭篇(下)](../pages/nsc422/n10440961.md?t=10201551) 
 #### [魔鬼在统治着我们的世界(10)：家庭篇(上)](../pages/nsc422/n10435448.md?t=10201551) 
 #### [魔鬼在统治着我们的世界(9)：信仰篇](../pages/nsc422/n10432159.md?t=10201551) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10201602) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10201602)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10201602) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10201602) 
 #### [魔鬼在统治着我们的世界(8)：渗透西方(下)](../pages/nsc422/n10429603.md?t=10201551) 
 #### [魔鬼在统治着我们的世界(7)：渗透西方(上)](../pages/nsc422/n10426013.md?t=10201551) 
 #### [魔鬼在统治着我们的世界(6)：输出革命](../pages/nsc422/n10421536.md?t=10201551) 
@@ -65,4 +65,4 @@
 #### [【共产主义的终极目的】之六：甜头和苦头](../pages/nsc422/n11096971.md?t=10201551) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nsc422-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nsc422-earlier.md?t=10201602)

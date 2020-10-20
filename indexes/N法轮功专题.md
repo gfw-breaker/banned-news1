@@ -3,15 +3,15 @@
 #### [疫情下 英国华人派发“拒绝中共”传单](../pages/prog424/a102967173.md?t=10201551) 
 #### [中共为何强行火化他们的遗体（15）](../pages/prog424/a102966369.md?t=10201551) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [美助卿：国务院已对中共活摘器官展开实际调查](../pages/prog424/a102966019.md?t=10201551) 
 #### [谢燕益：法轮功学员任海飞案之无罪法律意见书](../pages/prog424/a102965321.md?t=10201551) 
 #### [9月份至少964名法轮功学员被绑架骚扰](../pages/prog424/a102965280.md?t=10201551) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10201602) 
 #### [石铭：枉法判决何时休？](../pages/prog424/a102964615.md?t=10201551) 
 #### [解开心结 大陆老先生退出中共组织](../pages/prog424/a102964417.md?t=10201551) 
 #### [历经艰难 重庆法轮功学员余业顗被迫害离世](../pages/prog424/a102963098.md?t=10201551) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10201602) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10201602)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10201602) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10201602) 
 #### [李铭：美国支持法轮功信仰自由 全世界都是后盾](../pages/prog424/a102963547.md?t=10201551) 
 #### [按名单抓人 哈尔滨近30法轮功学员遭绑架](../pages/prog424/a102963477.md?t=10201551) 
 #### [洪达：中共法官的真心话](../pages/prog424/a102963197.md?t=10201551) 
@@ -34,4 +34,4 @@
 #### [支持法轮功反迫害 英国人：我帮你讲真相](../pages/prog424/a102957812.md?t=10201551) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog424-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog424-earlier.md?t=10201602)

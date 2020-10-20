@@ -3,15 +3,15 @@
 #### [战狼变流氓！中共大使殴打台湾外交官致重伤](../pages/soh55/433609.md?t=10201551) 
 #### [台湾「保护伞」泼粪案4嫌犯归案 坦承收钱办事](../pages/soh55/433408.md?t=10201551) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [习近平提内循环 港府附和 议员专家质疑成效](../pages/soh55/433402.md?t=10201551) 
 #### [白宫国家安全顾问：中共两栖作战若攻台 将自陷险境](../pages/soh55/433258.md?t=10201551) 
 #### [参与反送中遭中共强拘一年 六旬王婆婆回港曝惨痛经历](../pages/soh55/433195.md?t=10201551) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10201602) 
 #### [芬兰总统宣布：中止与香港引渡协议](../pages/soh55/433054.md?t=10201551) 
 #### [新书《铁证如山》 揭人类史上最残暴罪行](../pages/soh55/433045.md?t=10201551) 
 #### [挺「反送中」港人餐厅遭泼粪 黄捷：台湾护港决心更坚](../pages/soh55/432727.md?t=10201551) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10201602) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10201602)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10201602) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10201602) 
 #### [燃点烛光有罪？港民主派「六四案」续审 2人遭发拘捕令](../pages/soh55/432436.md?t=10201551) 
 #### [习近平下令「备战」 美贝瑞号驱逐舰入台海 ](../pages/soh55/432310.md?t=10201551) 
 #### [美首次评估《香港自治法》制裁林郑等10名中港官员](../pages/soh55/432265.md?t=10201551) 
@@ -25,4 +25,4 @@
 #### [港传染病专家：冬季中共病毒或出现大爆发](../pages/soh55/431578.md?t=10201551) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/soh55-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/soh55-earlier.md?t=10201602)

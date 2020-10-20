@@ -3,15 +3,15 @@
 #### [人民日报：复方板蓝根无效 钟南山尴尬了(图)](../pages/p1/949766.md?t=10201551) 
 #### [五中全会前突爆雷？北京逾3000人集体抗议(组图)](../pages/p1/949767.md?t=10201551) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [赤壁维权者遭强制抽血 怒批北京侵犯人权(图)](../pages/p1/949734.md?t=10201551) 
 #### [中共文件曝光 结合网红抖音“洗脑人民”(图)](../pages/p1/949763.md?t=10201551) 
 #### [《国旗法》投票通过？官媒发文 中共崩溃(图)](../pages/p1/949753.md?t=10201551) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10201602) 
 #### [苏州天镜湖惊现“大型生物” 真相不明(图)](../pages/p1/949797.md?t=10201551) 
 #### [人民日报：复方板蓝根无效 钟南山尴尬了(图)](../pages/p1/949766.md?t=10201551) 
 #### [五中全会前突爆雷？北京逾3000人集体抗议(组图)](../pages/p1/949767.md?t=10201551) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10201602) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10201602)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10201602) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10201602) 
 #### [赤壁维权者遭强制抽血 怒批北京侵犯人权(图)](../pages/p1/949734.md?t=10201551) 
 #### [中共文件曝光 结合网红抖音“洗脑人民”(图)](../pages/p1/949763.md?t=10201551) 
 #### [中国士兵越境被俘 胡锡进急回“迷路啦”(图)](../pages/p1/949758.md?t=10201551) 
@@ -31,4 +31,4 @@
 #### [托福考试名额遭疯抢 民叹：不跑来不及了(图)](../pages/p1/949569.md?t=10201551) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/p1-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/p1-earlier.md?t=10201602)

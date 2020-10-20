@@ -3,15 +3,15 @@
 #### [山寨笑话 弯道超车不料弯道翻车(图)](../pages/p6/949575.md?t=10201551) 
 #### [西哈努克为何决定长住北京？(图)](../pages/p6/949274.md?t=10201551) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [不屈膝 不认输 中国历史上最有骨气的王朝(图)](../pages/p6/948695.md?t=10201551) 
 #### [林彪出逃前的最后7天发生了什么？(图)](../pages/p6/910316.md?t=10201551) 
 #### [中共林彪“平型关大捷”究竟歼灭多少日军？(组图)](../pages/p6/949013.md?t=10201551) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10201602) 
 #### [山寨笑话 弯道超车不料弯道翻车(图)](../pages/p6/949575.md?t=10201551) 
 #### [西哈努克为何决定长住北京？(图)](../pages/p6/949274.md?t=10201551) 
 #### [傻眼！“铁娘子”火拼“婊子陈” 江泽民猛敲桌(图)](../pages/p6/948667.md?t=10201551) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10201602) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10201602)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10201602) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10201602) 
 #### [不屈膝 不认输 中国历史上最有骨气的王朝(图)](../pages/p6/948695.md?t=10201551) 
 #### [林彪出逃前的最后7天发生了什么？(图)](../pages/p6/910316.md?t=10201551) 
 #### [真字显神威 长沙昆仑上高抗日大捷的奥秘(组图)](../pages/p6/945563.md?t=10201551) 
@@ -28,4 +28,4 @@
 #### [惊动蒋介石 文胆陈布雷的“共谍女儿”下场(图)](../pages/p6/948691.md?t=10201551) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/p6-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/p6-earlier.md?t=10201602)

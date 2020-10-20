@@ -3,15 +3,15 @@
 #### [【纪元特稿视频版】病毒针对共产党而来](../pages/nsc424/n11977328.md?t=10201551) 
 #### [【特稿】病毒针对共产党而来](../pages/nsc424/n11928818.md?t=10201551) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [【特稿】九评引领世界 人心觉醒暴政将亡](../pages/nsc424/n11660496.md?t=10201551) 
 #### [【特稿】没有国庆只有国殇 国人觉醒迎希望](../pages/nsc424/n11549354.md?t=10201551) 
 #### [【特稿】法轮功反迫害20年 和平抗暴唤良知](../pages/nsc424/n11389135.md?t=10201551) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10201602) 
 #### [【特稿】中国共产党是邪教组织](../pages/nsc424/n11355551.md?t=10201551) 
 #### [【特稿】欢迎举报江泽民等人权恶棍美国资产](../pages/nsc424/n11303040.md?t=10201551) 
 #### [【特稿】中共覆灭在即 勿依赖中共保权](../pages/nsc424/n11278510.md?t=10201551) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10201602) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10201602)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10201602) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10201602) 
 #### [【特稿】天命昭昭 美国觉醒 共产末日近](../pages/nsc424/n11150259.md?t=10201551) 
 #### [【千古英雄人物】韩信(7) 四面楚歌](../pages/nsc424/n7552608.md?t=10201551) 
 #### [【千古英雄人物】韩信(6) 忠心不二](../pages/nsc424/n7552572.md?t=10201551) 
@@ -65,4 +65,4 @@
 #### [【特稿】擒贼先擒王 抓江泽民稳定中国社会](../pages/nsc424/n4530296.md?t=10201551) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nsc424-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nsc424-earlier.md?t=10201602)

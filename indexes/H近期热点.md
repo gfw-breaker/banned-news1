@@ -3,15 +3,15 @@
 #### [美驻华大使就涉港法案警告北京:“美方正密切关注香港局势” ](../pages/soh186/316775.md?t=10201551) 
 #### [民主派胜选准议员联署声明 严正要求港府立即回应“五大诉求”](../pages/soh186/316529.md?t=10201551) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10201602) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [民阵召集人岑子杰：政府应立即做出的第一个让步](../pages/soh186/316481.md?t=10201551) 
 #### [香港区议会选举 天意难挡  民意难违 ](../pages/soh186/316259.md?t=10201551) 
 #### [移民、中东、苏格兰问题怎处理？英新相公布新政纲](../pages/soh186/287427.md?t=10201551) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10201602) 
 #### [三重压力 习近平可能要抓“大老虎”了?](../pages/soh186/261898.md?t=10201551) 
 #### [原中宣部副部长许立群文革被关押8年半](../pages/soh186/260045.md?t=10201551) 
 #### [原黑龙江省长李范五文革中挨整9年多](../pages/soh186/259762.md?t=10201551) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10201602) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10201602)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10201602) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10201602) 
 #### [原山东省公安厅厅长张国峰文革中被整死](../pages/soh186/259427.md?t=10201551) 
 #### [上海市长曹荻秋文革中被迫害致死](../pages/soh186/259309.md?t=10201551) 
 #### [【音频版】魔鬼在统治着我们的世界(16)：法律篇](../pages/soh186/259239.md?t=10201551) 
@@ -25,4 +25,4 @@
 #### [《共产主义黑皮书》第一部分 苏联的暴力、镇压和恐怖（39）](../pages/soh186/256729.md?t=10201551) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/soh186-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/soh186-earlier.md?t=10201602)
