@@ -480,5 +480,3 @@
 #### [病毒来源是武汉病毒所？美外交电报两年前曾示警](../pages/yataibaodao/rc-04152020102659.md)
 #### [IMF吁减免穷国债务 中国能否展现“大国担当”？](../pages/yataibaodao/rc-04142020110303.md)
 #### [Oslo Freedom Forum ](../pages/yataibaodao/rc-04132020100649.md)
-#### [美学者：中国除湖北外新冠感染者近三百万](../pages/yataibaodao/rc-04102020135751.md)
-#### [中国金援利率高    美智库忧疫情加剧债务国风险](../pages/yataibaodao/rc-04092020112632.md)
