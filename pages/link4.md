@@ -2,7 +2,7 @@
 
 ---
 
-#### 禁书推荐：[《九评共产党》](https://github.com/gfw-breaker/9ping.md1/blob/master/README.md) | [《解体党文化》](https://github.com/gfw-breaker/jtdwh.md/blob/master/README.md)
+#### 禁书推荐：[《九评共产党》](https://github.com/gfw-breaker/9ping.md1/blob/master/README.md) | [《解体党文化》](https://github.com/gfw-breaker/jtdwh.md/blob/master/README.md) | [《共产主义的终极目的》](https://github.com/gfw-breaker/gczydzjmd.md/blob/master/README.md)
 
 
 <img src='http://gfw-breaker.win/link4.md' width='0px' height='0px'/>
