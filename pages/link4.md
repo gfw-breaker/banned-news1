@@ -2,7 +2,7 @@
 
 ---
 
-#### [禁书下载 ](https://github.com/gfw-breaker/books/blob/master/README.md)
+### [禁书下载（不定期更新），敬请传阅](https://github.com/gfw-breaker/books/blob/master/README.md)
 
 
 <img src='http://gfw-breaker.win/link4.md' width='0px' height='0px'/>
