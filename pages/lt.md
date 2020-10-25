@@ -4,7 +4,7 @@
 
 ---
 
-#### [������ 武汉肺炎疫情](new/ogate.md?videos/corona/)
+#### [🔥 武汉肺炎疫情](new/ogate.md?videos/corona/)
 
 #### 热门喜剧：[揭秘央视运作喜剧《大裤衩》](new/ogate.md?videos/res/big-shorts/) &nbsp;|&nbsp;[揭秘红朝乱象喜剧《雷人水浒》](new/ogate.md?videos/res/OutlawsOfMarsh/) &nbsp;|&nbsp;[新唐人时事小品](new/ogate.md?videos/res/comedy/)
 
