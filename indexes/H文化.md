@@ -3,15 +3,15 @@
 #### [ 唐僧平顶山遭难 孙大圣与妖魔斗智斗勇仍着了道](../pages/soh3/415642.md?t=10261851) 
 #### [除了吃月饼 传统的中秋节还要做一件事 很多人都不知道了](../pages/soh3/426535.md?t=10261851) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [《西游记》故事新解12  五庄观行者窃人参果 被骂忍不住闯大祸 谁可解难？](../pages/soh3/412972.md?t=10261851) 
 #### [识不足则多虑 威不足则多怒 古训“八不足”告慰人生缺憾真谛](../pages/soh3/424996.md?t=10261851) 
 #### [知府断案竟然有神明相助 谁都欺骗不了他](../pages/soh3/421843.md?t=10261851) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10261902) 
 #### [叫化子想过正常人的生活 结果... 只能去西天问佛祖](../pages/soh3/244812.md?t=10261851) 
 #### [和珅既持免死遗诏 为何还被嘉庆所杀？遗诏这“3字”让他心凉](../pages/soh3/415147.md?t=10261851) 
 #### [一千多年前莲花生大士对现世惊人的预言  如今展现得淋漓尽致](../pages/soh3/218313.md?t=10261851) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10261902) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10261902)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10261902) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10261902) 
 #### [这块“定城砖”放了 600年无人敢动！原来奥秘在这里](../pages/soh3/274047.md?t=10261851) 
 #### [孔子问礼于老子后 三日沉默不语 三月闭门不出 最后老子说了一句话](../pages/soh3/238552.md?t=10261851) 
 #### [ 《西游记》故事新解 6  三藏刚出行 即遭四重难 悟空为徒性不羁 菩萨安排戴上如来紧箍儿](../pages/soh3/408946.md?t=10261851) 
@@ -25,4 +25,4 @@
 #### [姜子牙修了四十年 什么原因使他前功尽弃？ ](../pages/soh3/407905.md?t=10261851) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/soh3-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/soh3-earlier.md?t=10261902)

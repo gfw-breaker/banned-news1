@@ -3,15 +3,15 @@
 #### [华人房东因干这事被赶出屋 房子强制出售(图)](../pages/p3/950312.md?t=10261851) 
 #### [法国疫情第二波威胁已至 医院急救床位爆满(图)](../pages/p3/950323.md?t=10261851) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [翻译太离谱 共和党高层要取消谷歌中国人签证(图)](../pages/p3/950319.md?t=10261851) 
 #### [有驱逐令在身华人女子 豪骗300万挥霍(图)](../pages/p3/950282.md?t=10261851) 
 #### [疫情爆发后 全球护照实力排名大变动(图)](../pages/p3/950304.md?t=10261851) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10261902) 
 #### [美国男子错手买两张同号彩票 意外中头奖(图)](../pages/p3/950433.md?t=10261851) 
 #### [日本爷爷手作食物模型 成品逼真网友惊叹(图)](../pages/p3/950418.md?t=10261851) 
 #### [隔离期生日独自过？医护善举暖哭女孩(图)](../pages/p3/950415.md?t=10261851) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10261902) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10261902)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10261902) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10261902) 
 #### [美国最逼真万圣节民宅装扮 邻居打爆消防火警(图)](../pages/p3/950370.md?t=10261851) 
 #### [悉尼华女微信换汇 靠一招躲过骗局(图)](../pages/p3/950316.md?t=10261851) 
 #### [华人房东因干这事被赶出屋 房子强制出售(图)](../pages/p3/950312.md?t=10261851) 
@@ -30,4 +30,4 @@
 #### [惊：接种流感疫苗后 韩死亡人数不断增加(图)](../pages/p3/950160.md?t=10261851) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/p3-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/p3-earlier.md?t=10261902)

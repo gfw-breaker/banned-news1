@@ -3,15 +3,15 @@
 #### [【珍言真语】程翔：五中全会前欲赴京 林郑自辱](../pages/nsc415/n12500714.md?t=10261851) 
 #### [【役情最前线】电邮门当事人指证拜登](../pages/nsc415/n12497586.md?t=10261851) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [香港九成五青少年缺乏运动](../pages/nsc415/n12495661.md?t=10261851) 
 #### [汇丰铜狮复修后重新向公众展示](../pages/nsc415/n12495642.md?t=10261851) 
 #### [尼泊尔航空周二抵港航班九人确诊](../pages/nsc415/n12495640.md?t=10261851) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10261902) 
 #### [律师再吃闭门羹 全球撑十二港青下周日游行](../pages/nsc415/n12495613.md?t=10261851) 
 #### [国泰裁员被质疑填补期油亏损](../pages/nsc415/n12495589.md?t=10261851) 
 #### [【役情最前线】港龙停运 航权或入大湾区航空](../pages/nsc415/n12494821.md?t=10261851) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10261902) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10261902)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10261902) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10261902) 
 #### [【有冇搞错】中共为何力挺拜登？](../pages/nsc415/n12494715.md?t=10261851) 
 #### [【珍言真语】港龙停飞 前空姐追忆香港价值](../pages/nsc415/n12494189.md?t=10261851) 
 #### [区议员声援泰抗争遭警方发告票](../pages/nsc415/n12492635.md?t=10261851) 
@@ -65,4 +65,4 @@
 #### [中共党魁出行招风暴？香港8号风球悬挂](../pages/nsc415/n12473785.md?t=10261851) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nsc415-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nsc415-earlier.md?t=10261902)

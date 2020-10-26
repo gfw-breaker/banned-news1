@@ -3,15 +3,15 @@
 #### [山东小官成大贪 “贪图女色像著了魔”](../pages/prog1138/a102971914.md?t=10261851) 
 #### [朱镕基、王岐山接连现身 五中全会内斗疑见分晓](../pages/prog1138/a102971722.md?t=10261851) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [王友群：习近平在重大问题自相矛盾的根源何在](../pages/prog1138/a102971535.md?t=10261851) 
 #### [【拍案惊奇】五中会场突增军警 美提前投票火爆](../pages/prog1138/a102971470.md?t=10261851) 
 #### [沈舟：中共高层或正在重演一场甲午战争](../pages/prog1138/a102971401.md?t=10261851) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10261902) 
 #### [王岐山露面江泽民老巢 喊话牵出逾万亿金融诈骗案](../pages/prog1138/a102971378.md?t=10261851) 
 #### [五中全会前 公安部十二局局长疑被贬](../pages/prog1138/a102971380.md?t=10261851) 
 #### [五中全会前打虎 薄王余党江苏政法头子投案](../pages/prog1138/a102971295.md?t=10261851) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10261902) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10261902)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10261902) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10261902) 
 #### [【十字路口】习近平讲话充满敌意与杀气 美中台要开战？](../pages/prog1138/a102971001.md?t=10261851) 
 #### [五中前夕 朱镕基突然“露面”](../pages/prog1138/a102971023.md?t=10261851) 
 #### [五中前王岐山高调致辞 陈敏尔后院再起火](../pages/prog1138/a102971000.md?t=10261851) 
@@ -34,4 +34,4 @@
 #### [王友群：王岐山将被打倒？林彪事件将重演？](../pages/prog1138/a102968144.md?t=10261851) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog1138-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog1138-earlier.md?t=10261902)

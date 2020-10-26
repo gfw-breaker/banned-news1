@@ -3,15 +3,15 @@
 #### [中國製無人機展示飛行突墜毀 畫面曝光(图/視頻)](../pages/p1/950411.md?t=10261851) 
 #### [传中共争议边境地抓人 20名印兵被掳走(组图)](../pages/p1/950394.md?t=10261851) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [大陆多地接连突发火灾(组图)](../pages/p1/950369.md?t=10261851) 
 #### [博明批中国统战 称骗术不总是有效(图)](../pages/p1/950383.md?t=10261851) 
 #### [新疆喀什突增137例无症状感染者 启动一级响应(图)](../pages/p1/950387.md?t=10261851) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10261902) 
 #### [红色恐怖？新疆妇女因说疫情封城被捕(图)](../pages/p1/950445.md?t=10261851) 
 #### [国产韩战电影《金刚川》上映 疑是“反美宣传”(图)](../pages/p1/950425.md?t=10261851) 
 #### [陕西人权律师曝曾遭酷刑 发布不自杀声明(图)](../pages/p1/950372.md?t=10261851) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10261902) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10261902)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10261902) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10261902) 
 #### [中國製無人機展示飛行突墜毀 畫面曝光(图/視頻)](../pages/p1/950411.md?t=10261851) 
 #### [毛岸英忌日 美食家上传影片惨遭小粉红出征(图)](../pages/p1/950400.md?t=10261851) 
 #### [传中共争议边境地抓人 20名印兵被掳走(组图)](../pages/p1/950394.md?t=10261851) 
@@ -31,4 +31,4 @@
 #### [黄继光穿越回去炸碉堡？网友：太扯(图)](../pages/p1/950150.md?t=10261851) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/p1-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/p1-earlier.md?t=10261902)

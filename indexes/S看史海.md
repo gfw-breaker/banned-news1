@@ -3,15 +3,15 @@
 #### [【千古一帝秦始皇】之二十一：铭功会稽岭 骋望琅琊台(图)](../pages/p6/948595.md?t=10261851) 
 #### [霉暗！“抗美援朝”的真实动机(图)](../pages/p6/950294.md?t=10261851) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [宋仁宗为何不能随便给后宫嫔妃加薪？(图)](../pages/p6/949827.md?t=10261851) 
 #### [八件事证明 中国人现在什么都不信了(图)](../pages/p6/950204.md?t=10261851) 
 #### [恩仇蒋中正：台湾光复节感言(图)](../pages/p6/948697.md?t=10261851) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10261902) 
 #### [铁流：毛泽东秘书田家英为何走上自杀路？(图)](../pages/p6/941023.md?t=10261851) 
 #### [伪史！遵义会议确立了毛对全党全军的领导？（下）(图)](../pages/p6/949961.md?t=10261851) 
 #### [【千古一帝秦始皇】之二十一：铭功会稽岭 骋望琅琊台(图)](../pages/p6/948595.md?t=10261851) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10261902) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10261902)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10261902) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10261902) 
 #### [霉暗！“抗美援朝”的真实动机(图)](../pages/p6/950294.md?t=10261851) 
 #### [宋仁宗为何不能随便给后宫嫔妃加薪？(图)](../pages/p6/949827.md?t=10261851) 
 #### [八件事证明 中国人现在什么都不信了(图)](../pages/p6/950204.md?t=10261851) 
@@ -30,4 +30,4 @@
 #### [荒唐故事：12岁“童右”反党 获吉尼斯金牌(图)](../pages/p6/948694.md?t=10261851) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/p6-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/p6-earlier.md?t=10261902)

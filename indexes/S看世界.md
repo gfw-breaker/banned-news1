@@ -3,15 +3,15 @@
 #### [人民还信？朝鲜首部“金正恩长篇小说”(图)](../pages/p9/950272.md?t=10261851) 
 #### [朝鲜警告 来自中国的粉尘或携带中共病毒(图)](../pages/p9/950305.md?t=10261851) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [怕病毒从中国飘来 朝鲜街头出现奇怪景象(图)](../pages/p9/950248.md?t=10261851) 
 #### [朝鲜网络盗窃发展核武 美：关键在北京？(图)](../pages/p9/950158.md?t=10261851) 
 #### [北京拿台湾问题自砸 印媒冷嘲令中使馆尴尬(图)](../pages/p9/950366.md?t=10261851) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10261902) 
 #### [意大利总统总理发言人中共病毒检测阳性(图)](../pages/p9/950417.md?t=10261851) 
 #### [非初犯 这国大使曝斐济事件北京霸凌恐吓(图)](../pages/p9/950363.md?t=10261851) 
 #### [韩国医保受益外国人中七成是中国人(图)](../pages/p9/950416.md?t=10261851) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10261902) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10261902)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10261902) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10261902) 
 #### [禁止核武器条约获50国批准 明年1月生效(图)](../pages/p9/950414.md?t=10261851) 
 #### [人民还信？朝鲜首部“金正恩长篇小说”(图)](../pages/p9/950272.md?t=10261851) 
 #### [朝鲜警告 来自中国的粉尘或携带中共病毒(图)](../pages/p9/950305.md?t=10261851) 
@@ -29,4 +29,4 @@
 #### [习近平重提抗美援朝 数年间中美朝关系异变(图)](../pages/p9/950177.md?t=10261851) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/p9-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/p9-earlier.md?t=10261902)

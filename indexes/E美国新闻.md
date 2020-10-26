@@ -3,15 +3,15 @@
 #### [时代广场挺川活动遇左派捣乱 引发混战](../pages/nsc412/n12501910.md?t=10261851) 
 #### [大纪元回应纽时不实报导：轻事实 重偏见](../pages/nsc412/n12501780.md?t=10261851) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [旧金山东湾民众 支持“终结中共”](../pages/nsc412/n12501864.md?t=10261851) 
 #### [低价收购粮食券 华人超市老板认罪](../pages/nsc412/n12501927.md?t=10261851) 
 #### [涉伪造邮资骗5万美元 宾州华男被控](../pages/nsc412/n12501908.md?t=10261851) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10261902) 
 #### [严真点评&外交部大实话：川普冲刺 习总动员](../pages/nsc412/n12501734.md?t=10261851) 
 #### [美卫生官员：封锁抗疫下 因阿片类药死亡增加](../pages/nsc412/n12501698.md?t=10261851) 
 #### [【川普集会】威斯康星州民众：受益于经济繁荣](../pages/nsc412/n12501673.md?t=10261851) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10261902) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10261902)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10261902) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10261902) 
 #### [美大法官确认及其影响 需要了解哪些事](../pages/nsc412/n12501456.md?t=10261851) 
 #### [华人超市为顾客量体温 非裔不从动手打人](../pages/nsc412/n12501424.md?t=10261851) 
 #### [“台湾长照产业视讯研习课程” 欢迎意者线上报名](../pages/nsc412/n12501255.md?t=10261851) 
@@ -65,4 +65,4 @@
 #### [对抗中共渔船骚扰 美国西太平洋部署巡防舰](../pages/nsc412/n12498705.md?t=10261851) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nsc412-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nsc412-earlier.md?t=10261902)

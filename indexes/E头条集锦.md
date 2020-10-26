@@ -3,15 +3,15 @@
 #### [【最新疫情10.26】纽约病例总数破50万](../pages/nf4514/n12498257.md?t=10261851) 
 #### [大纪元回应纽时不实报导：轻事实 重偏见](../pages/nf4514/n12501780.md?t=10261851) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [美大法官确认及其影响 需要了解哪些事](../pages/nf4514/n12501456.md?t=10261851) 
 #### [魔鬼在统治着我们的世界(18)：教育篇(上)](../pages/nf4514/n10526970.md?t=10261851) 
 #### [中共“转化洗脑”下的血案惨案（3）](../pages/nf4514/n12501394.md?t=10261851) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10261902) 
 #### [【独家】1年抗议逾百起 湛江防民如防川](../pages/nf4514/n12493565.md?t=10261851) 
 #### [钟原：中共党媒报导美国大选左右为难](../pages/nf4514/n12501155.md?t=10261851) 
 #### [【最新疫情10·25】中共病毒变种 远距离可感染](../pages/nf4514/n12485079.md?t=10261851) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10261902) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10261902)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10261902) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10261902) 
 #### [美参议院投票 清除大法官确认的主要障碍](../pages/nf4514/n12501226.md?t=10261851) 
 #### [保加利亚欧洲三国与美签署5G安全协议](../pages/nf4514/n12501135.md?t=10261851) 
 #### [中共网路审查 80后亲述发推特被捕经历](../pages/nf4514/n12501132.md?t=10261851) 
@@ -65,4 +65,4 @@
 #### [最新翻墙软件 突破封锁访问大纪元新唐人](../pages/nf4514/n11971400.md?t=10261851) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nf4514-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nf4514-earlier.md?t=10261902)

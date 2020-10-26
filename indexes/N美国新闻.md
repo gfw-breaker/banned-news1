@@ -3,15 +3,15 @@
 #### [川普俄州集会 法律与秩序获得民众支持](../pages/prog203/a102971967.md?t=10261851) 
 #### [大纪元回应纽时不实报导：轻事实 重偏见](../pages/prog203/a102971933.md?t=10261851) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [亨特“电邮门”14岁少女曝光 美媒:他哥的女儿](../pages/prog203/a102971858.md?t=10261851) 
 #### [拜登丑闻曝光 “可以更改投票吗”成谷歌热搜](../pages/prog203/a102971845.md?t=10261851) 
 #### [朱镕基、王岐山接连现身 五中全会内斗疑见分晓](../pages/prog203/a102971722.md?t=10261851) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10261902) 
 #### [【禁闻】博明批中共统战渗透 吁各国警惕抵制](../pages/prog203/a102971687.md?t=10261851) 
 #### [亨特不雅视频曝光  疑涉未成年家族成员](../pages/prog203/a102971637.md?t=10261851) 
 #### [川普新罕布什尔州集会 第二任期会持续减税](../pages/prog203/a102971648.md?t=10261851) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10261902) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10261902)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10261902) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10261902) 
 #### [涉审查言论干预大选 社交媒体大佬需面对立法者质询](../pages/prog203/a102971642.md?t=10261851) 
 #### [疑似讲台上藏iPad 拜登被指辩论会上又作弊（图）](../pages/prog203/a102971611.md?t=10261851) 
 #### [【重播】川普在新罕布什尔州发表演讲（同声翻译）](../pages/prog203/a102971604.md?t=10261851) 
@@ -35,4 +35,4 @@
 #### [美国大选结果何时出炉 各州选票差距是关键](../pages/prog203/a102970842.md?t=10261851) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog203-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog203-earlier.md?t=10261902)

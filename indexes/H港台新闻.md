@@ -3,15 +3,15 @@
 #### [全球逾30城市集会 声援12名「送中」港人呼声响彻全球](../pages/soh55/435943.md?t=10261851) 
 #### [“被窒息的自由”聚焦中共压迫宗教 朱婉琪：勇于揭恶才是真正向善](../pages/soh55/435808.md?t=10261851) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [唇齿相依 公民团体台北集气吁释放12港人 ](../pages/soh55/435802.md?t=10261851) 
 #### [港大新副校长身份太敏感 外界质疑遭Now新闻台两度删除](../pages/soh55/435793.md?t=10261851) 
 #### [港龙航空破产停航 “成龙魔咒”再次应验？](../pages/soh55/435628.md?t=10261851) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10261902) 
 #### [美国防部前亚太助理部长：美国不会抛弃台湾](../pages/soh55/435457.md?t=10261851) 
 #### [港大拟聘中共党员任副校长 郑家郎：染红的未来只怕不远](../pages/soh55/435334.md?t=10261851) 
 #### [杀人疑犯陈同佳迟迟未能投案 议员促港府采取务实行动](../pages/soh55/435217.md?t=10261851) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10261902) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10261902)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10261902) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10261902) 
 #### [「挺台重返联合国、定罪中共」 白宫请愿连署速达标](../pages/soh55/435133.md?t=10261851) 
 #### [与美签署新导弹协议  台湾称“无意与中共军备竞赛”](../pages/soh55/435064.md?t=10261851) 
 #### [民调： 港新闻自由度跌至回归以来新低](../pages/soh55/434986.md?t=10261851) 
@@ -25,4 +25,4 @@
 #### [涉嫌中共间谍活动 台湾三名退伍军官遭政府调查](../pages/soh55/434236.md?t=10261851) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/soh55-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/soh55-earlier.md?t=10261902)

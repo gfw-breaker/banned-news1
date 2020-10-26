@@ -3,15 +3,15 @@
 #### [参与迫害法轮功 中共警察遭厄运实例](../pages/prog424/a102971867.md?t=10261851) 
 #### [【禁闻】五部门绝密文件 曝中共群体灭绝罪证据](../pages/prog424/a102971658.md?t=10261851) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [冤狱6年 7旬法轮功学员杨德英被迫流离失所](../pages/prog424/a102970762.md?t=10261851) 
 #### [退休金被扣9年 西南医大8旬教授申请信息公开](../pages/prog424/a102970759.md?t=10261851) 
 #### [【传奇时代】通往天安门的旅程（中）](../pages/prog424/a102970169.md?t=10261851) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10261902) 
 #### [【传奇时代】通往天安门的旅程（下）](../pages/prog424/a102970163.md?t=10261851) 
 #### [洛法轮功学员呼吁大连检察院：释放任海飞](../pages/prog424/a102969857.md?t=10261851) 
 #### [【中共百种酷刑】吊铐](../pages/prog424/a102969827.md?t=10261851) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10261902) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10261902)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10261902) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10261902) 
 #### [博登湖畔 三国民众声援法轮功学员反中共迫害](../pages/prog424/a102969803.md?t=10261851) 
 #### [绝密证据曝光中共群体灭绝罪](../pages/prog424/a102969446.md?t=10261851) 
 #### [隋志：误解有冰释之日 及时醒悟不嫌晚](../pages/prog424/a102968950.md?t=10261851) 
@@ -34,4 +34,4 @@
 #### [中共为何强行火化他们的遗体（14）](../pages/prog424/a102962893.md?t=10261851) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog424-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog424-earlier.md?t=10261902)

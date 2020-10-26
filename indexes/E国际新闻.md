@@ -3,15 +3,15 @@
 #### [【最新疫情10.26】纽约病例总数破50万](../pages/nsc418/n12498257.md?t=10261851) 
 #### [美国宣布亚美尼亚与阿塞拜疆新停火协议](../pages/nsc418/n12502344.md?t=10261851) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [抗共大事记：美国与北约布局 遏制中共 (10/19-10/25)](../pages/nsc418/n12501435.md?t=10261851) 
 #### [印度向缅甸提供潜艇 制衡中共在区域影响力](../pages/nsc418/n12501896.md?t=10261851) 
 #### [4个年薪9万以上远程工作 可在任何地方上班](../pages/nsc418/n12471686.md?t=10261851) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10261902) 
 #### [【最新疫情10·25】中共病毒变种 远距离可感染](../pages/nsc418/n12485079.md?t=10261851) 
 #### [塞舌尔总统大选 反对党四十三年首胜 美国祝贺](../pages/nsc418/n12501018.md?t=10261851) 
 #### [组图：盘点世界著名的城市广场](../pages/nsc418/n12500607.md?t=10261851) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10261902) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10261902)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10261902) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10261902) 
 #### [基地组织二号头目被击毙 美反恐中心证实](../pages/nsc418/n12500768.md?t=10261851) 
 #### [蓬佩奥宣布向苏丹提供8100万美元人道援助](../pages/nsc418/n12500646.md?t=10261851) 
 #### [不理北京恐吓 捷克社会继续维护自由人权](../pages/nsc418/n12500500.md?t=10261851) 
@@ -65,4 +65,4 @@
 #### [组图：全球最好的十所大学及其最好的专业](../pages/nsc418/n12490249.md?t=10261851) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nsc418-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nsc418-earlier.md?t=10261902)

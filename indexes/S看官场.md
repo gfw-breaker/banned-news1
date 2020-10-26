@@ -3,15 +3,15 @@
 #### [王岐山朱镕基曝光 拥美派占上风？(图)](../pages/p2/950434.md?t=10261851) 
 #### [中共五中全会登场 五大看点值得关注(图)](../pages/p2/950424.md?t=10261851) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [曾劝习近平抓江泽民 罗瑞卿之子罗宇在美去世(图)](../pages/p2/950375.md?t=10261851) 
 #### [新华社社长蔡名照被免职 传曾出轨实习生遭捉奸(图)](../pages/p2/950359.md?t=10261851) 
 #### [五中全会前 朱镕基“露面”庆生引猜测(组图)](../pages/p2/950342.md?t=10261851) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10261902) 
 #### [传王立科为保家人主动投案 妻子特别漂亮与薄王有染(图)](../pages/p2/950461.md?t=10261851) 
 #### [街道小官贪逾两千万 自曝“像着魔一样贪图女色”(图)](../pages/p2/950428.md?t=10261851) 
 #### [王岐山朱镕基曝光 拥美派占上风？(图)](../pages/p2/950434.md?t=10261851) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10261902) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10261902)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10261902) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10261902) 
 #### [中共五中全会登场 五大看点值得关注(图)](../pages/p2/950424.md?t=10261851) 
 #### [【中国时局】五中全会有大佬陨落？(图)](../pages/p2/950349.md?t=10261851) 
 #### [曾劝习近平抓江泽民 罗瑞卿之子罗宇在美去世(图)](../pages/p2/950375.md?t=10261851) 
@@ -29,4 +29,4 @@
 #### [中共公安部局长疑遭贬 调任湖南民政厅书记(图)](../pages/p2/950238.md?t=10261851) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/p2-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/p2-earlier.md?t=10261902)

@@ -3,15 +3,15 @@
 #### [国际大赛 中共无人直升机坠毁起火](../pages/prog204/a102972038.md?t=10261851) 
 #### [苹果手机压倒“抗美援朝” 商店样品被摸到掉漆](../pages/prog204/a102972011.md?t=10261851) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [【热门话题】五中全会开幕 党媒报导仅112字](../pages/prog204/a102971965.md?t=10261851) 
 #### [【疫情更新31】秋冬瘟疫恐爆发 新疆喀什一夜暴增137例](../pages/prog204/a102966143.md?t=10261851) 
 #### [北京气氛诡异！五中全会开幕 党媒报导仅112字](../pages/prog204/a102971944.md?t=10261851) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10261902) 
 #### [秋冬瘟疫恐爆发 大陆专家揭新疆疫情成因](../pages/prog204/a102971925.md?t=10261851) 
 #### [山东小官成大贪 “贪图女色像著了魔”](../pages/prog204/a102971914.md?t=10261851) 
 #### [李嘉诚豪掷90亿欧元 投资欧洲又一项目](../pages/prog204/a102971895.md?t=10261851) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10261902) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10261902)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10261902) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10261902) 
 #### [设计院工程师 法轮功学员毛伟被迫害离世](../pages/prog204/a102971879.md?t=10261851) 
 #### [参与迫害法轮功 中共警察遭厄运实例](../pages/prog204/a102971867.md?t=10261851) 
 #### [中国粮荒来临？产粮大省涨价通知曝光](../pages/prog204/a102971758.md?t=10261851) 
@@ -33,4 +33,4 @@
 #### [最新民调：若中共攻台 近八成台湾人愿奋力一战](../pages/prog204/a102971425.md?t=10261851) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog204-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog204-earlier.md?t=10261902)

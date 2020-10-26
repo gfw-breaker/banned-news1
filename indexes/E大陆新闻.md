@@ -3,15 +3,15 @@
 #### [中共网络审查大曝光 侵犯网民权利超伊朗](../pages/nsc413/n12491725.md?t=10261851) 
 #### [五中全会首日戒备森严 信访局却人山人海](../pages/nsc413/n12502025.md?t=10261851) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [昆明火车北站地铁站冒烟雾 传40多人被困](../pages/nsc413/n12502380.md?t=10261851) 
 #### [中共吹捧韩战电影《金刚川》进行反美宣传](../pages/nsc413/n12502427.md?t=10261851) 
 #### [大陆学者：制度缺陷导致大陆贫富差距拉大](../pages/nsc413/n12501523.md?t=10261851) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10261902) 
 #### [中国制“掠夺者”无人直升机表演时坠毁](../pages/nsc413/n12502141.md?t=10261851) 
 #### [民进党：为伸张公义民主价值 力挺香港自由](../pages/nsc413/n12501835.md?t=10261851) 
 #### [大纪元回应纽时不实报导：轻事实 重偏见](../pages/nsc413/n12501780.md?t=10261851) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10261902) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10261902)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10261902) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10261902) 
 #### [中共肺炎疫情升温 新疆喀什4地列高风险区](../pages/nsc413/n12501890.md?t=10261851) 
 #### [特斯拉中国召回近5万辆车 律师：被强迫召回](../pages/nsc413/n12501457.md?t=10261851) 
 #### [严真点评&外交部大实话：川普冲刺 习总动员](../pages/nsc413/n12501734.md?t=10261851) 
@@ -63,4 +63,4 @@
 #### [A股全线走低 长春高新领跌 疫苗股集体闪崩](../pages/nsc413/n12497829.md?t=10261851) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nsc413-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nsc413-earlier.md?t=10261902)

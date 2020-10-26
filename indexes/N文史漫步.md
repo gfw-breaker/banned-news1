@@ -3,15 +3,15 @@
 #### [重阳疫灾启悟 古今中外神仙指路趋吉避凶](../pages/prog647/a102971804.md?t=10261851) 
 #### [【西游义趣】之三：唐僧宝象国逢难](../pages/prog647/a102971780.md?t=10261851) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [超级英雄也耍猴](../pages/prog647/a102970747.md?t=10261851) 
 #### [《圣经》与《推背图》预言的应验与变换3](../pages/prog647/a102970733.md?t=10261851) 
 #### [【西游义趣】之二：一个信念贯穿沙僧的前世今生](../pages/prog647/a102970109.md?t=10261851) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10261902) 
 #### [轮回转生名案：4岁娃难忘前生情 丈夫儿子来相认](../pages/prog647/a102969839.md?t=10261851) 
 #### [【西安事变‧蒋宋夫妇】引狼入室 西安谋主](../pages/prog647/a102969835.md?t=10261851) 
 #### [廉洁自生威 贪赃最胆怯](../pages/prog647/a102968880.md?t=10261851) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10261902) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10261902)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10261902) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10261902) 
 #### [“一刀两断”两种迥然的结局](../pages/prog647/a102968876.md?t=10261851) 
 #### [【 南北战争第25集】南北战争和平收尾 福特剧院杀机四伏 林肯却走向命运转折点](../pages/prog647/a102968790.md?t=10261851) 
 #### [不是“无商不奸” 而是“无商不尖”](../pages/prog647/a102968073.md?t=10261851) 
@@ -35,4 +35,4 @@
 #### [《后汉书》奇闻：刑具自落 亡灵报恩](../pages/prog647/a102962873.md?t=10261851) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog647-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog647-earlier.md?t=10261902)

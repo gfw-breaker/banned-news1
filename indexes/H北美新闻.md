@@ -3,15 +3,15 @@
 #### [来美大陆工程师谈美国大选和中共](../pages/soh6/435853.md?t=10261851) 
 #### [辩论又作弊？ 拜登讲台被发现藏iPad](../pages/soh6/435919.md?t=10261851) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10261902) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [美参院微弱优势批准 周一晚对巴雷特法官的核准进行投票](../pages/soh6/435835.md?t=10261851) 
 #### [弃用化石燃料 拜登矛盾说辞引关注](../pages/soh6/435841.md?t=10261851) 
 #### [金里奇：川普继续在三方面进攻就能获胜](../pages/soh6/435823.md?t=10261851) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10261902) 
 #### [美共和党策略师：三大原因助川普再次入主白宫](../pages/soh6/435799.md?t=10261851) 
 #### [拜登说儿子没从中共拿钱 美资深参议员斥撒谎并贴出证据](../pages/soh6/435298.md?t=10261851) 
 #### [阿拉斯加参议员转为支持巴雷特法官提名](../pages/soh6/435697.md?t=10261851) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10261902) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10261902)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10261902) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10261902) 
 #### [美总统大选结果11月3日能揭晓吗？专家：不一定](../pages/soh6/435610.md?t=10261851) 
 #### [推巴雷特大法官确认进程 参院罕见增加周六辩论](../pages/soh6/435601.md?t=10261851) 
 #### [川普：成功连任后将对中共做很多事 等著瞧！](../pages/soh6/435577.md?t=10261851) 
@@ -24,4 +24,4 @@
 #### [帮助川普快速恢复的“瑞德西韦”被美国FDA批准广泛使用](../pages/soh6/435274.md?t=10261851) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md?t=10261902)
