@@ -1,3 +1,4 @@
+#### [专栏 | 中国透视：纪念赵紫阳诞辰百年](../pages/zhongguotoushi/panel-10172019123156.md)
 #### [专栏 | 中国透视：中共庆典中的“八旗子弟”心态](../pages/zhongguotoushi/panel-10102019155244.md)
 #### [专栏 | 中国透视：北京阅兵与香港抗争](../pages/zhongguotoushi/panel-10032019154355.md)
 #### [专栏 | 中国透视：“党天下”的血腥奠基礼——土改——《重审毛泽东土地改革》国际研讨会观察](../pages/zhongguotoushi/panel-09252019144637.md)
