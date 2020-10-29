@@ -480,5 +480,3 @@
 #### [评论 | 傅申奇：   全过程的民主](../pages/pinglun/fushenqi-11042019115752.md)
 #### [评论 | 傅申奇： 柏林墙倒塌三十年](../pages/pinglun/fushenqi-11042019115129.md)
 #### [评论 | 傅申奇： 末日景象](../pages/pinglun/fushenqi-03022020122311.md)
-#### [评论 | 傅申奇： 大国战“疫”](../pages/pinglun/fushenqi-03022020120829.md)
-#### [评论 | 傅申奇： 中共的末日  中国的新生](../pages/pinglun/fushenqi-02052020111944.md)
