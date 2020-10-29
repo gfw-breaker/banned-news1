@@ -480,4 +480,3 @@
 #### [评论 | 傅申奇： 末日景象](../pages/pinglun/fushenqi-03022020122311.md)
 #### [评论 | 傅申奇： 大国战“疫”](../pages/pinglun/fushenqi-03022020120829.md)
 #### [评论 | 傅申奇： 中共的末日  中国的新生](../pages/pinglun/fushenqi-02052020111944.md)
-#### [评论 | 傅申奇：专制暴政的丧钟](../pages/pinglun/fushenqi-01062020100852.md)
