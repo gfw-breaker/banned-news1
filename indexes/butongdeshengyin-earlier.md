@@ -1,3 +1,4 @@
+#### [专栏 | 不同的声音：习近平的三软三硬三罕见  及马英九的8.10“终战诏书”](../pages/butongdeshengyin/jkdv-09042020143347.md)
 #### [专栏 | 不同的声音：香港学生领袖 “众志”秘书长黄之锋台北演讲](../pages/butongdeshengyin/jkdv-09042019154401.md)
 #### [专栏 | 不同的声音：既是同舟 狮子山下且共济](../pages/butongdeshengyin/jkdv-08292019144139.md)
 #### [专栏 | 不同的声音：退休仍说良心话  反习不发养老金](../pages/butongdeshengyin/jkdv-08272020115453.md)
