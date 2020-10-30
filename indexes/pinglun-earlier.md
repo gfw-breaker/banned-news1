@@ -480,4 +480,3 @@
 #### [评论 | 傅申奇：民主和文明的胜利](../pages/pinglun/fushenqi-12022019120151.md)
 #### [评论 | 傅申奇：   全过程的民主](../pages/pinglun/fushenqi-11042019115752.md)
 #### [评论 | 傅申奇： 柏林墙倒塌三十年](../pages/pinglun/fushenqi-11042019115129.md)
-#### [评论 | 傅申奇： 末日景象](../pages/pinglun/fushenqi-03022020122311.md)
