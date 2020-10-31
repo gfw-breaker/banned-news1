@@ -1,11 +1,27 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-
-### 已转移至新页面 [北美新闻](H北美新闻.md?t=11010251) 
-
+#### [拜登丑闻证人：掩盖真相的媒体会受历史的审判](../pages/soh6/438010.md?t=11010302) 
+#### [民主党搞乱纽约 法拉盛华商支持川普](../pages/soh6/438001.md?t=11010302) 
+#### [证据再现！亨特合伙人要拜登出马 促成百亿美元交易](../pages/soh6/437995.md?t=11010302) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [【视频】川普总统10月31日在宾州发表特别演讲](../pages/soh6/437992.md?t=11010302) 
+#### [美国媒体人分析摇摆州为何从蓝变红](../pages/soh6/437467.md?t=11010302) 
+#### [伊拉克移民：神选川普 勿让社会主义夺走美国](../pages/soh6/437986.md?t=11010302) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [最新爆料！脸书CEO扎克伯格或与拜登家族丑闻有染](../pages/soh6/437983.md?t=11010302) 
+#### [纽约华人医师谈美国梦  不想看到被共产党侵染](../pages/soh6/437887.md?t=11010302) 
+#### [章天亮:V闪当空 女巫布咒 大选是人间选举还是正邪较量？](../pages/soh6/437824.md?t=11010302) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [大选期间人手不足 多州考虑部署国民卫队](../pages/soh6/437779.md?t=11010302) 
+#### [微信拍照窃取机密 中企能源公司及个人遭美起诉](../pages/soh6/437764.md?t=11010302) 
+#### [批评拜登文章被删《拦截报》著名创报人愤然辞职](../pages/soh6/437713.md?t=11010302) 
+#### [美国大选谁主沉浮？且看六大摇摆州战况详解](../pages/soh6/437743.md?t=11010302) 
+#### [对拜登家族丑闻指控的13个证据](../pages/soh6/437731.md?t=11010302) 
+#### [美警察协会发言人：安提法类似伊斯兰恐怖组织](../pages/soh6/437719.md?t=11010302) 
+#### [最高法院裁定：北卡州缺席选票大选后9天仍可被计票](../pages/soh6/437683.md?t=11010302) 
+#### [希望之声美国大选全程直播 众星云集不容错过](../pages/soh6/437695.md?t=11010302) 
+#### [传统蓝州地位不稳 川普与拜登周五在明尼苏达“对决”](../pages/soh6/437689.md?t=11010302) 
+#### [川普的非裔支持率涨至31% 创几十年来历史新高 ](../pages/soh6/437686.md?t=11010302) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
