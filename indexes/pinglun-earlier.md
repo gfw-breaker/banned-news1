@@ -480,5 +480,3 @@
 #### [评论 | 何清涟：透过数据看中国的粮食安全](../pages/pinglun/heqinglian-08172020103246.md)
 #### [评论 | 何清涟： 群聚感染：中国急于复工的灾难性后果](../pages/pinglun/heqinglian-02172020112630.md)
 #### [评论 | 傅申奇：光复大陆、时代革命](../pages/pinglun/fushenqi-12022019121511.md)
-#### [评论 | 傅申奇：民主和文明的胜利](../pages/pinglun/fushenqi-12022019120151.md)
-#### [评论 | 傅申奇：   全过程的民主](../pages/pinglun/fushenqi-11042019115752.md)
