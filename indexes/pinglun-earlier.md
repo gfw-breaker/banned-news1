@@ -480,5 +480,3 @@
 #### [评论 | 何清涟：哀香港](../pages/pinglun/hk-06032020103452.md)
 #### [评论 | 何清涟：2019年中国年度汉字：幻](../pages/pinglun/heqinglian-12302019123401.md)
 #### [评论 | 何清涟：台湾大选中的中美“影响力作战”](../pages/pinglun/heqinglian-12232019122542.md)
-#### [评论 | 何清涟：“多佛惨案”再现，只缘制度利差](../pages/pinglun/heqinglian-10282019062424.md)
-#### [评论 | 何清涟：透过数据看中国的粮食安全](../pages/pinglun/heqinglian-08172020103246.md)
