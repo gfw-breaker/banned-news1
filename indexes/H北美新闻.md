@@ -1,11 +1,27 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-
-### 已转移至新页面 [北美新闻](H北美新闻.md?t=11030802) 
-
+#### [因民主党太偏左 宾州民主党人投票支持川普](../pages/soh6/438679.md?t=11030851) 
+#### [川普大选前签署行政令 向学生普及美国立国之本](../pages/soh6/438673.md?t=11030851) 
+#### [资深参议员： 亨特涉丑闻或是奥巴马没挺拜登之因](../pages/soh6/438676.md?t=11030851) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [如果为了“政治正确”选总统 将是全体美国人的悲哀](../pages/soh6/438664.md?t=11030851) 
+#### [专家预测1.6亿人将参加今年大选 1900年来之最](../pages/soh6/438634.md?t=11030851) 
+#### [上千华人投川普  希望美国会更好](../pages/soh6/438652.md?t=11030851) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [美新晋大法官巴雷特受理首个最高法院案件](../pages/soh6/438643.md?t=11030851) 
+#### [纽约最大汽车游行 各族裔民众: 挺川不要社会主义](../pages/soh6/438646.md?t=11030851) 
+#### [拜登丑闻新进展！亨特被国家法律政策中心起诉 ](../pages/soh6/438631.md?t=11030851) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [大主教致信川普：正邪大战中 全能的主将帮助您](../pages/soh6/438589.md?t=11030851) 
+#### [贺锦丽也涉拜登丑闻？拜登家企业电邮列她为重要联络人](../pages/soh6/438607.md?t=11030851) 
+#### [美政要抨击FBI调查德州川普支持者](../pages/soh6/438577.md?t=11030851) 
+#### [“川普已经赢了！” 民调：川普将压倒性获胜](../pages/soh6/438538.md?t=11030851) 
+#### [美大选倒计时 参议员：拜登丑闻缠身 不应竞选总统](../pages/soh6/438562.md?t=11030851) 
+#### [美老牌媒体也转向！赞川普挺美国 批拜登太脆弱](../pages/soh6/438469.md?t=11030851) 
+#### [川普精力充沛 周日在五个州举行选举集会](../pages/soh6/438421.md?t=11030851) 
+#### [亨特笔电安全性太差！美总统内阁、国会领袖资料全曝光](../pages/soh6/438334.md?t=11030851) 
+#### [纽约中华公所主席于金山: 华人一定要投下这一票](../pages/soh6/438382.md?t=11030851) 
+#### [川普车队包围“护驾” 拜登团队取消德州数项活动](../pages/soh6/438325.md?t=11030851) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
