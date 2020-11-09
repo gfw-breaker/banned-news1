@@ -1,3 +1,4 @@
+#### [专栏 | 夜话中南海：正是顾顺章的叛变改写历史成就了毛泽东](../pages/yehuazhongnanhai/gx-12302019155834.md)
 #### [专栏 | 夜话中南海：中共一向视内部叛徒为“最危险敌人”](../pages/yehuazhongnanhai/gx-12272019142015.md)
 #### [专栏 | 夜话中南海：邓小平到死没有原谅的中共情报头子凌云](../pages/yehuazhongnanhai/gx-12232019155520.md)
 #### [专栏 | 夜话中南海：黄敬亲属在文革中的悲惨遭遇](../pages/yehuazhongnanhai/gx-12202019134959.md)
