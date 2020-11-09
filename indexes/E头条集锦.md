@@ -3,15 +3,15 @@
 #### [【内幕】中共“一带一路”文化入侵中亚](../pages/nf4514/n12523261.md?t=11091702) 
 #### [【思想领袖】芬顿：中共收买好莱坞内幕](../pages/nf4514/n12458683.md?t=11091702) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [朱利安尼：至少60万选票有问题 川普不会让步](../pages/nf4514/n12534666.md?t=11091702) 
 #### [美联邦最高法院前集会 民众要求停止窃选](../pages/nf4514/n12534408.md?t=11091702) 
 #### [资深共和党参议员挺川普：不要让步 奋力反击](../pages/nf4514/n12534537.md?t=11091702) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=11091753) 
 #### [【内幕】美大选投票系统所藏的猫腻（一）](../pages/nf4514/n12533491.md?t=11091702) 
 #### [【大选更新11.8】保守联盟：死人在克拉克县投票](../pages/nf4514/n12533787.md?t=11091702) 
 #### [好莱坞名流拒拜登胜选 吁扣除非法选票](../pages/nf4514/n12534180.md?t=11091702) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=11091753) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=11091753)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=11091753) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=11091753) 
 #### [墨西哥总统：法律挑战未解 贺拜登还太早](../pages/nf4514/n12534301.md?t=11091702) 
 #### [美参院司法委员会：将调查投票违规指控](../pages/nf4514/n12534201.md?t=11091702) 
 #### [组图：美国民众在最高法院前为川普祈祷](../pages/nf4514/n12533625.md?t=11091702) 
@@ -65,4 +65,4 @@
 #### [【独家】内部文件解密美国在华“和平队”](../pages/nf4514/n12524856.md?t=11091702) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nf4514-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nf4514-earlier.md?t=11091753)

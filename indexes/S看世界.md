@@ -3,15 +3,15 @@
 #### [中国开放形似飞碟的飞行器 可能中看不中用(图)](../pages/p9/951916.md?t=11091702) 
 #### [这次大选 美国的两个邻国首脑表态迥异(图)](../pages/p9/951869.md?t=11091702) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [英国花上亿英镑从中国买医疗设备被指责(图)](../pages/p9/951837.md?t=11091702) 
 #### [美国此举让北京没借口镇压新疆穆斯林(图)](../pages/p9/951766.md?t=11091702) 
 #### [中巴合谋 印军：恐爆更大规模冲突(图)](../pages/p9/951769.md?t=11091702) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=11091753) 
 #### [美大选为何朝鲜噤声 金正恩曾这样骂拜登(图)](../pages/p9/951876.md?t=11091702) 
 #### [中国开放形似飞碟的飞行器 可能中看不中用(图)](../pages/p9/951916.md?t=11091702) 
 #### [欧盟国家政党领袖称美国总统选举被操纵(图)](../pages/p9/951912.md?t=11091702) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=11091753) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=11091753)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=11091753) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=11091753) 
 #### [伊朗讽刺美大选称绝对衰退 蓬佩奥回应(图)](../pages/p9/951911.md?t=11091702) 
 #### [中俄巴继续对美国大选结果表示沉默(图)](../pages/p9/951910.md?t=11091702) 
 #### [中国官媒羞辱川普 美网友反讽让北京无言(图)](../pages/p9/951867.md?t=11091702) 
@@ -31,4 +31,4 @@
 #### [中国真敢出兵朝鲜吗？除非出现一个情形(图)](../pages/p9/951624.md?t=11091702) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/p9-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/p9-earlier.md?t=11091753)

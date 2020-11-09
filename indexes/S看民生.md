@@ -3,15 +3,15 @@
 #### [水貂染变异中共病毒 已传播6国(图)](../pages/p3/951891.md?t=11091702) 
 #### [脸书CEO被控投巨额资金 以图影响选举(图)](../pages/p3/951861.md?t=11091702) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [拜登家族成员多次被捕 全都脱罪免入狱(组图)](../pages/p3/951734.md?t=11091702) 
 #### [携800封未投递邮件和缺席选票 美邮递员边境被捕(图)](../pages/p3/951742.md?t=11091702) 
 #### [澳洲首次动用反外国干预法 华人被起诉(图)](../pages/p3/951743.md?t=11091702) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=11091753) 
 #### [拒拜登胜选 好莱坞名流：扣除非法选票(图)](../pages/p3/951927.md?t=11091702) 
 #### [美国总统大选猛料：川普设局拜登自投罗网(图)](../pages/p3/951903.md?t=11091702) 
 #### [水貂染变异中共病毒 已传播6国(图)](../pages/p3/951891.md?t=11091702) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=11091753) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=11091753)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=11091753) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=11091753) 
 #### [脸书CEO被控投巨额资金 以图影响选举(图)](../pages/p3/951861.md?t=11091702) 
 #### [入住百年老屋 意外挖出前屋主“走私”证据(图)](../pages/p3/951858.md?t=11091702) 
 #### [加国华人涉大规模洗钱 与总理特鲁多互动(图)](../pages/p3/951854.md?t=11091702) 
@@ -31,4 +31,4 @@
 #### [应对港版国安法 加国领事称有撤侨方案(图)](../pages/p3/951586.md?t=11091702) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/p3-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/p3-earlier.md?t=11091753)

@@ -3,15 +3,15 @@
 #### [宾州民众抗议大选舞弊 捍卫自由和价值](../pages/nsc412/n12535305.md?t=11091702) 
 #### [新泽西州居民联合50州抗议选举舞弊 要求公义](../pages/nsc412/n12535344.md?t=11091702) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [缅街公交车道11/16起实施  禁私家车通行](../pages/nsc412/n12535332.md?t=11091702) 
 #### [黑命贵、同性恋、变性者、美国共产党  纽约时报广场庆祝拜登“胜选”](../pages/nsc412/n12534729.md?t=11091702) 
 #### [纽约中华公所致函世卫组织总干事谭德塞](../pages/nsc412/n12534736.md?t=11091702) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=11091753) 
 #### [连生14个儿子 这对美国夫妇终于有了女儿](../pages/nsc412/n12535217.md?t=11091702) 
 #### [北京维权人士张宝成10日宣判 妻子纽约抗议](../pages/nsc412/n12535280.md?t=11091702) 
 #### [AOC建立网站  “清算”川普支持者](../pages/nsc412/n12535338.md?t=11091702) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=11091753) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=11091753)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=11091753) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=11091753) 
 #### [85%美国人认为清点合法选票为当务之急](../pages/nsc412/n12535233.md?t=11091702) 
 #### [川普团队律师：在关键州发现45万可疑选票](../pages/nsc412/n12535116.md?t=11091702) 
 #### [众议员柯林斯将领导乔州重新计票团队](../pages/nsc412/n12535107.md?t=11091702) 
@@ -65,4 +65,4 @@
 #### [川普竞选团队挑战“邮寄选票”计票系统](../pages/nsc412/n12533163.md?t=11091702) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nsc412-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nsc412-earlier.md?t=11091753)

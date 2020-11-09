@@ -3,15 +3,15 @@
 #### [可净化脏空气的“室内植物”有哪些？(组图)](../pages/p8/951829.md?t=11091702) 
 #### [善恶有报 时候未到(组图)](../pages/p8/951604.md?t=11091702) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [同理对方 才能看见自己(组图)](../pages/p8/951802.md?t=11091702) 
 #### [“他乡遇故知”的蓝矶鸫(图)](../pages/p8/951781.md?t=11091702) 
 #### [如何帮助情绪找到“出路”？(图)](../pages/p8/951774.md?t=11091702) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=11091753) 
 #### [古代识人术：邪正看眼神 真假看嘴唇(组图)](../pages/p8/951935.md?t=11091702) 
 #### [可净化脏空气的“室内植物”有哪些？(组图)](../pages/p8/951829.md?t=11091702) 
 #### [厨房不要做这些事 有些会致命(图)](../pages/p8/951588.md?t=11091702) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=11091753) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=11091753)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=11091753) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=11091753) 
 #### [善恶有报 时候未到(组图)](../pages/p8/951604.md?t=11091702) 
 #### [同理对方 才能看见自己(组图)](../pages/p8/951802.md?t=11091702) 
 #### [“他乡遇故知”的蓝矶鸫(图)](../pages/p8/951781.md?t=11091702) 
@@ -31,4 +31,4 @@
 #### [容易自我膨胀的“焦点效应”(图)](../pages/p8/951440.md?t=11091702) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/p8-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/p8-earlier.md?t=11091753)

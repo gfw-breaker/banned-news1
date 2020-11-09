@@ -3,15 +3,15 @@
 #### [欧议会最大党团领袖：中共是美欧共同的政治敌人](../pages/prog204/a102982552.md?t=11091702) 
 #### [北京附近再爆疫情 天津进入战时状态](../pages/prog204/a102982455.md?t=11091702) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [马云被整牵出大佬 分析：习要清理“皇亲国戚”](../pages/prog204/a102982439.md?t=11091702) 
 #### [【禁闻】11月8日退党精选](../pages/prog204/a102982333.md?t=11091702) 
 #### [【禁闻】中共“猎狐”反被猎  八人被美起诉](../pages/prog204/a102982305.md?t=11091702) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=11091753) 
 #### [【禁闻】11月8日维权动态](../pages/prog204/a102982307.md?t=11091702) 
 #### [【禁闻】拜登自称胜选 中共沉默 因惧怕川普？](../pages/prog204/a102982286.md?t=11091702) 
 #### [【禁闻】动了中共金融“蛋糕”?  蚂蚁再遭打击](../pages/prog204/a102982237.md?t=11091702) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=11091753) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=11091753)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=11091753) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=11091753) 
 #### [冤狱10年 宁夏高级工程师谢毅强的遭遇](../pages/prog204/a102982093.md?t=11091702) 
 #### [[中国一分钟]贪百亿人民币 恒丰银行前董座判死缓](../pages/prog204/a102982159.md?t=11091702) 
 #### [【热门话题】全美各地抗议大选舞弊/川普:周一起全面采取法律行动](../pages/prog204/a102981996.md?t=11091702) 
@@ -33,4 +33,4 @@
 #### [【禁闻】11月6日退党精选](../pages/prog204/a102980993.md?t=11091702) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog204-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog204-earlier.md?t=11091753)

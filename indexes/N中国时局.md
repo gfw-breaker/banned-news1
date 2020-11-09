@@ -3,15 +3,15 @@
 #### [王友群：马云“唱反调”习近平“掀桌子”](../pages/prog1138/a102982228.md?t=11091702) 
 #### [钟原：李克强再称坚持政府过紧日子](../pages/prog1138/a102981664.md?t=11091702) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [蚂蚁“翻车”内幕曝光 马云成高层弃子](../pages/prog1138/a102981267.md?t=11091702) 
 #### [恒丰原董事长蔡国华被判死缓 涉案超100亿](../pages/prog1138/a102981261.md?t=11091702) 
 #### [马云为何惹中南海震怒？央行官员回应](../pages/prog1138/a102981231.md?t=11091702) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=11091753) 
 #### [习近平清洗政法系？督察组赴6省确保“绝对领导”](../pages/prog1138/a102980439.md?t=11091702) 
 #### [马云卷入中南海顶级混战？ 背后大人物浮出水面](../pages/prog1138/a102979693.md?t=11091702) 
 #### [李克强怼习国师：科创不搞弯道超车 莫急于求成](../pages/prog1138/a102979482.md?t=11091702) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=11091753) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=11091753)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=11091753) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=11091753) 
 #### [马云悬了！中南海 “灭蚁”背后五大悬疑](../pages/prog1138/a102979481.md?t=11091702) 
 #### [疑似追打马云 中共官方罕见警告双11网购陷阱](../pages/prog1138/a102979197.md?t=11091702) 
 #### [马云卷入高层权斗？专家揭习近平“掀桌子”](../pages/prog1138/a102978817.md?t=11091702) 
@@ -35,4 +35,4 @@
 #### [习近平国师遭嘲讽 内循环中“换道超车”](../pages/prog1138/a102975108.md?t=11091702) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog1138-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog1138-earlier.md?t=11091753)

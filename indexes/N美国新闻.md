@@ -3,15 +3,15 @@
 #### [美媒：民主党特工揭露选票欺诈五步曲](../pages/prog203/a102982553.md?t=11091702) 
 #### [美国大选 拜登自报结果 朝鲜只字未提](../pages/prog203/a102982485.md?t=11091702) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091753) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [川普律师爆大规模选举欺诈：死人投票、只给拜登](../pages/prog203/a102982490.md?t=11091702) 
 #### [知情人：红二代盼中国变天 压倒性支持川普](../pages/prog203/a102982468.md?t=11091702) 
 #### [习近平为何不向拜登道贺？ 网路评论火爆](../pages/prog203/a102982423.md?t=11091702) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=11091753) 
 #### [好莱坞名流：拜登这只狡猾兔子 选举还没完呢](../pages/prog203/a102982389.md?t=11091702) 
 #### [乔治亚2县投票机也故障 与密歇根问题软件相同](../pages/prog203/a102982377.md?t=11091702) 
 #### [北京为何喜欢拜登？港媒：怕川普神经刀](../pages/prog203/a102982368.md?t=11091702) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=11091753) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=11091753)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=11091753) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=11091753) 
 #### [川普：拜登这些人是贼 全美50州选民吁“停止窃选”](../pages/prog203/a102982351.md?t=11091702) 
 #### [【大选更新11.9】美媒宣布大选结果 斯洛文尼亚总理讥有趣](../pages/prog203/a102982303.md?t=11091702) 
 #### [亚利桑那州选票被不当作废 川普团队发起诉讼](../pages/prog203/a102982264.md?t=11091702) 
@@ -35,4 +35,4 @@
 #### [曾任选务人员 内华达选民踢爆选票舞弊](../pages/prog203/a102982131.md?t=11091702) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog203-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog203-earlier.md?t=11091753)
