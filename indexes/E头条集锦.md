@@ -3,15 +3,15 @@
 #### [美联邦最高法院前集会 民众要求停止窃选](../pages/nf4514/n12534408.md?t=11091051) 
 #### [资深共和党参议员挺川普：不要让步 奋力反击](../pages/nf4514/n12534537.md?t=11091051) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091102) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091102) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091102) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091102) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091102) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091102) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [【大选更新11.8】保守联盟：死人在克拉克县投票](../pages/nf4514/n12533787.md?t=11091051) 
 #### [好莱坞名流拒拜登胜选 吁扣除非法选票](../pages/nf4514/n12534180.md?t=11091051) 
 #### [墨西哥总统：法律挑战未解 贺拜登还太早](../pages/nf4514/n12534301.md?t=11091051) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=11091102) 
 #### [美参院司法委员会：将调查投票违规指控](../pages/nf4514/n12534201.md?t=11091051) 
 #### [组图：美国民众在最高法院前为川普祈祷](../pages/nf4514/n12533625.md?t=11091051) 
 #### [亚利桑那州最高法院外 数千选民向媒体追责](../pages/nf4514/n12533600.md?t=11091051) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=11091102) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=11091102)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=11091102) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=11091102) 
 #### [美联邦选举委员会主席：选举欺诈正在发生](../pages/nf4514/n12533398.md?t=11091051) 
 #### [大纪元声明：法律诉讼未决前 不宣布大选胜者](../pages/nf4514/n12533345.md?t=11091051) 
 #### [大主教三发信：川普不可击败 好人为他祈祷](../pages/nf4514/n12533236.md?t=11091051) 
@@ -65,4 +65,4 @@
 #### [川普连发多条推文指控大选计票舞弊](../pages/nf4514/n12526039.md?t=11091051) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nf4514-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nf4514-earlier.md?t=11091102)

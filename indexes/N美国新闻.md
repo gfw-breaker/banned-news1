@@ -3,15 +3,15 @@
 #### [【大选更新11.9】美媒宣布大选结果 斯洛文尼亚总理讥有趣](../pages/prog203/a102982303.md?t=11091051) 
 #### [亚利桑那州选票被不当作废 川普团队发起诉讼](../pages/prog203/a102982264.md?t=11091051) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091102) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091102) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091102) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091102) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091102) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091102) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [【禁闻】记者直击：纽约华人撑川普“因为他反共”](../pages/prog203/a102982240.md?t=11091051) 
 #### [“共产主义受害者纪念日” 白宫发表总统声明](../pages/prog203/a102982173.md?t=11091051) 
 #### [曾击败CNN与华邮 著名大律师加入川普团队](../pages/prog203/a102982244.md?t=11091051) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=11091102) 
 #### [坚持媒体操守 大纪元拒绝过早宣布大选胜者](../pages/prog203/a102982262.md?t=11091051) 
 #### [美近40国会议员致函巴尔 要求调查选举欺诈](../pages/prog203/a102982283.md?t=11091051) 
 #### [谴责偷窃选举 内华达卡森选民要真相](../pages/prog203/a102982273.md?t=11091051) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=11091102) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=11091102)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=11091102) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=11091102) 
 #### [揭邮寄选票舞弊 美邮局吹哨人证词提交国会](../pages/prog203/a102982269.md?t=11091051) 
 #### [美联邦选举委员会主席：选举无透明 欺诈正在发生](../pages/prog203/a102982009.md?t=11091051) 
 #### [麻州民众集会 响应全美50州反选举作弊抗议](../pages/prog203/a102982250.md?t=11091051) 
@@ -35,4 +35,4 @@
 #### [川普启动全面诉讼 朱利安尼：已有90多名目击证人](../pages/prog203/a102981905.md?t=11091051) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog203-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog203-earlier.md?t=11091102)

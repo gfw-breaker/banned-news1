@@ -3,15 +3,15 @@
 #### [川普书籍作者：媒体群称拜登胜选 是危险警讯](../pages/nsc412/n12534637.md?t=11091051) 
 #### [【役情最前线】川普：胜选非由媒体决定](../pages/nsc412/n12534512.md?t=11091051) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091102) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091102) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091102) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091102) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091102) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091102) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [陈破空：2020美国大选只有一个主角](../pages/nsc412/n12534680.md?t=11091051) 
 #### [宾州首府“停止偷窃”集会 选民高唱美国国歌](../pages/nsc412/n12534674.md?t=11091051) 
 #### [侨务委员会“全球侨胞远距健康咨询平台-健康益友APP”欢迎下载](../pages/nsc412/n12534653.md?t=11091051) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=11091102) 
 #### [王嘉廉社区医疗中心  11/15法拉盛免费注射流感疫苗活动](../pages/nsc412/n12534529.md?t=11091051) 
 #### [纽约中华公所致函世卫组织总干事谭德塞](../pages/nsc412/n12534736.md?t=11091051) 
 #### [大纽约地区侨团支持台湾参与WHA共同声明](../pages/nsc412/n12534700.md?t=11091051) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=11091102) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=11091102)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=11091102) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=11091102) 
 #### [【名家专栏】政府机构腐败 酿空前选举危机](../pages/nsc412/n12534536.md?t=11091051) 
 #### [黑命贵、同性恋、变性者、美国共产党  时代广场庆祝拜登“胜选”](../pages/nsc412/n12534729.md?t=11091051) 
 #### [朱利安尼：至少60万选票有问题 川普不会让步](../pages/nsc412/n12534666.md?t=11091051) 
@@ -65,4 +65,4 @@
 #### [共和党主席：选民决定谁赢得选举 非媒体](../pages/nsc412/n12532554.md?t=11091051) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nsc412-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nsc412-earlier.md?t=11091102)

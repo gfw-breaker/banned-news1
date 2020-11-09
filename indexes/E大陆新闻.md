@@ -3,15 +3,15 @@
 #### [陈破空：2020美国大选只有一个主角](../pages/nsc413/n12534680.md?t=11091051) 
 #### [【名家专栏】政府机构腐败 酿空前选举危机](../pages/nsc413/n12534536.md?t=11091051) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091102) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091102) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091102) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091102) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091102) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091102) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [家破人亡 法轮功学员高秀荣又被停发退休金](../pages/nsc413/n12534209.md?t=11091051) 
 #### [海康威视二股东再减持 近三月出售1.7亿股](../pages/nsc413/n12534524.md?t=11091051) 
 #### [辽宁凤城官员骚扰法轮功学员 家属抵制](../pages/nsc413/n12530450.md?t=11091051) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=11091102) 
 #### [蚂蚁上市喊停 阿里巴巴或出售部分资产套现](../pages/nsc413/n12534302.md?t=11091051) 
 #### [严真点评&外交部大实话：大选舞弊曝光 川普提诉](../pages/nsc413/n12534145.md?t=11091051) 
 #### [【大陆新闻解毒 】时事小品：党媒报导怎样出炉的](../pages/nsc413/n12534135.md?t=11091051) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=11091102) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=11091102)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=11091102) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=11091102) 
 #### [西藏4.2级地震 甘肃3.2级地震](../pages/nsc413/n12533928.md?t=11091051) 
 #### [中共党媒混淆美选举委员会主席和委员的言论](../pages/nsc413/n12533804.md?t=11091051) 
 #### [【名家专栏】我们目前所知的大选状况](../pages/nsc413/n12533217.md?t=11091051) 
@@ -63,4 +63,4 @@
 #### [视频：长春双阳区一屠宰场着火 4死2伤](../pages/nsc413/n12530022.md?t=11091051) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nsc413-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nsc413-earlier.md?t=11091102)

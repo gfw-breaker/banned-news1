@@ -3,15 +3,15 @@
 #### [【中共百种酷刑】：烙烫](../pages/prog424/a102980540.md?t=11091051) 
 #### [澳洲大纪元听证会作证 揭中共打压独立媒体](../pages/prog424/a102980509.md?t=11091051) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091102) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091102) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091102) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091102) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091102) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11091102) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [迫害法轮功 广东670人遭厄运 公安系统居多（1）](../pages/prog424/a102980474.md?t=11091051) 
 #### [10月份 至少65名法轮功学员被非法判刑](../pages/prog424/a102979611.md?t=11091051) 
 #### [中共1400例伪案是如何出炉的（2）](../pages/prog424/a102978694.md?t=11091051) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=11091102) 
 #### [隋志：一部部真相影片 一出出人间惨剧](../pages/prog424/a102978465.md?t=11091051) 
 #### [获奖纪录片《寻找勇气》 讲述坚持信仰之路](../pages/prog424/a102978201.md?t=11091051) 
 #### [法轮功学员车平平在吉林女监每天遭虐待](../pages/prog424/a102978090.md?t=11091051) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=11091102) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=11091102)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=11091102) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=11091102) 
 #### [中共为何强行火化他们的遗体（16）](../pages/prog424/a102977817.md?t=11091051) 
 #### [获奖纪录片《寻找勇气》 讲述坚持信仰之路](../pages/prog424/a102977519.md?t=11091051) 
 #### [美驻华大使馆发布人权报告 7次提法轮功](../pages/prog424/a102977533.md?t=11091051) 
@@ -35,4 +35,4 @@
 #### [江泽民向核心高层下令 20年前绝密文件曝光](../pages/prog424/a102972619.md?t=11091051) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog424-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog424-earlier.md?t=11091102)
