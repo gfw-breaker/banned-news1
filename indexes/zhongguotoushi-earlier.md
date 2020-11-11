@@ -1,3 +1,4 @@
+#### [专栏 | 中国透视：回避危机   避实就虚——评中共四中全会](../pages/zhongguotoushi/panel-11042019122251.md)
 #### [专栏 | 中国透视： 从乌镇互联网会议看中共与西方的意识形态战争](../pages/zhongguotoushi/panel-10242019140100.md)
 #### [专栏 | 中国透视：纪念赵紫阳诞辰百年](../pages/zhongguotoushi/panel-10172019123156.md)
 #### [专栏 | 中国透视：中共庆典中的“八旗子弟”心态](../pages/zhongguotoushi/panel-10102019155244.md)
