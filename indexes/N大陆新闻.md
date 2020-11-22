@@ -3,15 +3,15 @@
 #### [浙江绍兴突爆疫情 全省进入紧张状态](../pages/prog204/a102992688.md?t=11221602) 
 #### [“靠银行吃银行” 中纪委深夜双开银行官员](../pages/prog204/a102992656.md?t=11221602) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [马云“骂习”祸事连连 中国首富被钟睒睒取代](../pages/prog204/a102992660.md?t=11221602) 
 #### [习在王岐山身边安插嫡系 密查孙政才内幕曝光](../pages/prog204/a102992618.md?t=11221602) 
 #### [亚太峰会 川普与习同框 两人各说各话](../pages/prog204/a102992624.md?t=11221602) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=11221651) 
 #### [企业家李怀庆因微信言论遭重判20年](../pages/prog204/a102992313.md?t=11221602) 
 #### [【热门话题】习内循环要泡汤？/4个敌国介入美国大选](../pages/prog204/a102992123.md?t=11221602) 
 #### [习近平“内循环”要泡汤？李克强透露窘境](../pages/prog204/a102992164.md?t=11221602) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=11221651) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=11221651)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=11221651) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=11221651) 
 #### [美CPDC委员会：中共应定为跨国犯罪组织](../pages/prog204/a102992150.md?t=11221602) 
 #### [耿潇男会见律师遭拒绝 罪名加重精神状态不佳](../pages/prog204/a102992110.md?t=11221602) 
 #### [上海再爆疫情！官方急“封院”4015人隔离](../pages/prog204/a102992047.md?t=11221602) 
@@ -34,4 +34,4 @@
 #### [中国各地疫情再燃 多市进入“战时状态”](../pages/prog204/a102991368.md?t=11221602) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog204-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog204-earlier.md?t=11221651)

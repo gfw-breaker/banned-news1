@@ -3,15 +3,15 @@
 #### [左媒无视大选争议  白宫:我们的声音会被听到](../pages/prog203/a102992725.md?t=11221602) 
 #### [(字幕版)川普竞选团队高级法律顾问：美国民众知道主流媒体在隐藏什么](../pages/prog203/a102992775.md?t=11221602) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [【美各州集会直播片段一】精彩演讲：我们是否选择站在神一边](../pages/prog203/a102992761.md?t=11221602) 
 #### [【美各州集会直播片段二】“打倒中共”的游行车队经过宾州首府 集会现场高呼：上帝保佑中国人](../pages/prog203/a102992659.md?t=11221602) 
 #### [【美各州集会直播片段三】受访者：拜登被共产主义中共收买](../pages/prog203/a102992681.md?t=11221602) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=11221651) 
 #### [【美各州集会直播片段四】民主党左翼推特头像集体变黑白 暗示什么？](../pages/prog203/a102992689.md?t=11221602) 
 #### [【特别节目】美各州挺川集会 制止拜登窃选](../pages/prog203/a102992726.md?t=11221602) 
 #### [拭目以待！川普律师:乔州诉讼下周将“令人震惊”](../pages/prog203/a102992691.md?t=11221602) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=11221651) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=11221651)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=11221651) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=11221651) 
 #### [鲍威尔：大选投票被实时操纵 有照片为证](../pages/prog203/a102992690.md?t=11221602) 
 #### [共和党女议员人数创纪录 反社会主义小队抗衡AOC](../pages/prog203/a102992291.md?t=11221602) 
 #### [【大选更新11.22】前英国大律师：CIA操控美大选 欧盟中共都知情](../pages/prog203/a102992537.md?t=11221602) 
@@ -34,4 +34,4 @@
 #### [美CPDC委员会：中共应定为跨国犯罪组织](../pages/prog203/a102992150.md?t=11221602) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog203-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog203-earlier.md?t=11221651)

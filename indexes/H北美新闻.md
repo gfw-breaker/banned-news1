@@ -3,15 +3,15 @@
 #### [美联邦选举委员会主席：数百宣誓书表明存在欺诈行为](../pages/soh6/445483.md?t=11221602) 
 #### [美众院少数党党鞭：为保守理念而战 竭力对抗社会主义](../pages/soh6/445477.md?t=11221602) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [手握Dominion操控大选照片 鲍威尔以个人声誉指大选舞弊](../pages/soh6/445447.md?t=11221602) 
 #### [白宫发言人：大选发生系统舞弊 川普阵营或上诉至高院](../pages/soh6/445423.md?t=11221602) 
 #### [美媒再揭拜登丑闻 律师建议他“出售”自己来获取“百万美元”](../pages/soh6/445429.md?t=11221602) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=11221651) 
 #### [重磅！鲍威尔揭大选服务器Scytl被美军截获 四敌国介入](../pages/soh6/445411.md?t=11221602) 
 #### [【选情更新11/21】鲍威尔：四敌国介入美大选服务器 50州民众再次游行挺川 ](../pages/soh6/445399.md?t=11221602) 
 #### [重要行动！川普政府拟再制裁四家中共军企](../pages/soh6/445393.md?t=11221602) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=11221651) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=11221651)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=11221651) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=11221651) 
 #### [金里奇：民主党搞社会主义极左 2022年必失众议院](../pages/soh6/445378.md?t=11221602) 
 #### [美前空军中将：民主党用作弊软件盗窃了2020年大选](../pages/soh6/445288.md?t=11221602) 
 #### [白宫发言人：宪法程序正在进行 川普不会让步 ](../pages/soh6/445183.md?t=11221602) 
@@ -24,4 +24,4 @@
 #### [江峰: 美特种军即将成立 宪政危机最后出路是什么？](../pages/soh6/445141.md?t=11221602) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md?t=11221651)

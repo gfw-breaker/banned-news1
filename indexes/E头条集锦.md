@@ -3,15 +3,15 @@
 #### [2020黑色星期五临近 早期折扣优惠有哪些](../pages/nf4514/n12566806.md?t=11221602) 
 #### [鲍威尔：有Dominion实时操控选举的照片](../pages/nf4514/n12566530.md?t=11221602) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [【一线采访】内蒙爆疫情 满洲里封城 火车停运](../pages/nf4514/n12566190.md?t=11221602) 
 #### [【重播】美各州挺川集会 制止拜登窃选](../pages/nf4514/n12565157.md?t=11221602) 
 #### [选举委员会主席：数百宣誓书说明舞弊存在](../pages/nf4514/n12566323.md?t=11221602) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=11221651) 
 #### [农民今年损失惨重 中共却开征私产宅基地费](../pages/nf4514/n12566226.md?t=11221602) 
 #### [中国债务累计至GDP3.3倍 企业债居半](../pages/nf4514/n12565742.md?t=11221602) 
 #### [【大选更新11.21】美国人再聚华府 继续挺川](../pages/nf4514/n12565761.md?t=11221602) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=11221651) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=11221651)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=11221651) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=11221651) 
 #### [《狮子王》复仇记：王位之争即正邪大战](../pages/nf4514/n12564664.md?t=11221602) 
 #### [川普政府拟再把四中企列入中共军企黑名单](../pages/nf4514/n12565131.md?t=11221602) 
 #### [鲍威尔：四敌国介入过美国大选制表服务器](../pages/nf4514/n12564746.md?t=11221602) 
@@ -65,4 +65,4 @@
 #### [【重播】促进宗教自由论坛：中共迫害法轮功](../pages/nf4514/n12557454.md?t=11221602) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nf4514-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nf4514-earlier.md?t=11221651)

@@ -3,15 +3,15 @@
 #### [【财商天下】对抗神秘“影子金权” 川普动了谁的奶酪](../pages/nsc415/n12564519.md?t=11221602) 
 #### [鲍威尔证实服务器在德被没收 幕后疑云重重](../pages/nsc415/n12564392.md?t=11221602) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [【珍言真语】谈舞弊遭禁播 桑普直指华盛顿沼泽](../pages/nsc415/n12563897.md?t=11221602) 
 #### [逾百学生校内游行声援十二港人](../pages/nsc415/n12562397.md?t=11221602) 
 #### [泼臭水阻恶法三前议员被控 明年二月再讯](../pages/nsc415/n12562380.md?t=11221602) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=11221651) 
 #### [香港高院裁定警不展示编号违人权法](../pages/nsc415/n12562360.md?t=11221602) 
 #### [香港增十二宗确诊两宗源头不明](../pages/nsc415/n12562369.md?t=11221602) 
 #### [香港资深议员涂谨申辞职　形容本港已“无险可守”](../pages/nsc415/n12562342.md?t=11221602) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=11221651) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=11221651)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=11221651) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=11221651) 
 #### [【财商天下】钱多多麻烦多 “割富豪”时代到来](../pages/nsc415/n12561919.md?t=11221602) 
 #### [【珍言真语】理大保卫战留守记者：惨烈牺牲换国际回响](../pages/nsc415/n12561089.md?t=11221602) 
 #### [【有冇搞错】零尾数大选年 美国“总统魔咒”](../pages/nsc415/n12559083.md?t=11221602) 
@@ -65,4 +65,4 @@
 #### [【有冇搞错】揭舞弊攻防战开打 共产党黑影浮现](../pages/nsc415/n12542093.md?t=11221602) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nsc415-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nsc415-earlier.md?t=11221651)

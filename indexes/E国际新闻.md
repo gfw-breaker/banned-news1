@@ -3,15 +3,15 @@
 #### [彭斯亲临乔州为参议员候选人造势](../pages/nsc418/n12566616.md?t=11221602) 
 #### [研究：戴口罩对预防中共病毒无显着效果](../pages/nsc418/n12566305.md?t=11221602) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [APEC峰会 川普与习近平都说了些啥](../pages/nsc418/n12566175.md?t=11221602) 
 #### [拟对出生公民权采取行动 川普政府重启讨论](../pages/nsc418/n12566092.md?t=11221602) 
 #### [【拍案惊奇】拜登谈对华立场 川普律师反击左媒](../pages/nsc418/n12565296.md?t=11221602) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=11221651) 
 #### [美议员提新法案 禁投资黑名单上中国企业](../pages/nsc418/n12564953.md?t=11221602) 
 #### [小川普病毒检测呈阳性 没有任何症状](../pages/nsc418/n12565072.md?t=11221602) 
 #### [德国巴州政府为何继续资助孔子学院？](../pages/nsc418/n12541206.md?t=11221602) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=11221651) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=11221651)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=11221651) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=11221651) 
 #### [中共鼓吹RECP 专家：玩花样 无实际价值](../pages/nsc418/n12564236.md?t=11221602) 
 #### [欧盟将买美国疫苗 不许匈牙利买中俄疫苗](../pages/nsc418/n12564457.md?t=11221602) 
 #### [Dominion陷舞弊指控 急撇清和古巴委国关系](../pages/nsc418/n12564185.md?t=11221602) 
@@ -65,4 +65,4 @@
 #### [英国首相约翰逊再次自我隔离两周](../pages/nsc418/n12554021.md?t=11221602) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nsc418-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nsc418-earlier.md?t=11221651)

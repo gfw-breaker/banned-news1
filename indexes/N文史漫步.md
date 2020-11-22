@@ -3,15 +3,15 @@
 #### [北宋名将滥杀降军 这笔业债如何还？](../pages/prog647/a102992080.md?t=11221602) 
 #### [【命理】善恶一念之转 命运随之转](../pages/prog647/a102992065.md?t=11221602) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [【馨香雅句】执子之手 与子偕老](../pages/prog647/a102991892.md?t=11221602) 
 #### [【馨香雅句】忠厚传家久 诗书继世长（二）](../pages/prog647/a102991886.md?t=11221602) 
 #### [真实案例：拒绝淫邪得福报](../pages/prog647/a102991556.md?t=11221602) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=11221651) 
 #### [【历史不简单】川普总统、唐朝宰相，您二位的“贷”该还了](../pages/prog647/a102990980.md?t=11221602) 
 #### [淫乱冤死人转生做牛 铁证名字记号留牛身](../pages/prog647/a102991232.md?t=11221602) 
 #### [【敦煌寻梦】丝绸之路上的明珠](../pages/prog647/a102991198.md?t=11221602) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=11221651) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=11221651)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=11221651) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=11221651) 
 #### [【成吉思汗】占领中都 夺取金国半壁河山](../pages/prog647/a102990687.md?t=11221602) 
 #### [擅长针灸与诊脉 令朝野叹服的东汉名医郭玉](../pages/prog647/a102990569.md?t=11221602) 
 #### [“称呼”如何展现素养 这几个字很好用](../pages/prog647/a102990562.md?t=11221602) 
@@ -35,4 +35,4 @@
 #### [《圣经》与《推背图》预言的应验与变换8](../pages/prog647/a102984201.md?t=11221602) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog647-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog647-earlier.md?t=11221651)

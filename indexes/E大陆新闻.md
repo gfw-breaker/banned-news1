@@ -3,15 +3,15 @@
 #### [北京昌平再爆强拆 小区被切断天然气](../pages/nsc413/n12566760.md?t=11221602) 
 #### [【一线采访】内蒙爆疫情 满洲里封城 火车停运](../pages/nsc413/n12566190.md?t=11221602) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [绍兴爆出复阳病例 浙江省管控进入紧张状态](../pages/nsc413/n12566482.md?t=11221602) 
 #### [习近平中纪委安插嫡系 密查孙政才案被曝光](../pages/nsc413/n12566330.md?t=11221602) 
 #### [农民今年损失惨重 中共却开征私产宅基地费](../pages/nsc413/n12566226.md?t=11221602) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=11221651) 
 #### [【财商天下】债市连环违约 中企在美圈钱败退](../pages/nsc413/n12566285.md?t=11221602) 
 #### [拟对出生公民权采取行动 川普政府重启讨论](../pages/nsc413/n12566092.md?t=11221602) 
 #### [APEC领袖会议登场 张忠谋：愿分享台防疫经验](../pages/nsc413/n12565835.md?t=11221602) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=11221651) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=11221651)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=11221651) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=11221651) 
 #### [李怀庆庭审当天 公民记者路过法院被传唤](../pages/nsc413/n12565901.md?t=11221602) 
 #### [韩战史学家沈志华演讲遭举报 直播中断](../pages/nsc413/n12565928.md?t=11221602) 
 #### [中国债务累计至GDP3.3倍 企业债居半](../pages/nsc413/n12565742.md?t=11221602) 
@@ -62,4 +62,4 @@
 #### [河南信阳送葬人发生车祸 至少9死4伤](../pages/nsc413/n12562673.md?t=11221602) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nsc413-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nsc413-earlier.md?t=11221651)

@@ -3,15 +3,15 @@
 #### [中共不能说的秘密 毛泽东晚年最后一个靶子(图)](../pages/p6/952324.md?t=11221602) 
 #### [中共国各省骗子大全 看完绝对醒脑(图)](../pages/p6/953317.md?t=11221602) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=11221651) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [不寒而栗 共军侵华的历史真相浮出水面(图)](../pages/p6/951862.md?t=11221602) 
 #### [北宋包拯刚正不阿 激浊扬清(图)](../pages/p6/952574.md?t=11221602) 
 #### [孙中山与中华国歌、国旗和国花(组图)](../pages/p6/952850.md?t=11221602) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=11221651) 
 #### [大选中的“十月革命”阴影：利用媒体制造仇恨(组图)](../pages/p6/953265.md?t=11221602) 
 #### [中共不能说的秘密 毛泽东晚年最后一个靶子(图)](../pages/p6/952324.md?t=11221602) 
 #### [中共国各省骗子大全 看完绝对醒脑(图)](../pages/p6/953317.md?t=11221602) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=11221651) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=11221651)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=11221651) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=11221651) 
 #### [不寒而栗 共军侵华的历史真相浮出水面(图)](../pages/p6/951862.md?t=11221602) 
 #### [北宋包拯刚正不阿 激浊扬清(图)](../pages/p6/952574.md?t=11221602) 
 #### [银行家的美貌女儿如何沦为公共情妇？(图)](../pages/p6/952654.md?t=11221602) 
@@ -31,4 +31,4 @@
 #### [【帝尧的故事】之三：赤帝之精(图)](../pages/p6/948869.md?t=11221602) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/p6-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/p6-earlier.md?t=11221651)
