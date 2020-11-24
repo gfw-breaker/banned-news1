@@ -1,25 +1,11 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-#### [又唱反调？习近平全民脱贫被批造假 李克强吁说真话](../pages/soh5/446347.md?t=11242051) 
-#### [传习近平最后一刻出手 马云被边控 已做最坏打算](../pages/soh5/446317.md?t=11242051) 
-#### [火了！是他吗？网曝习近平在扬州吃饭私照 ](../pages/soh5/446305.md?t=11242051) 
+
+### 已转移至新页面 [中国新闻](H中国新闻.md?t=11242103) 
+
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
-#### [孟祥锋职务异动引关注 港媒：将出任中南海大管家](../pages/soh5/446284.md?t=11242051) 
-#### [突发！陕西包茂高速43车连撞 已3死6伤](../pages/soh5/446290.md?t=11242051) 
-#### [方斌失联近三百天 武汉警方竟称其与美国大选有关？！](../pages/soh5/446269.md?t=11242051) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [内蒙古疫情罩疑云 满洲里公共汽车停运](../pages/soh5/446242.md?t=11242051) 
-#### [中共国安在广州大肆抓人 至少5名民运人士被捕](../pages/soh5/446230.md?t=11242051) 
-#### [蛋壳公寓资金链断裂 大量租客被强制搬离维权无果](../pages/soh5/446212.md?t=11242051) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
-#### [钟南山又带货！这次不是保健品](../pages/soh5/446131.md?t=11242051) 
-#### [中共造“神” 强迫宗教场所挂毛泽东像](../pages/soh5/446125.md?t=11242051) 
-#### [中共专家吁“家庭自主生育” 网友呛：让公务员先来](../pages/soh5/446041.md?t=11242051) 
-#### [中共学者称14亿人死4千等于没死 遭轰“学渣”](../pages/soh5/446038.md?t=11242051) 
-#### [从打击超生到强迫多生 中国农村“雷人”标语折射的现实](../pages/soh5/445954.md?t=11242051) 
-#### [中共宣称最后9县脱贫 专家：农民日子照样难过](../pages/soh5/445993.md?t=11242051) 
-#### [朱镕基大秘升官 习胡江朱人马混战贵州](../pages/soh5/445969.md?t=11242051) 
-#### [习近平撤换中央政研室主任意欲何为？王沪宁福祸难料](../pages/soh5/445960.md?t=11242051) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh5-earlier.md)
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
