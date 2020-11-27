@@ -1,27 +1,11 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-#### [川普周六将赴乔治亚州参加支持者集会](../pages/soh6/447331.md?t=11270951) 
-#### [江峰: 243年前华盛顿预见了今天的川普与第三次劫难](../pages/soh6/447328.md?t=11270951) 
-#### [朱利安尼：大选舞弊证据“如山” 只披露了冰山一角](../pages/soh6/447307.md?t=11270951) 
+
+### 已转移至新页面 [北美新闻](H北美新闻.md?t=11271003) 
+
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
-#### [分析：如果当上总统 拜登将复活六个灾难性外交政策](../pages/soh6/447298.md?t=11270951) 
-#### [遭死亡威胁 曝光亨特硬盘的电脑店老板被迫关门](../pages/soh6/447268.md?t=11270951) 
-#### [纽约州长借疫情限制宗教活动 遭联邦高院否决](../pages/soh6/447256.md?t=11270951) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [美独立记者：越来越多媒体人放弃职业道德 成为宣传工具](../pages/soh6/447253.md?t=11270951) 
-#### [【选情更新11/26】鲍威尔乔州密州递重磅诉状 川普：选举被操纵 但我们会赢！](../pages/soh6/447214.md?t=11270951) 
-#### [保守组织状告乔州不当计算20万选票 足以反转结果](../pages/soh6/447181.md?t=11270951) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
-#### [文昭时评：若默认大选舞弊 美国将不再是美国](../pages/soh6/447097.md?t=11270951) 
-#### [鲍威尔放出大海怪！「重磅炸弹」提交乔治亚 密歇根诉状亦释出](../pages/soh6/447106.md?t=11270951) 
-#### [ “中共乃真正威胁”   蓬佩奥：拜登团队会绥靖中共](../pages/soh6/447046.md?t=11270951) 
-#### [川普阵营再获2大突破 内华达12月就选举舞弊开庭](../pages/soh6/447007.md?t=11270951) 
-#### [揭秘！拜登过渡团队成员与中共渊源深](../pages/soh6/447004.md?t=11270951) 
-#### [川普感恩节前赦免前国家安全顾问弗林](../pages/soh6/446917.md?t=11270951) 
-#### [宾州选举调查听证会 证人证词揭穿选举乱象](../pages/soh6/446929.md?t=11270951) 
-#### [朱利安尼：拜登不要“美国优先”，他要“共产中国优先”](../pages/soh6/446908.md?t=11270951) 
-#### [金里奇：民主党在销毁舞弊证据 法院需迅速行动](../pages/soh6/446869.md?t=11270951) 
-#### [洛杉矶民众：要公正选举不要窃选 要川普不要拜登](../pages/soh6/446911.md?t=11270951) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
