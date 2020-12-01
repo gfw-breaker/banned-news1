@@ -1,27 +1,11 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-#### [巴尔无视舞弊证据 川普律师团队：司法部迄今无所作为](../pages/soh6/448993.md?t=12020602) 
-#### [美证券交易纪录：中共通过瑞银为Dominion提供4亿美元](../pages/soh6/448975.md?t=12020602) 
-#### [川普亚利桑那小胜 法官准许共和党人核查抽样选票](../pages/soh6/448981.md?t=12020602) 
+
+### 已转移至新页面 [北美新闻](H北美新闻.md?t=12020651) 
+
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
-#### [抗议大选舞弊 宾州民众吁议员勇敢保卫公平选举](../pages/soh6/448972.md?t=12020602) 
-#### [【选情更新12/1】川普：2020大选是美国史上最大的骗局](../pages/soh6/448948.md?t=12020602) 
-#### [亚利桑那听证会 州议员誓言收回宪法权 另择选举人 ](../pages/soh6/448888.md?t=12020602) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [【视频直播】密歇根州议会举行大选计票问题听证会](../pages/soh6/448930.md?t=12020602) 
-#### [亚利桑那听证会 吹哨人揭民主党候选人被预植3.5万票](../pages/soh6/448873.md?t=12020602) 
-#### [川普总统纪录片导演：我们仍然处于政变之中](../pages/soh6/448783.md?t=12020602) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
-#### [ “我们正在反击” 川普致电亚利桑那州选举听证会](../pages/soh6/448789.md?t=12020602) 
-#### [弗林和麦金纳尼将军：叛国级选举舞弊的背后故事（二）](../pages/soh6/448675.md?t=12020602) 
-#### [六四学生领袖熊炎发布新书 有意竞选国会议员](../pages/soh6/448615.md?t=12020602) 
-#### [专访：纽约华人华旸谈美国大选中的媒体、司法和民意](../pages/soh6/448600.md?t=12020602) 
-#### [美机构：拜登阵营收受逾3亿“黑钱”捐款](../pages/soh6/448663.md?t=12020602) 
-#### [亚利桑那听证会 美专家揭Dominion系统选举日非法联网](../pages/soh6/448681.md?t=12020602) 
-#### [川普支持者：美国觉醒了 我们不要主流媒体](../pages/soh6/448669.md?t=12020602) 
-#### [亚利桑那选举听证会 监票员：加州人、难民获选票](../pages/soh6/448654.md?t=12020602) 
-#### [美参院就职委员会主席拒绝承认拜登为“当选总统”](../pages/soh6/448636.md?t=12020602) 
-#### [宾州议会正式推出决议案 要求州府撤回选举结果认证](../pages/soh6/448642.md?t=12020602) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
