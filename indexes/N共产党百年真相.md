@@ -3,15 +3,15 @@
 #### [中国各地抗美煽情 热炒毛岸英 不提蛋炒饭](../pages/prog1699/a102976022.md?t=12031702) 
 #### [毛泽东之子死亡敏感日 网红厨师一碗炒饭惹恼五毛](../pages/prog1699/a102971772.md?t=12031702) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [九一三事件49周年 林彪谋杀毛泽东真相揭秘](../pages/prog1699/a102939536.md?t=12031702) 
 #### [朱德25岁孙子被枪决真相：家中强奸数名女性](../pages/prog1699/a102936581.md?t=12031702) 
 #### [毛泽东会见江青前夫 瞪大眼睛说出三个字](../pages/prog1699/a102934688.md?t=12031702) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=12031751) 
 #### [【热点互动特别节目】专访黄观鸿博士（2）：我家的故事](../pages/prog1699/a102930939.md?t=12031702) 
 #### [【薇羽看世间】胡锡进帮腔俄罗斯？背后牵扯中国失去某港口的真相](../pages/prog1699/a102886539.md?t=12031702) 
 #### [【史海】“文革”血债：想杀谁就杀谁的“民办枪毙”](../pages/prog1699/a102884298.md?t=12031702) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=12031751) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=12031751)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=12031751) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=12031751) 
 #### [文革处决纪录：非战争下的中国之最](../pages/prog1699/a102882581.md?t=12031702) 
 #### [中共在文革抄家中抄得了多少钱？](../pages/prog1699/a102880758.md?t=12031702) 
 #### [共产党如何把毛思想灌输到人民的脑中？(图)](../pages/prog1699/a102880751.md?t=12031702) 
@@ -33,4 +33,4 @@
 #### [3800万人被谋杀 共产党却用6个字甩锅(图)](../pages/prog1699/a102820856.md?t=12031702) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog1699-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog1699-earlier.md?t=12031751)

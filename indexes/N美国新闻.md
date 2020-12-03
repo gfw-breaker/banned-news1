@@ -3,15 +3,15 @@
 #### [戴镰刀斧头五星帽 拜登女发言人爆共党身份](../pages/prog203/a103001207.md?t=12031702) 
 #### [【直播预告】乔治亚就大选舞弊举行两场听证会](../pages/prog203/a103001120.md?t=12031702) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [【密歇根选举听证会】网络专家 退役上校：关于dominion投票系统的诸多疑点](../pages/prog203/a103000921.md?t=12031702) 
 #### [川普：大选遭蓄意袭击 拜登提前就知道结果](../pages/prog203/a103001026.md?t=12031702) 
 #### [鲍威尔林伍德重磅联合发布会 秦鹏点评](../pages/prog203/a103001029.md?t=12031702) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=12031751) 
 #### [中南海押宝拜登 “搞定美国”计划曝光](../pages/prog203/a103000983.md?t=12031702) 
 #### [美大选舞弊 重量级网安专家宣誓证词全文翻译](../pages/prog203/a103000955.md?t=12031702) 
 #### [川普法律战筹资1.7亿 川普选民拒绝承认拜登](../pages/prog203/a103000494.md?t=12031702) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=12031751) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=12031751)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=12031751) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=12031751) 
 #### [600美元开创必胜客 创办人卡尼肺炎病逝](../pages/prog203/a103000952.md?t=12031702) 
 #### [乔州州务卿作秀 批富尔顿县重新计票“图省事”](../pages/prog203/a103000487.md?t=12031702) 
 #### [中共控制的瑞银证券与Dominion关系曝光](../pages/prog203/a103000890.md?t=12031702) 
@@ -33,4 +33,4 @@
 #### [美媒：拜登竞选顾问大选后参加习近平支持的会议](../pages/prog203/a103000692.md?t=12031702) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog203-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog203-earlier.md?t=12031751)

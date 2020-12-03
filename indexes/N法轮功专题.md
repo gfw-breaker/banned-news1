@@ -3,15 +3,15 @@
 #### [妻子被迫害致死 江西省蔡建于被枉判入冤狱](../pages/prog424/a103001073.md?t=12031702) 
 #### [宋善：汇聚全球正义力量 制止活摘器官暴行](../pages/prog424/a103001059.md?t=12031702) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [纪念长春工程学院老师邹向阳博士](../pages/prog424/a103000166.md?t=12031702) 
 #### [冤狱11年 女高级工程师王楣泓再度遭绑架](../pages/prog424/a102999622.md?t=12031702) 
 #### [法轮功学员龚湘辉遭绑架 腹中胎儿曾被肢解](../pages/prog424/a102999264.md?t=12031702) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=12031751) 
 #### [宁夏41法轮功学员遭非法关押绑架 近况不明](../pages/prog424/a102999255.md?t=12031702) 
 #### [英御用律师：判决中共活摘器官罪是准确的](../pages/prog424/a102998494.md?t=12031702) 
 #### [【中共百种酷刑】利用动物摧残人体](../pages/prog424/a102998172.md?t=12031702) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=12031751) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=12031751)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=12031751) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=12031751) 
 #### [迟到的怀念——纪念法轮功学员石龙](../pages/prog424/a102997333.md?t=12031702) 
 #### [河南法轮功学员白春花不到6天遭迫害致死](../pages/prog424/a102996513.md?t=12031702) 
 #### [重庆七旬法轮功学员余业彝生前遭受的迫害](../pages/prog424/a102995989.md?t=12031702) 
@@ -34,4 +34,4 @@
 #### [【重播】促进宗教自由部长级会议论坛: 中共对法轮大法的迫害](../pages/prog424/a102989998.md?t=12031702) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog424-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog424-earlier.md?t=12031751)

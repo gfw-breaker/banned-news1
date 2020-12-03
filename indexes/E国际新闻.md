@@ -3,15 +3,15 @@
 #### [学者：美国大选乱局下 中共借机向澳洲发难](../pages/nsc418/n12591570.md?t=12031702) 
 #### [反击中共 澳媒刊六四照 分析：澳中正邪对决](../pages/nsc418/n12591599.md?t=12031702) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [环保实用 突尼斯商人翻新破旧家具 供学校使用](../pages/nsc418/n12591033.md?t=12031702) 
 #### [【大选更新12.2】鲍威尔：每位爱国者都应站出来](../pages/nsc418/n12590387.md?t=12031702) 
 #### [爱尔兰囚犯狱中学习 成家庭中首位大学生](../pages/nsc418/n12591075.md?t=12031702) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=12031751) 
 #### [拜登发言人被发现曾戴镰刀斧头五星帽](../pages/nsc418/n12591279.md?t=12031702) 
 #### [炮轰赵立坚伪帖 美英法：中共刷新道德底线](../pages/nsc418/n12591118.md?t=12031702) 
 #### [英国率先批准辉瑞疫苗 下周可接种80万剂](../pages/nsc418/n12590999.md?t=12031702) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=12031751) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=12031751)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=12031751) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=12031751) 
 #### [美谴责中共散布假信息诋毁澳洲](../pages/nsc418/n12590989.md?t=12031702) 
 #### [【财商天下】中澳开打贸易战 澳“核弹”在手](../pages/nsc418/n12591091.md?t=12031702) 
 #### [组图：英相约翰逊参观药厂 了解疫苗开发进程](../pages/nsc418/n12590080.md?t=12031702) 
@@ -65,4 +65,4 @@
 #### [习近平贺拜登后是否派员接触 外交部回应](../pages/nsc418/n12577875.md?t=12031702) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nsc418-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nsc418-earlier.md?t=12031751)

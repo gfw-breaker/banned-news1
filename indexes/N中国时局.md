@@ -3,15 +3,15 @@
 #### [习近平月内3次喊“打仗” 四面出击再失策](../pages/prog1138/a103000233.md?t=12031702) 
 #### [政治局会议气氛紧张 习近平喊备战打仗](../pages/prog1138/a102999086.md?t=12031702) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [海南厅官被查是林则徐后人？中共官媒摆乌龙](../pages/prog1138/a102998358.md?t=12031702) 
 #### [【财商天下】传马云被边控 旗下蛋壳公寓出事](../pages/prog1138/a102996589.md?t=12031702) 
 #### [北京军事会议 习近平不笑 谁都不敢笑](../pages/prog1138/a102997312.md?t=12031702) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=12031751) 
 #### [官场段子：徐令义查官员椅子 有尿迹者在劫难逃](../pages/prog1138/a102997275.md?t=12031702) 
 #### [马云又有大麻烦？中宣部讲话透杀机](../pages/prog1138/a102995884.md?t=12031702) 
 #### [中国已全面脱贫？习中央唱高调 李克强不认账](../pages/prog1138/a102995844.md?t=12031702) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=12031751) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=12031751)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=12031751) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=12031751) 
 #### [习近平称安全环境有变 要求备战打仗](../pages/prog1138/a102995582.md?t=12031702) 
 #### [【睿眼看世界】李克强又和习近平撞车 没钱了 矛盾根本掩盖不住](../pages/prog1138/a102995304.md?t=12031702) 
 #### [分析：习近平没招了 党媒自揭官场败象](../pages/prog1138/a102995082.md?t=12031702) 
@@ -35,4 +35,4 @@
 #### [【睿眼看世界】美国难，中共更难，圈钱风暴将至，中国富人要遭殃](../pages/prog1138/a102992381.md?t=12031702) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog1138-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog1138-earlier.md?t=12031751)

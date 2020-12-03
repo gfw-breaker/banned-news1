@@ -3,15 +3,15 @@
 #### [黎智英遭扣押不得保释 林卓廷：政治打压](../pages/soh55/449494.md?t=12031702) 
 #### [黄之锋等3人遭判刑 美台政要同声谴责](../pages/soh55/449464.md?t=12031702) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [黄之锋周庭等三人被判入狱 英外相与国际特赦斥政治打压](../pages/soh55/449293.md?t=12031702) 
 #### [【快讯】黄之锋周庭遭判刑 上诉保释遭拒](../pages/soh55/449215.md?t=12031702) 
 #### [国际NGO纷纷「用脚投票」落地台湾 成就新亚太之窗？](../pages/soh55/449152.md?t=12031702) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=12031751) 
 #### [清算异见人士 港警拘捕浸大学生会长 ](../pages/soh55/449140.md?t=12031702) 
 #### [查册被指违例 港区议员批当局剥夺公众知情权](../pages/soh55/448933.md?t=12031702) 
 #### [港有线新闻大地震裁近百人 王牌调查节目被砍疑北京发功](../pages/soh55/448924.md?t=12031702) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=12031751) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=12031751)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=12031751) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=12031751) 
 #### [黄之锋曝光狱中被构陷细节：恶梦真正开始](../pages/soh55/448807.md?t=12031702) 
 #### [「12子」遭大陆关押百日 港人寄慰问信盼早回家](../pages/soh55/448543.md?t=12031702) 
 #### [港持续日增过百确诊个案 区议员批机场入境漏洞多](../pages/soh55/448156.md?t=12031702) 
@@ -25,4 +25,4 @@
 #### [香港区议会选举至今 至少54名民主派议员遭控罪](../pages/soh55/447082.md?t=12031702) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/soh55-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/soh55-earlier.md?t=12031751)

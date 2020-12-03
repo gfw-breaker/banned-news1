@@ -3,15 +3,15 @@
 #### [中共省级高官频调整 今年10省省委书记换人](../pages/nsc413/n12592800.md?t=12031702) 
 #### [【独家】中共处理朝鲜4.22车祸背后考量](../pages/nsc413/n12592112.md?t=12031702) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [广州洛溪大桥在建人行桥垮塌 3辆汽车受损](../pages/nsc413/n12592632.md?t=12031702) 
 #### [河南今年初雪造假？ 气象部回应网民不买账](../pages/nsc413/n12592491.md?t=12031702) 
 #### [大陆多省下调今年财政收入预期](../pages/nsc413/n12592004.md?t=12031702) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=12031751) 
 #### [泼墨女董瑶琼失联 界立建揭黑幕吁外界关注](../pages/nsc413/n12592268.md?t=12031702) 
 #### [黄之锋被判入狱 林飞帆：应思考提高援港措施](../pages/nsc413/n12592229.md?t=12031702) 
 #### [专家自曝中共搞定美内幕 学者：难走回老路](../pages/nsc413/n12592045.md?t=12031702) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=12031751) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=12031751)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=12031751) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=12031751) 
 #### [陈小春直播带货翻车 网友举报金条乃塑料片](../pages/nsc413/n12591964.md?t=12031702) 
 #### [【思想领袖】斯伯丁：中共如何颠覆美国](../pages/nsc413/n12549781.md?t=12031702) 
 #### [美司法部打击窃密 逾千中共军方学者离美](../pages/nsc413/n12592054.md?t=12031702) 
@@ -63,4 +63,4 @@
 #### [中共声称P2P已“清零” 八千亿坏帐未果](../pages/nsc413/n12587096.md?t=12031702) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nsc413-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nsc413-earlier.md?t=12031751)

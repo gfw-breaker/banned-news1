@@ -3,15 +3,15 @@
 #### [美国严厉打击窃密 逾千中共军方学者离美 ](../pages/soh6/449578.md?t=12031702) 
 #### [CNN晨会录音令人吃惊：不能把川普当正常人报导](../pages/soh6/449599.md?t=12031702) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [美国会通过移除中概股法案 217家上市中企恐中招](../pages/soh6/449536.md?t=12031702) 
 #### [专家作证 宾州投票机人员将不明USB插入后 拜登票飙升五万](../pages/soh6/449548.md?t=12031702) 
 #### [美国禁止从新疆生产建设兵团进口棉花](../pages/soh6/449527.md?t=12031702) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=12031751) 
 #### [鲍威尔：中共香港在选举系统插手 有伪造选票越境飞机运来](../pages/soh6/449524.md?t=12031702) 
 #### [美议员：如果选举公平 川普将轻易赢得国会认证](../pages/soh6/449476.md?t=12031702) 
 #### [林伍德律师：须紧急召集州议会 停止窃选 直到川普当选](../pages/soh6/449485.md?t=12031702) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=12031751) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=12031751)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=12031751) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=12031751) 
 #### [麦金纳尼中将：选票欺诈的实质是叛国 巴尔也有嫌疑](../pages/soh6/449440.md?t=12031702) 
 #### [川普总统就选举舞弊向全国发表紧急讲话 ](../pages/soh6/449470.md?t=12031702) 
 #### [鲍威尔：Dominion涉大规模选举欺诈 还撒谎否认](../pages/soh6/449467.md?t=12031702) 
@@ -25,4 +25,4 @@
 #### [川普：如不废除230法案 我将不得不否决《国防授权法》](../pages/soh6/449389.md?t=12031702) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md?t=12031751)

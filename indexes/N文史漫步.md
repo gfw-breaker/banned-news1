@@ -3,15 +3,15 @@
 #### [姜子牙之女做王后 历经千年贤名传](../pages/prog647/a103001107.md?t=12031702) 
 #### [妯娌和连襟的含意 亦亲亦友知多少？](../pages/prog647/a103001102.md?t=12031702) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [【历史不简单】日本豆腐的起源竟然和一场风有关](../pages/prog647/a103000986.md?t=12031702) 
 #### [但丁《神曲》故事：欺诈——毒害世界的怪物](../pages/prog647/a103000202.md?t=12031702) 
 #### [水月老人预言藩乱 范承谟忠贞应难](../pages/prog647/a103000198.md?t=12031702) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=12031751) 
 #### [历史故事：至孝丐妇死后升天](../pages/prog647/a102999302.md?t=12031702) 
 #### [因果报应实录：恶人遭“天诛地灭”](../pages/prog647/a102999283.md?t=12031702) 
 #### [【西游义趣】之八：悟空用兵法为唐僧压惊](../pages/prog647/a102998752.md?t=12031702) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=12031751) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=12031751)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=12031751) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=12031751) 
 #### [阿什维尔圣劳伦斯教堂的静谧、美、真理](../pages/prog647/a102998470.md?t=12031702) 
 #### [不值一钱一句话 勾动一场恩怨情仇的死难](../pages/prog647/a102998452.md?t=12031702) 
 #### [【闱闱道来】这一汉字 藏中国巨变与获救玄机](../pages/prog647/a102997995.md?t=12031702) 
@@ -35,4 +35,4 @@
 #### [古今中外奇谈 小婴儿的转世记忆](../pages/prog647/a102993346.md?t=12031702) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog647-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog647-earlier.md?t=12031751)

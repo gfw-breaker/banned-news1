@@ -3,15 +3,15 @@
 #### [巴斯：中国市场政治风险高于金融风险](../pages/soh7/449413.md?t=12031702) 
 #### [中国房价结束只涨不跌：最大跌幅47% 北京下跌16%](../pages/soh7/449392.md?t=12031702) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=12031751) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [马云减持阿里股票 套现超百亿美元](../pages/soh7/449383.md?t=12031702) 
 #### [美国USCC：加大审查投资中国的公司和资金](../pages/soh7/449155.md?t=12031702) 
 #### [中芯国际若被美国制裁 将拉大与台积电差距](../pages/soh7/449014.md?t=12031702) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=12031751) 
 #### [官方智库：中国房价只涨不跌的时代过去了](../pages/soh7/449008.md?t=12031702) 
 #### [华晨债务违约 中国建行和工商行踩雷](../pages/soh7/449002.md?t=12031702) 
 #### [2021年中国高校毕业生909万 官方称就业形势严峻](../pages/soh7/448996.md?t=12031702) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=12031751) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=12031751)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=12031751) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=12031751) 
 #### [总投资2000亿 清华紫光两个芯片项目陷入停滞](../pages/soh7/448651.md?t=12031702) 
 #### [美国拟将中芯国际和中海油列入国防部制裁名单](../pages/soh7/448645.md?t=12031702) 
 #### [彭博：中共成立联合工作组监管蚂蚁集团](../pages/soh7/448633.md?t=12031702) 
@@ -25,4 +25,4 @@
 #### [传富士康将部分苹果产能移到越南 降低中国风险](../pages/soh7/447271.md?t=12031702) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/soh7-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/soh7-earlier.md?t=12031751)
