@@ -1,28 +1,11 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-#### [美国务院披露：大量美国退休金流入中资股票](../pages/soh6/451126.md?t=12072202) 
-#### [亚利桑那选民登记系统曾遭攻入 FBI介入调查 ](../pages/soh6/451090.md?t=12072202) 
-#### [休斯顿华人：支持川普总统为正义而战](../pages/soh6/451066.md?t=12072202) 
+
+### 已转移至新页面 [北美新闻](H北美新闻.md?t=12072251) 
+
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
-#### [川普团队就朱利安尼确诊情况发布声明](../pages/soh6/451036.md?t=12072202) 
-#### [消息：美司法部长巴尔正在考虑年底前辞职](../pages/soh6/451003.md?t=12072202) 
-#### [川普政府解雇多名国防部商业委员会成员](../pages/soh6/450979.md?t=12072202) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [美企业家：有100%把握川普能在未来四年连任](../pages/soh6/450955.md?t=12072202) 
-#### [内华达州投票人数据库竟发到巴基斯坦](../pages/soh6/450931.md?t=12072202) 
-#### [【选情更新12/6】朱利安尼确诊中共病毒](../pages/soh6/450913.md?t=12072202) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
-#### [川普：将对选举和选举安全系统全面改革](../pages/soh6/450907.md?t=12072202) 
-#### [红三代揭：中共干扰美大选 大量中国产假选票混入美国 ](../pages/soh6/450790.md?t=12072202) 
-#### [乔治亚州挺川集会 川普：绝不投降 我们必定胜利](../pages/soh6/450814.md?t=12072202) 
-#### [川普阵营提诉乔治亚州大选欺诈盛行 促再次大选](../pages/soh6/450712.md?t=12072202) 
-#### [【特稿】拨乱反正 宪法赋予总统特别权力](../pages/soh6/450805.md?t=12072202) 
-#### [美媒：索罗斯支持的激进组织“监督”脸书 干涉美政治](../pages/soh6/450745.md?t=12072202) 
-#### [“神速行动”负责人：2月底1亿人或接种中共病毒疫苗](../pages/soh6/450733.md?t=12072202) 
-#### [【专访】美退役中将麦金纳尼：大选舞弊是叛国罪](../pages/soh6/450700.md?t=12072202) 
-#### [【视频直播】川普乔州集会演讲 人气爆棚](../pages/soh6/450724.md?t=12072202) 
-#### [是舞弊还是叛国？揭秘Dominion与中共的水有多深](../pages/soh6/450682.md?t=12072202) 
-#### [朱利安尼：密州法官下令审查22台Dominion投票机](../pages/soh6/450673.md?t=12072202) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
