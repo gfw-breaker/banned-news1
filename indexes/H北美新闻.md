@@ -1,11 +1,28 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-
-### 已转移至新页面 [北美新闻](H北美新闻.md?t=12110851) 
-
+#### [美媒：五角大楼计划终止向CIA提供军事支持](../pages/soh6/452446.md?t=12110902) 
+#### [美参院：涉与中共金融犯罪 亨特两年前就被调查](../pages/soh6/452449.md?t=12110902) 
+#### [宾州众院领袖支持德州在高院诉四摇摆州](../pages/soh6/452404.md?t=12110902) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [福克斯名主持详述民主党隐瞒亨特丑闻三大原因](../pages/soh6/452350.md?t=12110902) 
+#### [高院驳回宾州议员紧急禁止选举认证诉求 该案继续待审](../pages/soh6/452398.md?t=12110902) 
+#### [蓝述: “神来之笔”- 20州战团诉诸高院 态势的重大转折 ](../pages/soh6/452401.md?t=12110902) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [鲍威尔：亚利桑那选举舞弊案将迅速提交至联邦高院](../pages/soh6/452380.md?t=12110902) 
+#### [三议员拟联席会议挑战选举人团 吁更多议员加入](../pages/soh6/452035.md?t=12110902) 
+#### [川普政府制裁17侵犯人权者 迫害法轮功官员首度在列](../pages/soh6/452365.md?t=12110902) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [章天亮: 川普加入20州战团 国会剔除不端者 脸书将被拆分](../pages/soh6/452371.md?t=12110902) 
+#### [川普阵营新突破 美参院将举办选举调查听证会](../pages/soh6/452353.md?t=12110902) 
+#### [【选情更新12/10】20州起诉4摇摆州 习近平又增“猪队友”](../pages/soh6/452296.md?t=12110902) 
+#### [美前特种兵军官：大选舞弊是奥巴马影子政府的颜色革命](../pages/soh6/452089.md?t=12110902) 
+#### [美媒：FBI在4大摇摆州发现拜登50万张假选票](../pages/soh6/452170.md?t=12110902) 
+#### [麦金纳尼中将：叛国罪不是政治 将进行纽伦堡式审判](../pages/soh6/452176.md?t=12110902) 
+#### [涉嫌垄断 脸书遭美联邦政府和48州提诉](../pages/soh6/452155.md?t=12110902) 
+#### [拜登之子亨特遭特拉华州调查 知情者：涉与中共交易](../pages/soh6/452113.md?t=12110902) 
+#### [蓬佩奥：美国人需认清中共之毒 中国留学生受害最深](../pages/soh6/452074.md?t=12110902) 
+#### [川普团队发布声明 加入德州诉四摇摆州案](../pages/soh6/452065.md?t=12110902) 
+#### [美17州加入德州诉4摇摆州 亚利桑那注册法庭之友](../pages/soh6/452053.md?t=12110902) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
