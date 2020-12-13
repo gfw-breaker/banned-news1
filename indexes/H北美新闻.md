@@ -1,28 +1,11 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-#### [一位华裔美国人对大选态度转变的心路历程](../pages/soh6/453244.md?t=12140351) 
-#### [川普：比起诉讼冲突 拜登当“非法总统”更糟](../pages/soh6/453247.md?t=12140351) 
-#### [朱利安尼现已出院 即将结束隔离期](../pages/soh6/453229.md?t=12140351) 
+
+### 已转移至新页面 [北美新闻](H北美新闻.md?t=12140402) 
+
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
-#### [林伍德：若法庭拒受理大选舞弊 川普应该宣布戒严令 ](../pages/soh6/453109.md?t=12140351) 
-#### [远赴华盛顿DC集会 纽约华人力挺川普](../pages/soh6/453043.md?t=12140351) 
-#### [摇摆州华人：选民要用行动表达维护法律和秩序的诉求](../pages/soh6/453052.md?t=12140351) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [纽约磐石教会牧师：美国要重新回归信仰](../pages/soh6/453067.md?t=12140351) 
-#### [美资深众议员：大选前媒体隐瞒亨特丑闻 大错特错](../pages/soh6/453019.md?t=12140351) 
-#### [辛灏年：今日的美国需选择一位强硬抵制中共的领袖](../pages/soh6/452800.md?t=12140351) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
-#### [朱利安尼：川普批准在六摇摆州的州法庭重新提诉](../pages/soh6/452980.md?t=12140351) 
-#### [华府挺川集会 弗林将军：美国总统由人民决定](../pages/soh6/452986.md?t=12140351) 
-#### [德州案被驳回 川普连发推文谴责高院 誓言继续战斗](../pages/soh6/452968.md?t=12140351) 
-#### [【视频回放】百万川普支持者云集华府 反对窃选 呼唤大选诚信](../pages/soh6/452950.md?t=12140351) 
-#### [德州案被驳回 白宫发言人谴责高院逃避职责](../pages/soh6/452947.md?t=12140351) 
-#### [【选情更新12/12】德州案被高院驳回 川普：高院无智无勇 令人失望 战斗才开始](../pages/soh6/452944.md?t=12140351) 
-#### [德州案被高院驳回 民众呼吁川普行使总统权夺回美国](../pages/soh6/452860.md?t=12140351) 
-#### [舞弊法律诉讼仅为“暖场” 台专家：川普还有两大绝招](../pages/soh6/452806.md?t=12140351) 
-#### [600年前预言揭美国大选舞弊内幕和密谋者](../pages/soh6/452875.md?t=12140351) 
-#### [ 进行信息审查？ YouTube背后中共的影子](../pages/soh6/452761.md?t=12140351) 
-#### [密州Dominion审计结果：选票转移是有意设置](../pages/soh6/452815.md?t=12140351) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
