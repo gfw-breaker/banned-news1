@@ -1,28 +1,11 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-#### [华裔美国人：主流媒体造假  我喜欢希望之声](../pages/soh6/453298.md?t=12141602) 
-#### [中共女谍方芳案 共和党人提诉众院道德委员会](../pages/soh6/453343.md?t=12141602) 
-#### [美媒：亨特·拜登接到传票 需提交20个实体相关文件](../pages/soh6/453280.md?t=12141602) 
+
+### 已转移至新页面 [北美新闻](H北美新闻.md?t=12141651) 
+
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
-#### [华盛顿DC集会 波士顿华人发出响亮声音](../pages/soh6/453277.md?t=12141602) 
-#### [袁弓夷：川普总统在等待老百姓的觉醒](../pages/soh6/453256.md?t=12141602) 
-#### [川普：巴尔对亨特硬盘门无作为 “正义”来的太晚](../pages/soh6/453235.md?t=12141602) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [川普到访西点军校橄榄球赛  军官学员齐声高呼“USA”](../pages/soh6/453271.md?t=12141602) 
-#### [鲍威尔向高院提诉 要求撤三州认证并阻选举人投票](../pages/soh6/453259.md?t=12141602) 
-#### [【选情更新12/13】川普将拒签《国防授权法》对抗社媒保护伞第230条 ](../pages/soh6/453253.md?t=12141602) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
-#### [一位华裔美国人对大选态度转变的心路历程](../pages/soh6/453244.md?t=12141602) 
-#### [川普：比起诉讼冲突 拜登当“非法总统”更糟](../pages/soh6/453247.md?t=12141602) 
-#### [朱利安尼现已出院 即将结束隔离期](../pages/soh6/453229.md?t=12141602) 
-#### [林伍德：若法庭拒受理大选舞弊 川普应该宣布戒严令 ](../pages/soh6/453109.md?t=12141602) 
-#### [远赴华盛顿DC集会 纽约华人力挺川普](../pages/soh6/453043.md?t=12141602) 
-#### [摇摆州华人：选民要用行动表达维护法律和秩序的诉求](../pages/soh6/453052.md?t=12141602) 
-#### [纽约磐石教会牧师：美国要重新回归信仰](../pages/soh6/453067.md?t=12141602) 
-#### [美资深众议员：大选前媒体隐瞒亨特丑闻 大错特错](../pages/soh6/453019.md?t=12141602) 
-#### [辛灏年：今日的美国需选择一位强硬抵制中共的领袖](../pages/soh6/452800.md?t=12141602) 
-#### [朱利安尼：川普批准在六摇摆州的州法庭重新提诉](../pages/soh6/452980.md?t=12141602) 
-#### [华府挺川集会 弗林将军：美国总统由人民决定](../pages/soh6/452986.md?t=12141602) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
