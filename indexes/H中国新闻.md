@@ -1,26 +1,11 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-#### [传甘肃平凉要求中小学生“自愿”接种新冠疫苗 还要保密](../pages/soh5/453472.md?t=12142302) 
-#### [澳媒：中共党员恐已渗透美英澳等10国驻上海领馆](../pages/soh5/453424.md?t=12142302) 
-#### [人权律师常玮平父母 在公安局前举牌声援儿子被抓](../pages/soh5/453463.md?t=12142302) 
+
+### 已转移至新页面 [中国新闻](H中国新闻.md?t=12142351) 
+
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
-#### [阿里“五虎将”之一的胡伟雄传涉贪被带走](../pages/soh5/453436.md?t=12142302) 
-#### [北京当局强拆香堂文化新村 法学教授杨玉圣绝食抗议](../pages/soh5/453400.md?t=12142302) 
-#### [中共在中缅边境加紧建“长城” 国人插翅难逃？](../pages/soh5/453427.md?t=12142302) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [专家：习近平不敢打台湾  因打不赢就垮台](../pages/soh5/453418.md?t=12142302) 
-#### [王藏夫妇已被起诉 亲属被株连](../pages/soh5/453415.md?t=12142302) 
-#### [知情人：芮成钢爱蹭各种饭局 押错宝惹祸上身](../pages/soh5/453406.md?t=12142302) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
-#### [章家敦警告：中共已全面出击 企图从内部颠覆美国](../pages/soh5/453376.md?t=12142302) 
-#### [长江口货船相撞16人遇险 已3死5失踪](../pages/soh5/453349.md?t=12142302) 
-#### [中央网信办人事再传变 党媒“老手”入京](../pages/soh5/453334.md?t=12142302) 
-#### [外媒：北京在东南亚大力推动疫苗外交](../pages/soh5/453274.md?t=12142302) 
-#### [关键高官外泄195万党员名单？习急换自己人](../pages/soh5/453310.md?t=12142302) 
-#### [习近平国师被揭与江泽民关系隐秘](../pages/soh5/453268.md?t=12142302) 
-#### [中共官员报告泄密如何在海外统战和打压信仰 ](../pages/soh5/452995.md?t=12142302) 
-#### [刘锐绍：美制裁高官将致中共内部生变 习“提早开枪”](../pages/soh5/453190.md?t=12142302) 
-#### [习近平的野心 借研讨会给100多国政要推销中国模式](../pages/soh5/453166.md?t=12142302) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh5-earlier.md)
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
