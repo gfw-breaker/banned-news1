@@ -1,11 +1,26 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-
-### 已转移至新页面 [中国新闻](H中国新闻.md?t=12151351) 
-
+#### [疫情未减 中国闹血荒 基层强制摊派献血](../pages/soh5/453703.md?t=12151402) 
+#### [3.6亿中国人已为中共垮台进入新中国做好准备](../pages/soh5/453616.md?t=12151402) 
+#### [习近平痛打马云 还牵涉李克强 ？](../pages/soh5/453679.md?t=12151402) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [北京香堂村被强拆 背后原因竟涉“龙脉”？](../pages/soh5/453637.md?t=12151402) 
+#### [中国疫情四起 成都出怪招 教育部急发通知](../pages/soh5/453592.md?t=12151402) 
+#### [ 6年来中共海外抓捕8363人  涉及120国家地区](../pages/soh5/453466.md?t=12151402) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [传甘肃平凉要求中小学生“自愿”接种新冠疫苗 还要保密](../pages/soh5/453472.md?t=12151402) 
+#### [澳媒：中共党员恐已渗透美英澳等10国驻上海领馆](../pages/soh5/453424.md?t=12151402) 
+#### [人权律师常玮平父母 在公安局前举牌声援儿子被抓](../pages/soh5/453463.md?t=12151402) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [阿里“五虎将”之一的胡伟雄传涉贪被带走](../pages/soh5/453436.md?t=12151402) 
+#### [北京当局强拆香堂文化新村 法学教授杨玉圣绝食抗议](../pages/soh5/453400.md?t=12151402) 
+#### [中共在中缅边境加紧建“长城” 国人插翅难逃？](../pages/soh5/453427.md?t=12151402) 
+#### [专家：习近平不敢打台湾 因打不赢就垮台](../pages/soh5/453418.md?t=12151402) 
+#### [王藏夫妇已被起诉 亲属被株连](../pages/soh5/453415.md?t=12151402) 
+#### [知情人：芮成钢爱蹭各种饭局 押错宝惹祸上身](../pages/soh5/453406.md?t=12151402) 
+#### [章家敦警告：中共已全面出击 企图从内部颠覆美国](../pages/soh5/453376.md?t=12151402) 
+#### [长江口货船相撞16人遇险 已3死5失踪](../pages/soh5/453349.md?t=12151402) 
+#### [中央网信办人事再传变 党媒“老手”入京](../pages/soh5/453334.md?t=12151402) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh5-earlier.md)
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
