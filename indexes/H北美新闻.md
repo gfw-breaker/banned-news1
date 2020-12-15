@@ -1,11 +1,28 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-
-### 已转移至新页面 [北美新闻](H北美新闻.md?t=12160451) 
-
+#### [中共利用华人协会造假干预美大选 骗术面面观](../pages/soh6/453937.md?t=12160502) 
+#### [多米尼审计报告证实大选欺诈 CEO密州议会受问讯](../pages/soh6/453904.md?t=12160502) 
+#### [【视频直播】密州议会选举听证 多米尼CEO首次出席](../pages/soh6/453931.md?t=12160502) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [美众议员：诚实是国家基石 将全力挑战非法选举 ](../pages/soh6/453925.md?t=12160502) 
+#### [【选情更新12/15】众议员：多州选举团投票川普 在过去早有先例](../pages/soh6/453889.md?t=12160502) 
+#### [川普：多米尼投票机检查结果证明有重大选举欺诈](../pages/soh6/453901.md?t=12160502) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [深谙中共渗透美国手段 罗森走马上任代理司法部长](../pages/soh6/453838.md?t=12160502) 
+#### [美主教：川普正在对抗共产主义 做的事很好](../pages/soh6/453709.md?t=12160502) 
+#### [蓬佩奥：中共是美国和自由世界的最大威胁 ](../pages/soh6/453748.md?t=12160502) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [拜登选举人票认证演说直播 最高峰流量不足7千](../pages/soh6/453745.md?t=12160502) 
+#### [被控帮助中共政府机构窃取美国医学机密 华裔男子认罪](../pages/soh6/453727.md?t=12160502) 
+#### [美国防部大换血 金里奇等8人加入国防政策委员会](../pages/soh6/453697.md?t=12160502) 
+#### [【独家】方伟: 美国疫情死亡总人数是骗局？CDC官方数据成佐证](../pages/soh6/453688.md?t=12160502) 
+#### [脸书、Youtube、推特遭美FTC调查 ](../pages/soh6/453664.md?t=12160502) 
+#### [预示川普胜利赢得2020美国大选的几大神启](../pages/soh6/453673.md?t=12160502) 
+#### [多米尼投票机软件近期被黑 美国土安全部介入调查](../pages/soh6/453604.md?t=12160502) 
+#### [选举人团投票日 七州共和党人将替代票投给川普](../pages/soh6/453610.md?t=12160502) 
+#### [华府盛大游行 见证美国人捍卫公正选举信念（多图）](../pages/soh6/453511.md?t=12160502) 
+#### [美司法部长巴尔离职 川普任命新人选](../pages/soh6/453595.md?t=12160502) 
+#### [白宫顾问：摇摆州议会推共和党选举人团 可助川普连任](../pages/soh6/453541.md?t=12160502) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
