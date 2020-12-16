@@ -1,11 +1,28 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-
-### 已转移至新页面 [北美新闻](H北美新闻.md?t=12161902) 
-
+#### [美参院国土安全和政府事务委员会将听证美大选舞弊案](../pages/soh6/454081.md?t=12161951) 
+#### [与克林顿家族关系密切  SolarWinds股东被质疑](../pages/soh6/454093.md?t=12161951) 
+#### [甜蜜陷阱加长线钓鱼 美专家揭中共间谍手法](../pages/soh6/454096.md?t=12161951) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [密州两院下传票  要求保留2020年大选证据](../pages/soh6/454060.md?t=12161951) 
+#### [消息：五角大楼紧急关闭机密系统网络](../pages/soh6/454006.md?t=12161951) 
+#### [民意调查：美国人对选举舞弊的认知增加](../pages/soh6/453982.md?t=12161951) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [林·伍德：川普将采取雷霆行动 “他有个计划”](../pages/soh6/453976.md?t=12161951) 
+#### [林.伍德：乔州州长和州务卿将很快进监狱](../pages/soh6/453934.md?t=12161951) 
+#### [调查团体吁摇摆州法官：下令保存多米尼审查重磅证据](../pages/soh6/453946.md?t=12161951) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [中共利用华人协会造假干预美大选 骗术面面观](../pages/soh6/453937.md?t=12161951) 
+#### [多米尼审计报告证实大选欺诈 CEO密州议会受问讯](../pages/soh6/453904.md?t=12161951) 
+#### [【视频回放】密州议会选举听证 多米尼CEO首次出席](../pages/soh6/453931.md?t=12161951) 
+#### [美众议员：将全力挑战非法选举 捍卫国家基石](../pages/soh6/453925.md?t=12161951) 
+#### [【选情更新12/15】白宫：川普没有让步 将继续发起挑战](../pages/soh6/453889.md?t=12161951) 
+#### [川普：多米尼投票机检查结果证明有重大选举欺诈](../pages/soh6/453901.md?t=12161951) 
+#### [深谙中共渗透美国手段 罗森走马上任代理司法部长](../pages/soh6/453838.md?t=12161951) 
+#### [美主教：川普正在对抗共产主义 做的事很好](../pages/soh6/453709.md?t=12161951) 
+#### [蓬佩奥：中共是美国和自由世界的最大威胁 ](../pages/soh6/453748.md?t=12161951) 
+#### [拜登选举人票认证演说直播 最高峰流量不足7千](../pages/soh6/453745.md?t=12161951) 
+#### [被控帮助中共政府机构窃取美国医学机密 华裔男子认罪](../pages/soh6/453727.md?t=12161951) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
