@@ -1,11 +1,28 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-
-### 已转移至新页面 [北美新闻](H北美新闻.md?t=12180052) 
-
+#### [【选情更新12/17】1月6日联席会议将发生什么？多位议员或挑战选举结果](../pages/soh6/454594.md?t=12180103) 
+#### [亨特又一电邮曝光：拜登全家问候叶简明 并索要1千万](../pages/soh6/454501.md?t=12180103) 
+#### [【专访】伯恩：大选舞弊是中共“杀手锏”](../pages/soh6/454570.md?t=12180103) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [阿桑奇请求川普特赦 维基解密再释惊人内幕](../pages/soh6/454528.md?t=12180103) 
+#### [英文大纪元：关键时刻 川普应采取行动](../pages/soh6/454540.md?t=12180103) 
+#### [Dominion注资公司异动 牵出背后中共暗影](../pages/soh6/454432.md?t=12180103) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [川普律师：无论1月份情况如何 我们将继续战斗](../pages/soh6/454477.md?t=12180103) 
+#### [密歇根州听证会关键证人：我不后悔站出来作证](../pages/soh6/454471.md?t=12180103) 
+#### [“将喜悦带给孩子们” 梅兰妮娅圣诞节探访医院患儿（组图）](../pages/soh6/454417.md?t=12180103) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [美情报总监办公室：外国干涉选举报告将延期发布](../pages/soh6/454429.md?t=12180103) 
+#### [德州与9个州起诉谷歌滥用权力实施垄断](../pages/soh6/454396.md?t=12180103) 
+#### [众议员布鲁克斯对挑战选举结果表示乐观](../pages/soh6/454399.md?t=12180103) 
+#### [方伟: 麦康奈尔表态是个伤害 大选已非单纯总统轮替](../pages/soh6/454381.md?t=12180103) 
+#### [国会首次选举违规听证 参议员誓言重建选民信心](../pages/soh6/454378.md?t=12180103) 
+#### [法律组织：扎克伯格投入5亿美元干预美国大选](../pages/soh6/454354.md?t=12180103) 
+#### [宗教领袖：正邪大战 美国人面临人生最大抉择](../pages/soh6/454339.md?t=12180103) 
+#### [鲍威尔：总统应立刻查封每台投票机 做司法鉴定](../pages/soh6/454309.md?t=12180103) 
+#### [拒绝放弃 两院共和党人将联手挑战选举人团结果](../pages/soh6/454294.md?t=12180103) 
+#### [17众议员要求佩洛西 将私通共谍议员踢出情委会](../pages/soh6/454306.md?t=12180103) 
+#### [江峰: 吹响羊角号 真正的爱国者们在为美国的灵魂而战 ](../pages/soh6/454330.md?t=12180103) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
