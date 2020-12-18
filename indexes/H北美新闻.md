@@ -1,28 +1,11 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-#### [美媒：为组建家庭企业 亨特让拜登加盟华鹰](../pages/soh6/454663.md?t=12181451) 
-#### [德州诉摇摆州案遭拒有内幕？首席大法官被揭从中作梗](../pages/soh6/454777.md?t=12181451) 
-#### [方伟、江峰: 深度解析川普破阵奥巴马八年布局](../pages/soh6/454780.md?t=12181451) 
+
+### 已转移至新页面 [北美新闻](H北美新闻.md?t=12181502) 
+
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
-#### [彭斯在乔治亚助选 誓言为公平的选举奋斗](../pages/soh6/454774.md?t=12181451) 
-#### [阿拉巴马参议员：将在国会挑战选举投票](../pages/soh6/454750.md?t=12181451) 
-#### [明州选民：沉默的大多数在呐喊 推倒这堵腐败的墙](../pages/soh6/454726.md?t=12181451) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [纳瓦罗发迄今最详尽选举调查 曝光6领域欺诈行为](../pages/soh6/454657.md?t=12181451) 
-#### [福克斯名主持：拜登选的驻华大使是中共“宣传部长”](../pages/soh6/454708.md?t=12181451) 
-#### [美媒分析：邮寄选票是左派多年布局的成果](../pages/soh6/454678.md?t=12181451) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
-#### [麦康奈尔倒戈 其妻赵小兰正被道德调查](../pages/soh6/454633.md?t=12181451) 
-#### [美参议员：2020年大选发生舞弊 并出现多方式窃选](../pages/soh6/454639.md?t=12181451) 
-#### [川普：前CISA局长在国会听证会上公然撒谎](../pages/soh6/454651.md?t=12181451) 
-#### [26名众议员要求佩洛西调查选举舞弊](../pages/soh6/454645.md?t=12181451) 
-#### [【选情更新12/17】1月6日联席会议将发生什么？多位议员或挑战选举结果](../pages/soh6/454594.md?t=12181451) 
-#### [亨特又一电邮曝光：拜登全家问候叶简明 并索要1千万](../pages/soh6/454501.md?t=12181451) 
-#### [【专访】伯恩：大选舞弊是中共“杀手锏”](../pages/soh6/454570.md?t=12181451) 
-#### [阿桑奇请求川普特赦 维基解密再释惊人内幕](../pages/soh6/454528.md?t=12181451) 
-#### [英文大纪元：关键时刻 川普应采取行动](../pages/soh6/454540.md?t=12181451) 
-#### [Dominion注资公司异动 牵出背后中共暗影](../pages/soh6/454432.md?t=12181451) 
-#### [川普律师：无论1月份情况如何 我们将继续战斗](../pages/soh6/454477.md?t=12181451) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
