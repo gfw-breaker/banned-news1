@@ -1,11 +1,28 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-
-### 已转移至新页面 [北美新闻](H北美新闻.md?t=12191251) 
-
+#### [川普正式签署让中概股从美国退市法案](../pages/soh6/455083.md?t=12191302) 
+#### [川普正式任命“1776”爱国教育咨询委员会](../pages/soh6/455068.md?t=12191302) 
+#### [金言：川普“雷霆行动” 占尽天时地利人和](../pages/soh6/455059.md?t=12191302) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [川普：共和党参议员应否决选举人团总统提名](../pages/soh6/455011.md?t=12191302) 
+#### [拜登团队吁国防部立即重启交接 未见米勒答应](../pages/soh6/455050.md?t=12191302) 
+#### [谷歌实施垄断 遭美国38州总检察长起诉](../pages/soh6/455038.md?t=12191302) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [美著名智库专家：中共通过撒谎和侵略 渗透全世界](../pages/soh6/455044.md?t=12191302) 
+#### [MyPillow公司总裁：最终赢家一定是川普](../pages/soh6/455029.md?t=12191302) 
+#### [川普：我会否决国防法案 终止230条款](../pages/soh6/454990.md?t=12191302) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [白宫网站万民请愿 吁总统下戒严令拯救美国](../pages/soh6/454993.md?t=12191302) 
+#### [美国最大民兵组织吁川普启用军队捍卫选举](../pages/soh6/454987.md?t=12191302) 
+#### [加州华人支持总统行驶权力捍卫共和](../pages/soh6/453643.md?t=12191302) 
+#### [19众议员联名要求国会举行选举舞弊听证会](../pages/soh6/454948.md?t=12191302) 
+#### [美媒：五角大楼暂停与拜登过渡团队合作](../pages/soh6/454963.md?t=12191302) 
+#### [【选情更新12/18】密歇根一县重新计票后 证实川普获胜](../pages/soh6/454936.md?t=12191302) 
+#### [弗林将军：川普可通过军管 在摇摆州重新选举](../pages/soh6/454957.md?t=12191302) 
+#### [彭斯夫妇率先接种中共病毒疫苗 拜登在排队](../pages/soh6/454927.md?t=12191302) 
+#### [美国务院深夜连发四推 公告中共是最大威胁](../pages/soh6/454912.md?t=12191302) 
+#### [制止"中共活摘器官" 美参众两院议员推法案制裁涉案人员](../pages/soh6/454810.md?t=12191302) 
+#### [【专访】袁弓夷： 舞弊案远超珍珠港事件 川普应紧急平叛](../pages/soh6/454798.md?t=12191302) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
