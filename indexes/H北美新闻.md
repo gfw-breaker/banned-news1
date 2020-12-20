@@ -1,28 +1,11 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-#### [美媒：传海军陆战队员被调回并集合](../pages/soh6/455440.md?t=12202351) 
-#### [反窃选集会上 亚利桑那众议员誓言挑战大选结果](../pages/soh6/455344.md?t=12202351) 
-#### [美媒：川普或任命鲍威尔为特别检察官 调查大选舞弊](../pages/soh6/455353.md?t=12202351) 
+
+### 已转移至新页面 [北美新闻](H北美新闻.md?t=12210002) 
+
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
-#### [宾州选民：支持川普戒严 确保选举公正合法](../pages/soh6/455428.md?t=12202351) 
-#### [川普授权 美情委会出台民主党议员私通女共谍报告](../pages/soh6/455401.md?t=12202351) 
-#### [披露大选违规 乔州投票工作人员被解雇](../pages/soh6/455308.md?t=12202351) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [愤怒美国人纽约中领馆前抗议中共渗透](../pages/soh6/455368.md?t=12202351) 
-#### [美太空部队成立周年 彭斯宣布新名“守护者”](../pages/soh6/455323.md?t=12202351) 
-#### [发“为川普而战”视频 川普吁拯救美国拯救世界](../pages/soh6/455305.md?t=12202351) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
-#### [【林.伍德推文即时更新】 “反击的时刻到了”](../pages/soh6/455314.md?t=12202351) 
-#### [川普：中共攻击投票机 媒体却炒作俄罗斯威胁](../pages/soh6/455302.md?t=12202351) 
-#### [【选情更新12/19】川普：拜登没赢 共和党人需奋力一搏](../pages/soh6/455296.md?t=12202351) 
-#### [美78位众议员联名致函蓬佩奥 吁提升美台关系  ](../pages/soh6/455164.md?t=12202351) 
-#### [SolarWinds黑客入侵美国亚利桑那州皮马县政府](../pages/soh6/455194.md?t=12202351) 
-#### [涉将六四会议用户个资交中共 Zoom员工被FBI通缉](../pages/soh6/455122.md?t=12202351) 
-#### [美高院判川普获胜：众院席位与非法移民数量无关](../pages/soh6/455074.md?t=12202351) 
-#### [川普正式签署让中概股从美国退市法案](../pages/soh6/455083.md?t=12202351) 
-#### [川普正式任命“1776”爱国教育咨询委员会](../pages/soh6/455068.md?t=12202351) 
-#### [金言：川普“雷霆行动” 占尽天时地利人和](../pages/soh6/455059.md?t=12202351) 
-#### [川普：共和党参议员应否决选举人团总统提名](../pages/soh6/455011.md?t=12202351) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
