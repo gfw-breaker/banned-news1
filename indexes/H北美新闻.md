@@ -1,28 +1,11 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-#### [民众助力乔州参议员连任 吁挽救美国结束共产罪恶](../pages/soh6/456397.md?t=12232302) 
-#### [麦康奈尔：我对拜登比民主党对川普好得多](../pages/soh6/456535.md?t=12232302) 
-#### [不顾川普否决 参院两党领袖拟联手强推国防授权法](../pages/soh6/456529.md?t=12232302) 
+
+### 已转移至新页面 [北美新闻](H北美新闻.md?t=12232351) 
+
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
-#### [川普：国会9000亿美元的纾困法案是耻辱](../pages/soh6/456415.md?t=12232302) 
-#### [快讯: 川普发表“制止窃选”讲话](../pages/soh6/456418.md?t=12232302) 
-#### [更多共和党众议员宣布加入挑战选举人票](../pages/soh6/456406.md?t=12232302) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [美媒：微信成为中国无处不在的监视工具](../pages/soh6/456361.md?t=12232302) 
-#### [美参院国安委主席： 威斯康辛州和内华达州大选异常](../pages/soh6/456265.md?t=12232302) 
-#### [拜登弟弟与中共关系密切 其家族商业腐败严重](../pages/soh6/456352.md?t=12232302) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
-#### [美国土安全部代理秘书：与中共的冲突“不容小觑”](../pages/soh6/456313.md?t=12232302) 
-#### [美国记者：中共特工要收买我当“爆料人“](../pages/soh6/456304.md?t=12232302) 
-#### [调查：美国12月份消费者信心显著下降](../pages/soh6/456307.md?t=12232302) 
-#### [打击报复？纽约检察官要查朱利安尼电邮](../pages/soh6/456301.md?t=12232302) 
-#### [华人研讨会: 继续支持川普总统 广传1月6日DC大游行讯息](../pages/soh6/455881.md?t=12232302) 
-#### [方伟、蓝述: 深层解读川普团队律师的个人局限 ](../pages/soh6/456286.md?t=12232302) 
-#### [朱利安尼：争议州州长不准我们接触投票机](../pages/soh6/456283.md?t=12232302) 
-#### [计划挑战选举人票 多位议员在白宫与川普会面](../pages/soh6/456235.md?t=12232302) 
-#### [拜登接种中共病毒疫苗 称赞川普“快速行动”](../pages/soh6/456232.md?t=12232302) 
-#### [美宪法律师：彭斯有权要求州议会指定选举人](../pages/soh6/456223.md?t=12232302) 
-#### [【选情更新12/22】乔州参院报告：选举结果不可信 应撤销认证](../pages/soh6/456058.md?t=12232302) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
