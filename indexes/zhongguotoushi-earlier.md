@@ -1,3 +1,4 @@
+#### [专栏 | 中国透视：  年终回顾：2019年中国经贸轨迹](../pages/zhongguotoushi/panel-12202019130626.md)
 #### [专栏 | 中国透视：西方国家与台湾建交的必要性与可行性](../pages/zhongguotoushi/panel-12122019141343.md)
 #### [专栏 | 中国透视：悼念流沙河先生](../pages/zhongguotoushi/panel-12052019100454.md)
 #### [专栏 | 中国透视：当代中国大学的生态环境](../pages/zhongguotoushi/panel-11272019162428.md)
