@@ -1,11 +1,28 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-
-### 已转移至新页面 [北美新闻](H北美新闻.md?t=12260451) 
-
+#### [美最高法院拒1月20日前审理选举案件](../pages/soh6/457231.md?t=12260502) 
+#### [美媒：联邦高院新保守大法官为何不作为？](../pages/soh6/457228.md?t=12260502) 
+#### [川普：230条款就是共产主义的开始](../pages/soh6/457213.md?t=12260502) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [美纳什维尔市中心发生大型爆炸案 3人受伤](../pages/soh6/457222.md?t=12260502) 
+#### [移除计划受挫 国会山南军伟人雕塑仍在](../pages/soh6/456400.md?t=12260502) 
+#### [美议员质问高院：德州起诉的四摇摆州是否遵守宪法？](../pages/soh6/457204.md?t=12260502) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [中国民权联主席：不让中共把美国变成第二个中国](../pages/soh6/457186.md?t=12260502) 
+#### [【专访】袁弓夷：美国科技精英忘记了助其成功的土壤](../pages/soh6/457006.md?t=12260502) 
+#### [美媒：亨特·拜登仍持有中方投资公司10%股份](../pages/soh6/457039.md?t=12260502) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [川普与第一夫人发布圣诞节视频 感谢神和勇敢的美国人](../pages/soh6/456979.md?t=12260502) 
+#### [2020圣诞夜 美国东西部“冰火两重天”](../pages/soh6/456961.md?t=12260502) 
+#### [司法部：“传奇行动”在9城市抓捕6,000多罪犯](../pages/soh6/456943.md?t=12260502) 
+#### [拜登计划拆美墨边境墙 资助在墨等待入美的外国人](../pages/soh6/456919.md?t=12260502) 
+#### [民主党吹哨人揭党内德州选举舞弊行为](../pages/soh6/456937.md?t=12260502) 
+#### [美签证限制再升级 明确包括迫害法轮功者及家人](../pages/soh6/456925.md?t=12260502) 
+#### [美国会否决2千美金救济 拒绝修改《国防授权法》](../pages/soh6/456931.md?t=12260502) 
+#### [资深媒体人分析外国公司付钱给拜登家族的原因](../pages/soh6/456922.md?t=12260502) 
+#### [自由亚洲电台换老板 美前国安副顾问叶望辉接任](../pages/soh6/456850.md?t=12260502) 
+#### [川普再赦26人 含前川普竞选团队官员和伊万卡公公](../pages/soh6/456844.md?t=12260502) 
+#### [美媒：大选舞弊和共产渗透撕裂美国 拜登能应对？](../pages/soh6/456721.md?t=12260502) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
