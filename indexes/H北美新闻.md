@@ -1,28 +1,11 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-#### [佩洛西称有信心连任议长 但民主党内现分歧](../pages/soh6/458788.md?t=12310002) 
-#### [麦康奈尔促参院：推翻川普对国防法的否决](../pages/soh6/458767.md?t=12310002) 
-#### [路州当选议员上任前染疫去世 国会首例](../pages/soh6/458725.md?t=12310002) 
+
+### 已转移至新页面 [北美新闻](H北美新闻.md?t=12310051) 
+
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
-#### [彭斯是否有权决定选举人票？资深媒体人如是说](../pages/soh6/458683.md?t=12310002) 
-#### [姆努钦：600美元纾困援助金即日起陆续派发](../pages/soh6/458644.md?t=12310002) 
-#### [美国首现变种病毒确诊案例 患者无外游史](../pages/soh6/458626.md?t=12310002) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [英大主教逝世850周年 川普吁结束“全球宗教迫害”](../pages/soh6/458551.md?t=12310002) 
-#### [贺锦丽与丈夫接种COVID-19疫苗](../pages/soh6/458545.md?t=12310002) 
-#### [麦康奈尔反对2000美金支付 筹备国防授权法投票](../pages/soh6/458533.md?t=12310002) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
-#### [美民权活动家：福利政策破坏我们的生活基础](../pages/soh6/458524.md?t=12310002) 
-#### [众议员喊话司法部 派特别检察官调查亨特](../pages/soh6/458497.md?t=12310002) 
-#### [拜登发表国安讲话：将在外交上进行重大投资](../pages/soh6/458491.md?t=12310002) 
-#### [章天亮: 比尔盖茨欲“弥天蔽日” 人之思考力在被夺走](../pages/soh6/458482.md?t=12310002) 
-#### [纽约州长限宗教聚会人数 联邦法院判他违宪](../pages/soh6/458473.md?t=12310002) 
-#### [美联邦法官下令禁止乔州移除数千选民](../pages/soh6/458470.md?t=12310002) 
-#### [著名作家：中共通过美民间组织干涉美国大选](../pages/soh6/458437.md?t=12310002) 
-#### [击败奥巴马 川普登“最受仰慕的男人”榜首](../pages/soh6/458458.md?t=12310002) 
-#### [立宪党人：川普应设军事法庭 回击中共干涉大选](../pages/soh6/458404.md?t=12310002) 
-#### [参选议员：拉拢年轻自由派 中共是美头号威胁](../pages/soh6/458368.md?t=12310002) 
-#### [亨特“电脑门”维修店主状告推特  求偿5亿](../pages/soh6/458398.md?t=12310002) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
