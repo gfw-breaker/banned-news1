@@ -1,11 +1,28 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-
-### 已转移至新页面 [港台新闻](H港台新闻.md?t=01012051) 
-
+#### [【年终回顾】2020香港：黑暗中的坚守与抗争](../pages/soh55/459392.md?t=01012101) 
+#### [2021年蔡英文新年谈话：期盼两岸恢复有序交流](../pages/soh55/459302.md?t=01012101) 
+#### [12港人案判刑 蓬佩奥批中共脆弱独裁](../pages/soh55/459269.md?t=01012101) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [保释令被撤 黎智英元旦前夜再遭还押入狱](../pages/soh55/459101.md?t=01012101) 
+#### [贸易报复澳洲 台专家：中共是失控的经济列车](../pages/soh55/459023.md?t=01012101) 
+#### [美出走香港 北京阻美抛售驻港总领馆房产](../pages/soh55/458924.md?t=01012101) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [10岁少年成台湾首例变种中共病毒感染病患](../pages/soh55/458864.md?t=01012101) 
+#### [12港人案宣判 家属、议员：遭重判坐“冤枉牢”](../pages/soh55/458743.md?t=01012101) 
+#### [【年终回顾】2020—走向世界舞台的台湾](../pages/soh55/457690.md?t=01012101) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [12港人送中案 10人判刑 2少年移交港警](../pages/soh55/458629.md?t=01012101) 
+#### [黎智英辞任壹传媒主席　](../pages/soh55/458410.md?t=01012101) 
+#### [港“贤学思政”揭警署内遭威胁违反“国安法”](../pages/soh55/458371.md?t=01012101) 
+#### [台湾1月起开放美猪肉进口 为签署双边贸易铺路](../pages/soh55/458269.md?t=01012101) 
+#### [港府以革职威逼公务员签字效忠 18万人面临抉择](../pages/soh55/458281.md?t=01012101) 
+#### [揭721警黑勾结却成被告 林卓廷斥廉署成政治打压工具](../pages/soh55/457987.md?t=01012101) 
+#### [“12港人案”择期宣判 家属斥中共政治迫害](../pages/soh55/457981.md?t=01012101) 
+#### [川普正式签署台湾保证法 促美对台军售常态化](../pages/soh55/457876.md?t=01012101) 
+#### [“原告变被告 ”港前议员林卓廷今早再遭拘捕 ](../pages/soh55/457735.md?t=01012101) 
+#### [12港人周一审讯 家属公开信促各国派员到庭旁听](../pages/soh55/457684.md?t=01012101) 
+#### [国安法生效后 30海外港人遭通缉 40港人已遭逮捕](../pages/soh55/457615.md?t=01012101) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh55-earlier.md)
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
