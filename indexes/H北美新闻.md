@@ -1,28 +1,11 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-#### [国际精英计划“大重构” 中共推动欲摆脱困局](../pages/soh6/459626.md?t=01030001) 
-#### [霍利挑战选举人团 传百名众议员齐齐撑](../pages/soh6/459608.md?t=01030001) 
-#### [加国评论员：川普政绩令其前任相形见绌](../pages/soh6/459215.md?t=01030001) 
+
+### 已转移至新页面 [北美新闻](H北美新闻.md?t=01030051) 
+
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
-#### [美众议员：彭斯有权选“觉得合适”的选举人票](../pages/soh6/459554.md?t=01030001) 
-#### [拜登提名女财长获华尔街700万演讲费](../pages/soh6/459551.md?t=01030001) 
-#### [佛罗里达州发现首个变种中共病毒患者](../pages/soh6/459545.md?t=01030001) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [美参议院驳回川普对国防授权法否决权](../pages/soh6/459536.md?t=01030001) 
-#### [拜登支持修法 令传播艾滋病毒不再算违法](../pages/soh6/459524.md?t=01030001) 
-#### [受非裔爱戴 川普当选《非洲世界》年度人物](../pages/soh6/459515.md?t=01030001) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
-#### [川普新年送礼：延长移民禁令 保护美国劳工](../pages/soh6/459509.md?t=01030001) 
-#### [CDC预测：未来3周美国或有8万人死于中共病毒](../pages/soh6/459503.md?t=01030001) 
-#### [避敏感问题 拜登远程发布会设置记者禁聊](../pages/soh6/459494.md?t=01030001) 
-#### [新年伊始 川普与拜登致辞展望2021](../pages/soh6/459488.md?t=01030001) 
-#### [拜登抱怨过渡受阻 国防部和白宫预算办反驳](../pages/soh6/459467.md?t=01030001) 
-#### [川普：为承诺挑战选举人票的国会议员感到自豪 ](../pages/soh6/459479.md?t=01030001) 
-#### [参院共和党大佬拟施压霍利 主角缺席场面尴尬](../pages/soh6/459461.md?t=01030001) 
-#### [彭斯团队回应起诉：参众两院才应是被告](../pages/soh6/459326.md?t=01030001) 
-#### [美众议员：或近百联邦议员将挑战选举人团结果](../pages/soh6/459248.md?t=01030001) 
-#### [乔州地方法官裁定举办县级选举听证会](../pages/soh6/459314.md?t=01030001) 
-#### [2021 希望之声新年祈福](../pages/soh6/459284.md?t=01030001) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
