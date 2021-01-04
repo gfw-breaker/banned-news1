@@ -1,25 +1,11 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-#### [【时局看点】一名弱女子杠上整个中共政权](../pages/soh5/459998.md?t=01040801) 
-#### [安徽学生遭老师质疑作弊后溺亡 校方回应惹怒网友](../pages/soh5/460013.md?t=01040801) 
-#### [大连理工女生校内车祸身亡 校方通报避重就轻惹众怒](../pages/soh5/460001.md?t=01040801) 
+
+### 已转移至新页面 [中国新闻](H中国新闻.md?t=01040851) 
+
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
-#### [中国教育机构学霸君面临倒闭 5万学生退费难](../pages/soh5/459944.md?t=01040801) 
-#### [继上海后 广州也出现变种中共病毒病例](../pages/soh5/459974.md?t=01040801) 
-#### [传被边控 马云缺席自创真人秀 逾两月未露面](../pages/soh5/459947.md?t=01040801) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [有内情？鸡西区委书记被指抗疫不力重判10年半](../pages/soh5/459917.md?t=01040801) 
-#### [中共再就“中共病毒”源头甩锅 王毅声称“全球多地同时爆发”](../pages/soh5/459866.md?t=01040801) 
-#### [医学博士推介预防新冠病毒感染之有效办法](../pages/soh5/459824.md?t=01040801) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
-#### [王丹自爆检测阳性：中共病毒不会打倒我的](../pages/soh5/459845.md?t=01040801) 
-#### [辽宁沈阳现超级传播者 锦州爆疫情疑被隐瞒](../pages/soh5/459839.md?t=01040801) 
-#### [中国地方报逐渐消失 前业内人士解缘由](../pages/soh5/459818.md?t=01040801) 
-#### [风声鹤唳年代里的无惧之心 记录五位中国人权女侠](../pages/soh5/459677.md?t=01040801) 
-#### [人权律师吴有水妻葛红去世 生前为狱中爱子奔走无果](../pages/soh5/459674.md?t=01040801) 
-#### [严寒下中共推“灭火封锅”运动  民众难生活](../pages/soh5/459662.md?t=01040801) 
-#### [解局：习升上将异常 北京卫戍区不稳 武警高层换一半](../pages/soh5/459659.md?t=01040801) 
-#### [广东河源政协副秘书长上任2天即被查](../pages/soh5/459656.md?t=01040801) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh5-earlier.md)
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
