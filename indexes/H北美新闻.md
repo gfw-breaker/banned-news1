@@ -1,11 +1,28 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-
-### 已转移至新页面 [北美新闻](H北美新闻.md?t=01050102) 
-
+#### [祈祷词也政治正确？美左派反传统行为惹嘲笑](../pages/soh6/460403.md?t=01050151) 
+#### [章家敦：中共窃取人们DNA 或正准备生化战](../pages/soh6/460385.md?t=01050151) 
+#### [川普：我将参加1月6日华府“制止窃选”集会](../pages/soh6/460388.md?t=01050151) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [佩洛西牵头要删除性别词汇 麦卡锡批“愚蠢”](../pages/soh6/460382.md?t=01050151) 
+#### [拜登计划线上庆祝就职典礼 拆除游行检阅台](../pages/soh6/460169.md?t=01050151) 
+#### [克鲁兹：国会应对美国选民和宪法负责](../pages/soh6/460361.md?t=01050151) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [美副国安顾问：最新情报显示病毒来自武汉实验室](../pages/soh6/460205.md?t=01050151) 
+#### [国会认证在即 “停止窃选”项目创办人接受希望之声专访](../pages/soh6/460175.md?t=01050151) 
+#### [调查：美国3成医护不愿打中共病毒疫苗](../pages/soh6/460154.md?t=01050151) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [1月6日将发生什么？美国会联席会议流程一览](../pages/soh6/460130.md?t=01050151) 
+#### [白宫幕僚长：逾百众议员将挑战选举人团票](../pages/soh6/460139.md?t=01050151) 
+#### [美媒公开川普致电乔州官员录音 川普回应](../pages/soh6/460115.md?t=01050151) 
+#### [美两党成员开会前爆争执 起因一个口罩  ](../pages/soh6/460109.md?t=01050151) 
+#### [佩洛西以较小优势赢得众院议长连任](../pages/soh6/460094.md?t=01050151) 
+#### [美新晋众院民主党减少11席 两党制衡加剧](../pages/soh6/460085.md?t=01050151) 
+#### [Overstock创始人：中共正从内部瓦解并吞噬美国](../pages/soh6/460061.md?t=01050151) 
+#### [朱利安尼及纳瓦罗向数百议员介绍舞弊证据](../pages/soh6/460058.md?t=01050151) 
+#### [美弗吉尼亚州参议员染中共病毒后去世](../pages/soh6/460049.md?t=01050151) 
+#### [美情报官：中共用美人计“袭击”国会山](../pages/soh6/459806.md?t=01050151) 
+#### [彭斯：欢迎议员1月6日挑战选举并提交证据](../pages/soh6/459887.md?t=01050151) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
