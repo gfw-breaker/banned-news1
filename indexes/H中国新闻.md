@@ -1,25 +1,11 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-#### [大连小粉红挺封城“别添乱” 转头哭母亡无法尽孝](../pages/soh5/460562.md?t=01051402) 
-#### [面对可怕的大瘟疫 “三退”是最明智的选择  ](../pages/soh5/460487.md?t=01051402) 
-#### [习近平下令中共军队集中精力做“战争准备”](../pages/soh5/460499.md?t=01051402) 
+
+### 已转移至新页面 [中国新闻](H中国新闻.md?t=01051451) 
+
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
-#### [广东当局被曝曾因习到访隐瞒重大环境污染事故](../pages/soh5/460463.md?t=01051402) 
-#### [外媒：官方报导西藏共军自毁装置 目的令人费解](../pages/soh5/460454.md?t=01051402) 
-#### [2020年法轮功十大新闻（上）](../pages/soh5/460412.md?t=01051402) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [湖北仙桃男子送餐遭保安打死 外卖员困境再被关注](../pages/soh5/460298.md?t=01051402) 
-#### [有人蠢蠢欲动 习近平动手术是谣言？台媒：引蛇出洞](../pages/soh5/460328.md?t=01051402) 
-#### [王全璋受访感叹与世界脱轨 将继续投身维权事业](../pages/soh5/460253.md?t=01051402) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
-#### [军工大老虎胡问鸣被开除党籍 是江泽民老乡](../pages/soh5/460277.md?t=01051402) 
-#### [退伍军人质问习近平：说好的小康呢？](../pages/soh5/460274.md?t=01051402) 
-#### [传儿子遭美策反 港媒曝共军高官钱卫平涉朝鲜间谍案](../pages/soh5/460223.md?t=01051402) 
-#### [落马重庆公安局长邓恢林案有消息 涉不服习近平？ ](../pages/soh5/460247.md?t=01051402) 
-#### [代理12港人案 中国律师卢思位被吊销执业证书](../pages/soh5/460220.md?t=01051402) 
-#### [习近平自夸“书写抗疫史诗”  法媒轰中共魔鬼情节](../pages/soh5/460214.md?t=01051402) 
-#### [老人为何不能打？中国国产疫苗安全性再遭质疑](../pages/soh5/460196.md?t=01051402) 
-#### [敦煌市委书记 被曝十点起床下午打牌捞钱](../pages/soh5/460151.md?t=01051402) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh5-earlier.md)
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
