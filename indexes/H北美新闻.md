@@ -1,28 +1,11 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-#### [多个消息源证实：安提法是国会骚乱罪魁](../pages/soh6/461465.md?t=01080251) 
-#### [美国会认证拜登当选 川普：将有序交接政权](../pages/soh6/461420.md?t=01080251) 
-#### [蓬佩奥：不会旁观港人受共产党压迫 考虑对港警滥捕制裁 ](../pages/soh6/461351.md?t=01080251) 
+
+### 已转移至新页面 [北美新闻](H北美新闻.md?t=01080302) 
+
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
-#### [【快讯】美国会认证拜登胜出](../pages/soh6/461375.md?t=01080251) 
-#### [美国会山冲突4死52人被捕 两党办公室发现炸弹](../pages/soh6/461348.md?t=01080251) 
-#### [摇摆州认证挑战失败 拜登拿走选举人票](../pages/soh6/461336.md?t=01080251) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [退休军官：部分闯入国会示威者与安提法有关](../pages/soh6/461288.md?t=01080251) 
-#### [示威者骚乱平息 美国国会联席会议继续召开](../pages/soh6/461267.md?t=01080251) 
-#### [乔州两名民主党候选人赢得参院竞选](../pages/soh6/461228.md?t=01080251) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
-#### [美国会大厦内中枪女抗议者身亡](../pages/soh6/461219.md?t=01080251) 
-#### [为保安全和秩序 川普吁华府抗议者和平回家](../pages/soh6/461207.md?t=01080251) 
-#### [专家：如国会推翻选举结果 拜登将无能为力](../pages/soh6/461162.md?t=01080251) 
-#### [彭斯称无权左右选举人票 川普：缺乏勇气保卫宪法 ](../pages/soh6/461150.md?t=01080251) 
-#### [川普指示国民警卫队前往国会大厦](../pages/soh6/461186.md?t=01080251) 
-#### [被国会警察开枪击中脖子 女抗议者命危 ](../pages/soh6/461177.md?t=01080251) 
-#### [抗议者闯入建筑 美两院联席会议中途休会](../pages/soh6/461159.md?t=01080251) 
-#### [蓬佩奥：川普政府开了好头 但中共问题仍有待解决](../pages/soh6/461138.md?t=01080251) 
-#### [川普华府集会演讲：我们永远不会放弃](../pages/soh6/461132.md?t=01080251) 
-#### [接种辉瑞疫苗数周后 美国会议员仍染疫](../pages/soh6/461120.md?t=01080251) 
-#### [参议员决选 乔州多个共和党县投票机同时崩溃](../pages/soh6/461102.md?t=01080251) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
