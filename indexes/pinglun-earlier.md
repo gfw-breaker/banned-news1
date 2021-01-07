@@ -480,4 +480,3 @@
 #### [评论 | 江棋生：只要还捂得住，疫情就不是命令](../pages/pinglun/jiangqisheng-01292020111508.md)
 #### [评论 | 江静玲： 英国脱欧历史时刻的“中国恐惧” ](../pages/pinglun/jiangjingling-01312020122846.md)
 #### [评论 | 胡平：警防港府强推23条立法](../pages/pinglun/huping-12272019124907.md)
-#### [评论 | 胡平：对贸易战第一轮的盘点](../pages/pinglun/huping-12272019123454.md)
