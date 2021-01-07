@@ -1,11 +1,28 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-
-### 已转移至新页面 [北美新闻](H北美新闻.md?t=01071502) 
-
+#### [摇摆州认证挑战失败 拜登拿走选举人票](../pages/soh6/461336.md?t=01071551) 
+#### [退休军官：部分闯入国会示威者与安提法有关](../pages/soh6/461288.md?t=01071551) 
+#### [示威者骚乱平息 美国国会联席会议继续召开](../pages/soh6/461267.md?t=01071551) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [乔州两名民主党候选人赢得参院竞选](../pages/soh6/461228.md?t=01071551) 
+#### [美国会大厦内中枪女抗议者身亡](../pages/soh6/461219.md?t=01071551) 
+#### [为保安全和秩序 川普吁华府抗议者和平回家](../pages/soh6/461207.md?t=01071551) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [专家：如国会推翻选举结果 拜登将无能为力](../pages/soh6/461162.md?t=01071551) 
+#### [彭斯称无权左右选举人票 川普：缺乏勇气保卫宪法 ](../pages/soh6/461150.md?t=01071551) 
+#### [川普指示国民警卫队前往国会大厦](../pages/soh6/461186.md?t=01071551) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [被国会警察开枪击中脖子 女抗议者命危 ](../pages/soh6/461177.md?t=01071551) 
+#### [抗议者闯入建筑 美两院联席会议中途休会](../pages/soh6/461159.md?t=01071551) 
+#### [蓬佩奥：川普政府开了好头 但中共问题仍有待解决](../pages/soh6/461138.md?t=01071551) 
+#### [川普华府集会演讲：我们永远不会放弃](../pages/soh6/461132.md?t=01071551) 
+#### [接种辉瑞疫苗数周后 美国会议员仍染疫](../pages/soh6/461120.md?t=01071551) 
+#### [参议员决选 乔州多个共和党县投票机同时崩溃](../pages/soh6/461102.md?t=01071551) 
+#### [【希望之声TV直播】决定未来的重要时刻：美国会联席会议认证](../pages/soh6/461081.md?t=01071551) 
+#### [川普：彭斯应采取行动 驳回欺诈性结果](../pages/soh6/461108.md?t=01071551) 
+#### [深度分析：中共如何偷窃美国大选](../pages/soh6/461066.md?t=01071551) 
+#### [华府“制止窃选”集会 议员：美国不是第三世界国家](../pages/soh6/461021.md?t=01071551) 
+#### [抵制窃选华府集会 前海军陆战队中尉拒绝共产主义](../pages/soh6/461060.md?t=01071551) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
