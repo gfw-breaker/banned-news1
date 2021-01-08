@@ -1,3 +1,4 @@
+#### [专栏 | 不同的声音：接受耿爽建议：关注中国普通人“为自由而战”的民意](../pages/butongdeshengyin/jkdv-10112019153458.md)
 #### [“谋杀”硝烟下，访勇武派大三生李世豪](../pages/butongdeshengyin/jkdv-10022019152319.md)
 #### [专栏 | 不同的声音：美余在黎明前死去](../pages/butongdeshengyin/jkdv-09232019165235.md)
 #### [专栏 | 不同的声音：读《香港第一课》](../pages/butongdeshengyin/jkdv-09202019192455.md)
