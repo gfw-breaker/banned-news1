@@ -1,15 +1,3 @@
-#### [专栏 | 中国透视：从2020年澳中争执看中共战狼外交命运](../pages/zhongguotoushi/panel-01062021162250.md) 
-#### [专栏 | 中国透视：2020年中共外交地位的陨落](../pages/zhongguotoushi/panel-12302020160029.md) 
-#### [专栏 | 中国透视：中国民营企业寒冬 中共大幅让步欧盟](../pages/zhongguotoushi/panel-12232020190207.md) 
-#### [专栏 | 中国透视：年终回顾：2020大疫情下的中国与世界](../pages/zhongguotoushi/panel-12162020140530.md) 
-#### [专栏 | 中国透视：高速制裁与脱钩：美中关系前瞻](../pages/zhongguotoushi/panel-12092020165407.md) 
-#### [专栏 | 中国透视：山中无老虎，中共外交卡位忙](../pages/zhongguotoushi/ckd-12022020151520.md) 
-#### [专栏 | 中国透视：奇言分析：习近平谬赞张謇](../pages/zhongguotoushi/panel-11252020145145.md) 
-#### [专栏 | 中国透视：中国意识形态光谱地域分布的政治经济意涵](../pages/zhongguotoushi/panel-11182020171910.md) 
-#### [专栏 | 中国透视：从孙大午被拘和蚂蚁金服事件看中国民营企业的当下困境](../pages/zhongguotoushi/panel-11132020163328.md) 
-#### [专栏 | 中国透视：美国选后对华政策：必要性与可行性](../pages/zhongguotoushi/panel-11042020114955.md) 
-#### [专栏 | 中国透视： 两次冷战：同与不同](../pages/zhongguotoushi/panel-10282020155343.md) 
-#### [专栏 | 中国透视：从关于美国对外义战的风险承受度民调看其地缘政治后果](../pages/zhongguotoushi/panel-10212020122424.md) 
-#### [专栏 | 中国透视：台湾两党换位表态及美中台扑朔迷离互动](../pages/zhongguotoushi/panel-10142020160644.md) 
-#### [专栏 | 中国透视：从特朗普染疫、众院中国工作组报告、构建印太四国联盟看美中关系剧变](../pages/zhongguotoushi/panel-10082020153538.md) 
-#### [专栏 | 中国透视：七十一岁共产中国：回顾与预测](../pages/zhongguotoushi/panel-09302020132738.md) 
+
+### 已转移至新页面 [中国透视](R中国透视.md) 
+
