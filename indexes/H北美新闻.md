@@ -1,28 +1,11 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-#### [不畏谷歌下架苹果威胁 保守社媒帕勒坚持言论自由](../pages/soh6/462191.md?t=01100451) 
-#### [美国家情报总监增太空情报部门 确保国家安全](../pages/soh6/462188.md?t=01100451) 
-#### [评论：诚实面对大选舞弊 美国民主才有希望](../pages/soh6/462185.md?t=01100451) 
+
+### 已转移至新页面 [北美新闻](H北美新闻.md?t=01100502) 
+
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
-#### [拉斯穆森民调：川普支持率上升至51%](../pages/soh6/462179.md?t=01100451) 
-#### [川普：不会被推特灭声 将自建社交平台](../pages/soh6/462053.md?t=01100451) 
-#### [福克斯名嘴谈1月6日枪杀案：她绝非极端的孩子](../pages/soh6/461981.md?t=01100451) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [蓬佩奥：打击宗教自由将导致恐怖主义与暴力](../pages/soh6/461972.md?t=01100451) 
-#### [推特宣布永久删除美国总统川普账号](../pages/soh6/461960.md?t=01100451) 
-#### [章天亮:川普之后再无川普 美国保守主义将陷入一个低潮](../pages/soh6/461957.md?t=01100451) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
-#### [蓬佩奥反驳布什：国会骚乱不会令美国成香蕉共和国 ](../pages/soh6/461897.md?t=01100451) 
-#### [学者：中共控制留学生长期在美搞间谍活动](../pages/soh6/461882.md?t=01100451) 
-#### [被AOC要求辞职 克鲁兹：国会骚乱与我们无关](../pages/soh6/461906.md?t=01100451) 
-#### [1月7日全美单日死亡数首次突破4,000](../pages/soh6/461861.md?t=01100451) 
-#### [盗窃生物样本 哈佛中国学者被判刑](../pages/soh6/461849.md?t=01100451) 
-#### [华裔女科学家华府集会为支持自由和民主发声](../pages/soh6/461876.md?t=01100451) 
-#### [佩洛西等多议员笔电在国会骚乱中被盗](../pages/soh6/461870.md?t=01100451) 
-#### [川普：我不准备出席1月20日就职典礼](../pages/soh6/461867.md?t=01100451) 
-#### [前大陆资深记者驾车横跨美国 华府反共挺正义](../pages/soh6/461855.md?t=01100451) 
-#### [警察为安提法开道进国会？美议员：精心筹划的袭击](../pages/soh6/461828.md?t=01100451) 
-#### [消息：彭斯拒绝解除川普总统职务](../pages/soh6/461813.md?t=01100451) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
