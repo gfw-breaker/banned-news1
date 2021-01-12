@@ -1,28 +1,11 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-#### [删除川普账户后 推特股价跌12% 市值损50亿](../pages/soh6/462806.md?t=01120902) 
-#### [拜登就职委：众多高科技巨头为拜登就职典礼捐款](../pages/soh6/462782.md?t=01120902) 
-#### [美经济学教授：向大选舞弊屈服绝非爱国](../pages/soh6/462773.md?t=01120902) 
+
+### 已转移至新页面 [北美新闻](H北美新闻.md?t=01120951) 
+
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
-#### [反对弹劾总统 多位议员吁议长停止分裂国家](../pages/soh6/462764.md?t=01120902) 
-#### [美议员敦促佩洛西 停止在国会派发《中国日报》](../pages/soh6/462740.md?t=01120902) 
-#### [最新研究：辉瑞疫苗可抵抗两类变种中共病毒](../pages/soh6/462734.md?t=01120902) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [第一夫人：国会事件令人失望 吁美国尽快疗伤](../pages/soh6/462737.md?t=01120902) 
-#### [死者总数破3万 美加州经历中共病毒“致命周末”](../pages/soh6/462731.md?t=01120902) 
-#### [美国安顾问：美国将采取进一步措施应对中共](../pages/soh6/462719.md?t=01120902) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
-#### [佩洛西拟二次弹劾川普 法学教授：此举违宪](../pages/soh6/462692.md?t=01120902) 
-#### [Parler或被封杀至破产 美议员吁调查科技巨头](../pages/soh6/462698.md?t=01120902) 
-#### [川普令全国降半旗 纪念国会骚乱遇难警察](../pages/soh6/462614.md?t=01120902) 
-#### [环时警告蓬佩奥卸任前勿访台  美：搞错状况](../pages/soh6/462593.md?t=01120902) 
-#### [芝加哥发生连环枪击案 酿3死4伤 中国博士不幸遇难](../pages/soh6/462596.md?t=01120902) 
-#### [蓬佩奥重拳出击 落实川普外交政策打击中共](../pages/soh6/462557.md?t=01120902) 
-#### [川普拟赴德州美墨边境 走访边境墙](../pages/soh6/462530.md?t=01120902) 
-#### [西弗吉尼亚州众议员因参与国会示威辞职](../pages/soh6/462521.md?t=01120902) 
-#### [美司法部调查1月6日国会女性受害者案](../pages/soh6/462515.md?t=01120902) 
-#### [华裔发声：美国不要重蹈专制中共国覆辙](../pages/soh6/462503.md?t=01120902) 
-#### [I&I社论：民主党制下的美国或成“大加州”](../pages/soh6/462470.md?t=01120902) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
