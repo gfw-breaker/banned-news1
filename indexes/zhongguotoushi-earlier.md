@@ -1,3 +1,4 @@
+#### [专栏 | 中国透视：中共强化对民营企业的管控和攫取](../pages/zhongguotoushi/panel-09232020184951.md)
 #### [专栏 | 中国透视：从蒙古民族反同化斗争看当下中共边陲危机](../pages/zhongguotoushi/pppp-09092020155035.md)
 #### [专栏 | 中国透视： 年终回顾：2019年中共的政治与外交](../pages/zhongguotoushi/panel-12252019122049.md)
 #### [专栏 | 中国透视：  年终回顾：2019年中国经贸轨迹](../pages/zhongguotoushi/panel-12202019130626.md)
