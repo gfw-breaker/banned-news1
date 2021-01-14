@@ -1,11 +1,28 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-
-### 已转移至新页面 [北美新闻](H北美新闻.md?t=01141002) 
-
+#### [蓬佩奥重申中共是威胁 美至今未得武汉病毒重要信息](../pages/soh6/463604.md?t=01141051) 
+#### [川普发布演讲：从事暴力者在攻击我们国家](../pages/soh6/463595.md?t=01141051) 
+#### [美国全面禁止中国新疆番茄、棉花及其制品出口](../pages/soh6/463574.md?t=01141051) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [李军: 川普四招搞定朝核危机 金正恩为何又放狂言](../pages/soh6/463568.md?t=01141051) 
+#### [美众院通过弹劾川普 参院预1月19日投票](../pages/soh6/463556.md?t=01141051) 
+#### [川普发新声明 吁民众勿参与暴力违法活动](../pages/soh6/463541.md?t=01141051) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [蓬佩奥：川普逆转了前政府对中共的绥靖政策](../pages/soh6/463520.md?t=01141051) 
+#### [推“脱美独立” 德州议员：还有数州也感兴趣](../pages/soh6/463526.md?t=01141051) 
+#### [美前议员注册外国代理人服务中共 压力下取消](../pages/soh6/463532.md?t=01141051) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [章天亮: 对待美国大选的四大教训与未来的四大策略(下)](../pages/soh6/463502.md?t=01141051) 
+#### [反击言论审查 佛州众议员吁抵制科技巨头](../pages/soh6/463508.md?t=01141051) 
+#### [美参议员：将反对任何让美走向社会主义的提案](../pages/soh6/463487.md?t=01141051) 
+#### [英变种病毒传至美7州 美国疫情再攀升](../pages/soh6/463481.md?t=01141051) 
+#### [支持弹劾川普 众院共和党三号人物被要求辞职](../pages/soh6/463436.md?t=01141051) 
+#### [福克斯名主持：大公司和左派已结盟压制异己](../pages/soh6/463445.md?t=01141051) 
+#### [应客户要求 爱达荷网商屏蔽脸书推特](../pages/soh6/463304.md?t=01141051) 
+#### [加检方证实：华为曾包波音777准备接孟晚舟回国 ](../pages/soh6/463346.md?t=01141051) 
+#### [日增近百万用户 Gab收到上千矽谷精英求职](../pages/soh6/463277.md?t=01141051) 
+#### [美军参谋长联席会谴责国会事件 誓言军队捍卫宪法](../pages/soh6/463262.md?t=01141051) 
+#### [彭斯正式拒绝国会弹劾川普 声明译文一览](../pages/soh6/463253.md?t=01141051) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
