@@ -1,28 +1,11 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-#### [违反常武规定 美国务院制裁中共阿联酋伊朗七家公司](../pages/soh6/464768.md?t=01180201) 
-#### [寄望拜登移民政策 九千洪都拉斯人向美墨边界进发](../pages/soh6/464765.md?t=01180201) 
-#### [加媒：武汉军运会向加拿大播毒事实被政府隐瞒](../pages/soh6/464609.md?t=01180201) 
+
+### 已转移至新页面 [北美新闻](H北美新闻.md?t=01180251) 
+
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
-#### [刘锐绍：川普埋下很多炸弹 随时炸拜登](../pages/soh6/464717.md?t=01180201) 
-#### [美55人接种中共病毒疫苗后死亡 96人命危](../pages/soh6/464522.md?t=01180201) 
-#### [美记者详述在美遭审查经历：宛如身在中国](../pages/soh6/464552.md?t=01180201) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [CDC：美10州发现高传播率变种中共病毒](../pages/soh6/464504.md?t=01180201) 
-#### [“我的枕头”总裁白宫见川普 递神秘字条 ](../pages/soh6/464501.md?t=01180201) 
-#### [入侵国会被捕后 黑命贵头目已无保获释](../pages/soh6/464498.md?t=01180201) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
-#### [推特封杀川普 却保留中共造假新疆宣传片](../pages/soh6/464489.md?t=01180201) 
-#### [宗教自由日 蓬佩奥指中共对美构成真实威胁](../pages/soh6/464486.md?t=01180201) 
-#### [美国务院：中共病毒源头或牵涉中共军方](../pages/soh6/464249.md?t=01180201) 
-#### [美新一轮反垄断诉讼谷歌  应用商店成焦点](../pages/soh6/464354.md?t=01180201) 
-#### [【走入美国】德州逮捕贿选者曝舞弊手段无奇不有 ](../pages/soh6/464369.md?t=01180201) 
-#### [美国消费者支出疲软 零售销售连续三月下降 ](../pages/soh6/464303.md?t=01180201) 
-#### [美国国税局于2月12日开始接受报税](../pages/soh6/464282.md?t=01180201) 
-#### [江峰: 中共操弄借力媒体与网络巨头的逻辑及手段](../pages/soh6/464273.md?t=01180201) 
-#### [拜登上任当天 川普将离开白宫回海湖庄园](../pages/soh6/464252.md?t=01180201) 
-#### [美国制裁中共统战部长、人大常委等6名中港高官](../pages/soh6/464237.md?t=01180201) 
-#### [美媒：国会再次弹劾川普 意在推翻下届大选](../pages/soh6/464255.md?t=01180201) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
