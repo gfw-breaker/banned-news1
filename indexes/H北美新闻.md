@@ -1,28 +1,11 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-#### [魔咒？庚子年当选美国总统全死于任内 ](../pages/soh6/465074.md?t=01190302) 
-#### [逆转川普政策 拜登上任首日将颁12项行政令](../pages/soh6/465098.md?t=01190302) 
-#### [数千非法移民欲往美国 与危地马拉边警爆冲突](../pages/soh6/465107.md?t=01190302) 
+
+### 已转移至新页面 [北美新闻](H北美新闻.md?t=01190351) 
+
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
-#### [白宫公布川普执政四年成就：长长成绩单](../pages/soh6/464951.md?t=01190302) 
-#### [美病毒专家：巴西南非变种中共病毒更凶恶](../pages/soh6/464948.md?t=01190302) 
-#### [遭左翼报复 支持川普的法律教授被迫辞职](../pages/soh6/465062.md?t=01190302) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [为保总统就职典礼安全 2.5万驻华府军人被审查](../pages/soh6/465038.md?t=01190302) 
-#### [美著名歌手批评科技巨头：从邪恶中获利](../pages/soh6/464954.md?t=01190302) 
-#### [德州医师警告：冠状病毒患者肺部比重度烟民还糟](../pages/soh6/464894.md?t=01190302) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
-#### [美媒：国家情报总监证实中共寻求干预选举](../pages/soh6/464855.md?t=01190302) 
-#### [美国NASA登月火箭组件测试 引擎出故障](../pages/soh6/464780.md?t=01190302) 
-#### [1月6日后第5位美国议员确诊中共病毒 曾接种疫苗](../pages/soh6/464795.md?t=01190302) 
-#### [李军: 推特等五大公司封禁川普的真实原因](../pages/soh6/464804.md?t=01190302) 
-#### [以色列示警：拜登与伊朗已就恢复核协议进行对话  ](../pages/soh6/464771.md?t=01190302) 
-#### [戈雅CEO：媒体与大科技想取消信仰、言论自由与历史](../pages/soh6/464774.md?t=01190302) 
-#### [美国务院制裁中共阿联酋伊朗七家公司](../pages/soh6/464768.md?t=01190302) 
-#### [寄望拜登移民政策 九千洪都拉斯人向美墨边界进发](../pages/soh6/464765.md?t=01190302) 
-#### [加媒：武汉军运会向加拿大播毒事实被政府隐瞒](../pages/soh6/464609.md?t=01190302) 
-#### [刘锐绍：川普埋下很多炸弹 随时炸拜登](../pages/soh6/464717.md?t=01190302) 
-#### [美55人接种中共病毒疫苗后死亡 96人命危](../pages/soh6/464522.md?t=01190302) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
