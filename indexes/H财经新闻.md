@@ -1,11 +1,28 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-
-### 已转移至新页面 [财经新闻](H财经新闻.md?t=01190551) 
-
+#### [贵州政府负债率超200% 茅台成还债提款机](../pages/soh7/465149.md?t=01190601) 
+#### [A股“稳压器”15天被抛售113亿份 价值185亿](../pages/soh7/465122.md?t=01190601) 
+#### [IMF：中国经济最深层短板恐怕正在恶化](../pages/soh7/465104.md?t=01190601) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [中国去年GDP破百万亿 专家：13元债务产出1元GDP](../pages/soh7/465083.md?t=01190601) 
+#### [禁澳洲煤？中共从他国进口的仍是澳洲煤](../pages/soh7/464621.md?t=01190601) 
+#### [芯片短缺迫使全球汽车巨头减产或停产 ](../pages/soh7/464261.md?t=01190601) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [川普新规：禁止从中国和伊朗等国家购买通信产品](../pages/soh7/464258.md?t=01190601) 
+#### [专家：川普黑名单恐让中共大型客机梦想胎死腹中](../pages/soh7/464246.md?t=01190601) 
+#### [美国将9家中企加入涉军黑名单 包括中国商飞和小米](../pages/soh7/464003.md?t=01190601) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [马云“失踪”  投资者怀疑阿里80亿美元债还能否发行](../pages/soh7/463898.md?t=01190601) 
+#### [中共病毒再度爆发 中国股市创四个月来最大跌幅](../pages/soh7/463874.md?t=01190601) 
+#### [川普行政令修订版 要求11月11日前出清涉军中企股票](../pages/soh7/463862.md?t=01190601) 
+#### [经济下行 中国信托业风险加速暴露](../pages/soh7/463538.md?t=01190601) 
+#### [机构报告：2020年北京甲级写字楼空置率达15.8%](../pages/soh7/463535.md?t=01190601) 
+#### [春华资本董事长胡祖六：相信马云“平安无事”](../pages/soh7/463484.md?t=01190601) 
+#### [提名贸易代表：抗衡中国不公贸易  继续执行川普协议](../pages/soh7/463310.md?t=01190601) 
+#### [2020中国乘用车销量下降6.8%  手机出货量下滑21%](../pages/soh7/463151.md?t=01190601) 
+#### [芯片短缺 丰田汽车中国部分生产线停产](../pages/soh7/463142.md?t=01190601) 
+#### [应川普禁令 美国三大投行撤下数百只中资衍生产品](../pages/soh7/463139.md?t=01190601) 
+#### [股票就是选票？美国5大科技巨头市值蒸发1466亿美元](../pages/soh7/463082.md?t=01190601) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh7-earlier.md)
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
