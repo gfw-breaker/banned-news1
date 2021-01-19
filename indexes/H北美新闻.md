@@ -1,11 +1,28 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-
-### 已转移至新页面 [北美新闻](H北美新闻.md?t=01200451) 
-
+#### [川普：高院错判许堕胎 致5千万无辜生命丧失](../pages/soh6/465506.md?t=01200501) 
+#### [江峰: 疫情、重兵与12项行政令 拜登将给美国带来什么 ](../pages/soh6/465512.md?t=01200501) 
+#### [白宫预算办：川普政府2020对华援助减半](../pages/soh6/465500.md?t=01200501) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [蓬佩奥：中共在新疆犯下“种族灭绝”与“反人类罪”](../pages/soh6/465497.md?t=01200501) 
+#### [移民活动人士：拜登一上任就要大改移民法](../pages/soh6/465479.md?t=01200501) 
+#### [拜登许诺给非法移民身份 引数千难民抵边境](../pages/soh6/465488.md?t=01200501) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [拜登提名左派议员沃伦的盟友任金融监管要职](../pages/soh6/465437.md?t=01200501) 
+#### [美智库主席：川普应定中共为跨国犯罪组织](../pages/soh6/465422.md?t=01200501) 
+#### [德州州长：FBI考核国民卫队忠诚是“冒犯”](../pages/soh6/465392.md?t=01200501) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [川普下令联邦政府优先弃用中国制无人机](../pages/soh6/465305.md?t=01200501) 
+#### [川普取消对欧州与巴西旅行限制 维持对中、伊封锁](../pages/soh6/465245.md?t=01200501) 
+#### [五角大楼证实FBI参与调查华府国民警卫队](../pages/soh6/465233.md?t=01200501) 
+#### [梅拉尼娅：担任第一夫人是“我一生中最高的荣誉”](../pages/soh6/465191.md?t=01200501) 
+#### [川普政府颁法令 保护现任与前司法人员人身安全](../pages/soh6/465215.md?t=01200501) 
+#### [政治气候转变 美国年度拥枪集会参与者寥寥](../pages/soh6/465194.md?t=01200501) 
+#### [章天亮: 拜登上台国内不会平顺 美中不会相安无事](../pages/soh6/465158.md?t=01200501) 
+#### [【直播回放】第一夫人梅拉尼亚发表告别演说](../pages/soh6/465161.md?t=01200501) 
+#### [重新上线 Parler总裁誓言维护公民话语权](../pages/soh6/465155.md?t=01200501) 
+#### [共和党参院大佬促民主党勿弹劾川普](../pages/soh6/465152.md?t=01200501) 
+#### [主语不同结果相反？谷歌“奇葩”翻译惹议](../pages/soh6/465137.md?t=01200501) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
