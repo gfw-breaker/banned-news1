@@ -1,28 +1,11 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-#### [政治气候转变 美国年度拥枪集会参与者寥寥](../pages/soh6/465194.md?t=01191001) 
-#### [章天亮: 拜登上台国内不会平顺 美中不会相安无事](../pages/soh6/465158.md?t=01191001) 
-#### [【直播回放】第一夫人梅拉尼亚发表告别演说](../pages/soh6/465161.md?t=01191001) 
+
+### 已转移至新页面 [北美新闻](H北美新闻.md?t=01191051) 
+
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
-#### [重新上线 Parler总裁誓言维护公民话语权](../pages/soh6/465155.md?t=01191001) 
-#### [共和党参院大佬促民主党勿弹劾川普](../pages/soh6/465152.md?t=01191001) 
-#### [主语不同结果相反？谷歌“奇葩”翻译惹议](../pages/soh6/465137.md?t=01191001) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [新任CDC主任：美2月中或增10万染疫死者](../pages/soh6/465128.md?t=01191001) 
-#### [连发数十推文 蓬佩奥开足火力猛攻中共](../pages/soh6/465068.md?t=01191001) 
-#### [魔咒？庚子年当选美国总统全死于任内 ](../pages/soh6/465074.md?t=01191001) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
-#### [逆转川普政策 拜登上任首日将颁12项行政令](../pages/soh6/465098.md?t=01191001) 
-#### [数千非法移民欲往美国 与危地马拉边警爆冲突](../pages/soh6/465107.md?t=01191001) 
-#### [白宫公布川普执政四年成就：长长成绩单](../pages/soh6/464951.md?t=01191001) 
-#### [美病毒专家：巴西南非变种中共病毒更凶恶](../pages/soh6/464948.md?t=01191001) 
-#### [遭左翼报复 支持川普的法律教授被迫辞职](../pages/soh6/465062.md?t=01191001) 
-#### [为保总统就职典礼安全 2.5万驻华府军人被审查](../pages/soh6/465038.md?t=01191001) 
-#### [美著名歌手批评科技巨头：从邪恶中获利](../pages/soh6/464954.md?t=01191001) 
-#### [德州医师警告：冠状病毒患者肺部比重度烟民还糟](../pages/soh6/464894.md?t=01191001) 
-#### [美媒：国家情报总监证实中共寻求干预选举](../pages/soh6/464855.md?t=01191001) 
-#### [美国NASA登月火箭组件测试 引擎出故障](../pages/soh6/464780.md?t=01191001) 
-#### [1月6日后第5位美国议员确诊中共病毒 曾接种疫苗](../pages/soh6/464795.md?t=01191001) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
