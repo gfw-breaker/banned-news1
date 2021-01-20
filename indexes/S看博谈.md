@@ -1,31 +1,11 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-#### [中国护照能把你从任何地方接回家？大使馆：请你不要回家(图)](../pages/p4/959674.md) 
-#### [【百年百首咏史】七十二：偷渡潮(图)](../pages/p4/959658.md) 
-#### [【东方纵横】疫情致死远超统计(视频)](../pages/p4/959545.md) 
+
+### 已转移至新页面 [看博谈](S看博谈.md?t=01202352) 
+
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
-#### [香港特首由协商产生的奇妙建议(图)](../pages/p4/959537.md) 
-#### [习近平请星巴克帮忙 管用吗？(图)](../pages/p4/959535.md) 
-#### [入侵美国国会？危险早就在这一天到来(图)](../pages/p4/959458.md) 
+
+----
+#### [ >>> 更早内容 <<< ](../indexes/p4-earlier.md)
 #### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [川统领话中有话！白等命不久矣？？(视频)](../pages/p4/959745.md) 
-#### [白等新政策 家里有女孩要注意了 这是人类世界吗？(视频)](../pages/p4/959719.md) 
-#### [限电挨冻背后的中共“大棋”(图)](../pages/p4/959663.md) 
 #### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
-#### [中国护照能把你从任何地方接回家？大使馆：请你不要回家(图)](../pages/p4/959674.md) 
-#### [川普最突出政绩：揭穿中共(图)](../pages/p4/959672.md) 
-#### [习近平的“时与势”究竟指什么？(图)](../pages/p4/959662.md) 
-#### [疫情肆虐 习近平何不效仿古代帝王？(图)](../pages/p4/959668.md) 
-#### [【百年百首咏史】七十二：偷渡潮(图)](../pages/p4/959658.md) 
-#### [黎明前的曙光！川统领稳了！(视频)](../pages/p4/959610.md) 
-#### [毛新宇10年前预言：中共将亡于2021年(视频)](../pages/p4/959603.md) 
-#### [为川普总统鼓与呼(图)](../pages/p4/959583.md) 
-#### [陶杰：中国黄金机会来了(图)](../pages/p4/959540.md) 
-#### [【东方纵横】疫情致死远超统计(视频)](../pages/p4/959545.md) 
-#### [李怡：大选争议还会持续(图)](../pages/p4/959542.md) 
-#### [我为什么突然变成了川普的支持者(图)](../pages/p4/959538.md) 
-#### [香港特首由协商产生的奇妙建议(图)](../pages/p4/959537.md) 
-#### [习近平请星巴克帮忙 管用吗？(图)](../pages/p4/959535.md) 
-#### [入侵美国国会？危险早就在这一天到来(图)](../pages/p4/959458.md) 
-#### [疫情攻入北京 中国多地出现随地倒(视频)](../pages/p4/959502.md) 
-#### [拜登的任期是11个月？诺查丹玛斯讲的太详细(视频)](../pages/p4/959485.md) 
