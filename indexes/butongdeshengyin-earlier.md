@@ -1,3 +1,4 @@
+#### [专栏 | 不同的声音：我和我的祖国，象海和浪花一朵 他和她的香港，半句都不能言说](../pages/butongdeshengyin/jkdv-10172019210234.md)
 #### [专栏 | 不同的声音：接受耿爽建议：关注中国普通人“为自由而战”的民意](../pages/butongdeshengyin/jkdv-10112019153458.md)
 #### [“谋杀”硝烟下，访勇武派大三生李世豪](../pages/butongdeshengyin/jkdv-10022019152319.md)
 #### [专栏 | 不同的声音：美余在黎明前死去](../pages/butongdeshengyin/jkdv-09232019165235.md)
