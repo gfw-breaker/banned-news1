@@ -1,11 +1,28 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-
-### 已转移至新页面 [北美新闻](H北美新闻.md?t=01260751) 
-
+#### [更多参议员站出来反对弹劾川普](../pages/soh6/467630.md?t=01260802) 
+#### [拜登签署行政令 允许变性人参军](../pages/soh6/467633.md?t=01260802) 
+#### [参院临时议长将主持川普弹劾审讯 而非大法官 ](../pages/soh6/467636.md?t=01260802) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [川普降低药价行政令刚实施 就遭拜登冻结](../pages/soh6/467609.md?t=01260802) 
+#### [拜登拟签《美国制造法》支持本土企业](../pages/soh6/467597.md?t=01260802) 
+#### [白宫发言人：拜登政府促国会通过纾困案](../pages/soh6/467606.md?t=01260802) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [美议员怒斥ABC记者 指大选舞弊证据确凿](../pages/soh6/467588.md?t=01260802) 
+#### [前DHS代理部长：拜登阻遣非法移民危害公卫](../pages/soh6/467570.md?t=01260802) 
+#### [美记者：极左翼发推召集骚乱 推特毫无作为](../pages/soh6/467555.md?t=01260802) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [美最高法院驳回两起对川普薪酬诉讼](../pages/soh6/467552.md?t=01260802) 
+#### [美媒：川普无意建新党 要帮共和党赢回两院](../pages/soh6/467549.md?t=01260802) 
+#### [美原住民部落：拜登石油政策攻击其经济和主权](../pages/soh6/467519.md?t=01260802) 
+#### [前白宫发言人桑德斯宣布参选阿肯色州长](../pages/soh6/467471.md?t=01260802) 
+#### [获川普背书 亚利桑那共和党主席再当选](../pages/soh6/467435.md?t=01260802) 
+#### [美国安委：拜登谴责中共在新疆犯种族灭绝罪](../pages/soh6/467438.md?t=01260802) 
+#### [美边境保护局：近期南部边境非法移民剧增](../pages/soh6/467402.md?t=01260802) 
+#### [拜登将恢复外国疫情旅行禁令 清单增加南非](../pages/soh6/467381.md?t=01260802) 
+#### [接种中共病毒疫苗 加州一居民数小时后死亡](../pages/soh6/467351.md?t=01260802) 
+#### [麦卡锡谴责拜登政策“把中国放第一 美国最后”](../pages/soh6/467354.md?t=01260802) 
+#### [拜登上任首周 多名美国之音原高层被解雇 ](../pages/soh6/467336.md?t=01260802) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
