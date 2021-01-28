@@ -465,5 +465,3 @@
 #### [CNN记者：民主党人周一正式启动弹劾川普](../pages/prog203/a103028798.md)
 #### [谷歌、苹果审查Parler 蓬佩奥、黑利：噤声是中共作法](../pages/prog203/a103028801.md)
 #### [Youtube封杀班农“作战室”频道](../pages/prog203/a103028812.md)
-#### [遭下架 ParlerCEO：不向大科企独裁者屈服](../pages/prog203/a103028657.md)
-#### [传川普将加入 Parler突遭Google Play删除](../pages/prog203/a103028806.md)
