@@ -1,3 +1,4 @@
+#### [专栏 | 中国一周（2020年9月28日-2020年10月2日） ](../pages/zhongguoyizhou/review-10012020190248.md)
 #### [ 专栏 | 中国一周（2020年9月19日-2020年9月25日） ](../pages/zhongguoyizhou/review-09242020165744.md)
 #### [专栏 | 中国一周（2020年9月12日-2020年9月18日） ](../pages/zhongguoyizhou/review-09172020183112.md)
 #### [专栏 | 中国一周（2019年12月21日-12月27日）](../pages/zhongguoyizhou/review-12262019163127.md)
