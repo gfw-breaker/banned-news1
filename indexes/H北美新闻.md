@@ -1,28 +1,11 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-#### [奥巴马宣布年内建设巨型总统中心](../pages/soh6/470780.md?t=02040701) 
-#### [FBI查案遭遇伏击 特工2死3伤 细节公开](../pages/soh6/470795.md?t=02040701) 
-#### [白宫秘书拿美国太空军开玩笑 被迫道歉](../pages/soh6/470732.md?t=02040701) 
+
+### 已转移至新页面 [北美新闻](H北美新闻.md?t=02040751) 
+
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
-#### [美媒：拜登政府预将难民接收数提升8倍](../pages/soh6/470771.md?t=02040701) 
-#### [拜登再签三项行政令 放宽美国移民政策 ](../pages/soh6/470753.md?t=02040701) 
-#### [台海与中印边境紧张 美三航母齐聚印太](../pages/soh6/470759.md?t=02040701) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [江峰: 智库报告玄机深 是谁要美国搞掉习近平？](../pages/soh6/470741.md?t=02040701) 
-#### [霍利因挑战选举人团遭攻击 但支持者急增](../pages/soh6/470729.md?t=02040701) 
-#### [章天亮: 东西方“两马”均遭绊 中共将与高科技对决](../pages/soh6/470669.md?t=02040701) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
-#### [分析：川普与建制派之争 攸关共和党未来](../pages/soh6/470684.md?t=02040701) 
-#### [CNN批贺锦丽：受访时犯“低级错误”](../pages/soh6/470666.md?t=02040701) 
-#### [川普针对弹劾案回复参议院（全文）](../pages/soh6/470498.md?t=02040701) 
-#### [记者问拜习何时通话 白宫答：不急](../pages/soh6/470660.md?t=02040701) 
-#### [确保美继续制裁华为 美议员吁延后认证商务部长](../pages/soh6/470627.md?t=02040701) 
-#### [土拨鼠预测：美冬季尚有六周 春天无比美好](../pages/soh6/470501.md?t=02040701) 
-#### [中共喊话“中美合作” 美国务院：耐心等着](../pages/soh6/470549.md?t=02040701) 
-#### [佛州警告：审查言论的科技巨头将受到惩罚](../pages/soh6/470468.md?t=02040701) 
-#### [杜鲁多哈里斯通话 美承诺协助救中共关押人质  ](../pages/soh6/470399.md?t=02040701) 
-#### [美专家：中共军队想用“这招”偷袭台湾](../pages/soh6/470402.md?t=02040701) 
-#### [SpaceX期待今年载人游太空 门栏最低10美元](../pages/soh6/470348.md?t=02040701) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
