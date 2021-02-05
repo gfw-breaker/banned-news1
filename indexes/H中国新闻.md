@@ -1,11 +1,25 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-
-### 已转移至新页面 [中国新闻](H中国新闻.md?t=02051351) 
-
+#### [习近平访贵阳大阵仗 安保疑现疏漏 可能被枪击？](../pages/soh5/471275.md?t=02051401) 
+#### [习近平考察贵州 中共运动式“脱贫”再引关注](../pages/soh5/471257.md?t=02051401) 
+#### [山东诸城硫化氢中毒已四人死 或数万吨剧毒物质流走](../pages/soh5/471260.md?t=02051401) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [内蒙女主席病倒 只要不死就不去职？中共秘密曝光](../pages/soh5/471233.md?t=02051401) 
+#### [世卫专家到访武汉病毒所 “泄毒”再成焦点](../pages/soh5/471206.md?t=02051401) 
+#### [中国疫苗不透明 法国总统警告恐引发危机](../pages/soh5/471155.md?t=02051401) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [前共军中校：中共对台已不在乎撕破脸 未来有更大危机](../pages/soh5/471149.md?t=02051401) 
+#### [河南伊川县法院书记员法警遭欠薪数月 敢怒不敢言](../pages/soh5/471062.md?t=02051401) 
+#### [司法污名化？中共最高法称可对境外疑犯缺席审判 ](../pages/soh5/471020.md?t=02051401) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [中共建党百年心发慌？罕见发文要娃娃们须跟党走](../pages/soh5/471038.md?t=02051401) 
+#### [上海疫情再上热搜 浦东危险？](../pages/soh5/471035.md?t=02051401) 
+#### [又穿帮 山东“困难户”家中摆茅台 官方解释民不买帐](../pages/soh5/471017.md?t=02051401) 
+#### [涉隐瞒参与千人计划 中国籍教授被控欺诈等10项罪](../pages/soh5/470984.md?t=02051401) 
+#### [中国假疫苗流向海外 法媒：假货创造了多少GDP？](../pages/soh5/470978.md?t=02051401) 
+#### [北京无视家属请求 将余文生关进离家更远的南京监狱](../pages/soh5/470966.md?t=02051401) 
+#### [江西民众在财政局前烧香惊动中央 网民热议](../pages/soh5/470939.md?t=02051401) 
+#### [世卫专家在武汉：现场提问需提前两天发给当局审核](../pages/soh5/470921.md?t=02051401) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh5-earlier.md)
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
