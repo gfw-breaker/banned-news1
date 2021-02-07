@@ -465,4 +465,3 @@
 #### [Parler执行长被迫躲避死亡威胁](../pages/prog203/a103033802.md)
 #### [MyPillow CEO当“信使” 传话川普更换中情局局长](../pages/prog203/a103033818.md)
 #### [冲击国会的BLM成员获有条件释放 无须保释](../pages/prog203/a103033793.md)
-#### [MyPillow CEO拜访川普 手中文件现“戒严”字样](../pages/prog203/a103033767.md)
