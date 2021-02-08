@@ -1,3 +1,4 @@
+#### [专栏 | 夜话中南海：强卫“寸心无愧”的自辩激怒习近平](../pages/yehuazhongnanhai/gx-11302020185656.md)
 #### [专栏 | 夜话中南海：未步苏荣后尘，强卫的不幸与万幸](../pages/yehuazhongnanhai/gx-12042020155932.md)
 #### [专栏 | 夜话中南海：赵乐际当年省委书记的前后任都是“党内巨贪”](../pages/yehuazhongnanhai/gx-12072020163852.md)
 #### [专栏 | 夜话中南海：习近平与赵乐际之间的私人情谊](../pages/yehuazhongnanhai/gx-12112020154611.md)
