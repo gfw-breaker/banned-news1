@@ -1,28 +1,11 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-#### [参议员倒戈弹劾川普 两地共和党人集体谴责](../pages/soh6/473252.md?t=02110901) 
-#### [章天亮: 为啥纳瓦罗说司法部巴尔参与了“政变”](../pages/soh6/473231.md?t=02110901) 
-#### [白宫：拜登要学校重开 至少一周一天](../pages/soh6/473213.md?t=02110901) 
+
+### 已转移至新页面 [北美新闻](H北美新闻.md?t=02110951) 
+
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
-#### [创纪录 全美去年近4千万人买枪 女性老人大增](../pages/soh6/473216.md?t=02110901) 
-#### [小川普：弹劾不应是国会重点 帮人民度难关才是](../pages/soh6/473180.md?t=02110901) 
-#### [美多名议员严厉批评世卫“病毒起源非武汉实验室”之说](../pages/soh6/473198.md?t=02110901) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [导致血液病、猝死 美新冠疫苗安全也被质疑](../pages/soh6/473165.md?t=02110901) 
-#### [为何国民警卫队仍留守华府 共和党议员称“无答案”](../pages/soh6/473189.md?t=02110901) 
-#### [针对大技术垄断 美参院拟改革反托拉斯法](../pages/soh6/473186.md?t=02110901) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
-#### [福克斯名主持：权势阶层共谋 掩盖新冠疫苗问题](../pages/soh6/473159.md?t=02110901) 
-#### [蓬佩奥促拜登：先保美国人利益 勿在乎习近平](../pages/soh6/473144.md?t=02110901) 
-#### [川普律师：弹劾对美国是错误和痛苦的过程](../pages/soh6/473036.md?t=02110901) 
-#### [消息：弹劾辩护律师开场表现太差 川普不满](../pages/soh6/473099.md?t=02110901) 
-#### [密歇根共和党领袖：国会山骚乱是预设骗局](../pages/soh6/473012.md?t=02110901) 
-#### [黑客黑心？佛州供水系统被黑 饮水差点变毒水](../pages/soh6/473123.md?t=02110901) 
-#### [美国疫苗供不应求 分发进入棘手阶段](../pages/soh6/472934.md?t=02110901) 
-#### [美议员提案：暂停援助WHO 直至撤换领导层并接受台湾](../pages/soh6/472955.md?t=02110901) 
-#### [美候任预算局长：中国技术构成安全威胁](../pages/soh6/472982.md?t=02110901) 
-#### [美国务院：北京可能未与世卫组织诚实合作](../pages/soh6/472943.md?t=02110901) 
-#### [美媒揭美国名校为中共提供大数据咨询](../pages/soh6/472919.md?t=02110901) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
