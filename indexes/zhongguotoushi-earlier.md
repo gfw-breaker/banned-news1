@@ -1,3 +1,4 @@
+#### [专栏 | 中国透视：特朗普的对华政策：哪些会继承，哪些会遗弃？](../pages/zhongguotoushi/panel-11112020151214.md)
 #### [专栏 | 中国透视：美国选后对华政策：必要性与可行性](../pages/zhongguotoushi/panel-11042020114955.md)
 #### [专栏 | 中国透视： 两次冷战：同与不同](../pages/zhongguotoushi/panel-10282020155343.md)
 #### [专栏 | 中国透视：从关于美国对外义战的风险承受度民调看其地缘政治后果](../pages/zhongguotoushi/panel-10212020122424.md)
