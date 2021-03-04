@@ -480,5 +480,3 @@
 #### [评论 | 刘青： 共赢的公私合营有吗](../pages/pinglun/liuqing-08192019134708.md)
 #### [评论 | 刘青：大陆医患悲剧的后面因素](../pages/pinglun/liuqing-01072020102525.md)
 #### [评论 | 林保华：香港将引领中国风向](../pages/pinglun/linbaohua-12032019101430.md)
-#### [评论 | 林保华：  19届4中全会的诡谲和“现代化”](../pages/pinglun/linbaohua-11042019120303.md)
-#### [评论 | 林保华： 草包的斗争哲学](../pages/pinglun/linbaohua-09042019114037.md)
