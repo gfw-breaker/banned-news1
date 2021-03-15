@@ -1,3 +1,4 @@
+#### [专栏 | 夜话中南海：胡怀邦是怎么当上陈元接班人的？](../pages/yehuazhongnanhai/gx-01152021173249.md)
 #### [专栏 | 夜话中南海：习近平绝没有可能“对陈元下手”](../pages/yehuazhongnanhai/gx-01112021145921.md)
 #### [专栏 | 夜话中南海：目不识“滇”的云南省委书记是否还会更上一层楼？](../pages/yehuazhongnanhai/gx-01082021150044.md)
 #### [专栏 | 夜话中南海：习近平和阮成发如此惺惺相惜](../pages/yehuazhongnanhai/gx-01042021151926.md)
