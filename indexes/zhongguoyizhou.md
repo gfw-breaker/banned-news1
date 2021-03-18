@@ -1,15 +1,3 @@
-#### [专栏 | 中国一周（2021年3月6日-2021年3月12日）](../pages/zhongguoyizhou/review-03112021103730.md) 
-#### [专栏 | 中国一周（2021年2月27日-2021年3月5日）](../pages/zhongguoyizhou/review-03042021115409.md) 
-#### [专栏 | 中国一周（2021年2月20日-2021年2月26日）](../pages/zhongguoyizhou/review-02252021115713.md) 
-#### [专栏 | 中国一周（2021年2月13日-2021年2月19日）](../pages/zhongguoyizhou/review-02182021111454.md) 
-#### [专栏 | 中国一周（2021年2月6日-2021年2月12日）](../pages/zhongguoyizhou/review-02172021125834.md) 
-#### [专栏 | 中国一周（2021年1月30日-2021年2月5日）](../pages/zhongguoyizhou/review-02042021105910.md) 
-#### [专栏 | 中国一周（2021年1月23日-2021年1月29日）](../pages/zhongguoyizhou/review-01282021162711.md) 
-#### [专栏 | 中国一周（2021年1月16日-2021年1月22日）](../pages/zhongguoyizhou/review-01212021141835.md) 
-#### [专栏 | 中国一周（2021年1月9日-2021年1月15日）](../pages/zhongguoyizhou/review-01142021145046.md) 
-#### [专栏 | 中国一周（2021年1月2日-2021年1月8日）](../pages/zhongguoyizhou/review-01072021145829.md) 
-#### [专栏 | 中国一周（2020年12月26日-2021年1月1日）](../pages/zhongguoyizhou/review-12312020124206.md) 
-#### [专栏 | 中国一周（2020年12月19日-2020年12月25日）](../pages/zhongguoyizhou/review-12242020153115.md) 
-#### [专栏 | 中国一周（2020年12月12日-2020年12月18日）](../pages/zhongguoyizhou/review-12172020125327.md) 
-#### [专栏 | 中国一周（2020年12月5日-2020年12月11日）](../pages/zhongguoyizhou/review-12102020140758.md) 
-#### [专栏 | 中国一周（2020年11月28日-2020年12月4日）](../pages/zhongguoyizhou/review-12032020162549.md) 
+
+### 已转移至新页面 [中国一周](R中国一周.md) 
+
