@@ -1,3 +1,4 @@
+#### [专栏 | 夜话中南海：赖小民之死与曾庆红的“铁帽子”](../pages/yehuazhongnanhai/gx-01222021145957.md)
 #### [专栏 | 夜话中南海：胡怀邦和赖小民居然是出自同一个“伯乐”](../pages/yehuazhongnanhai/gx-01182021152932.md)
 #### [专栏 | 夜话中南海：胡怀邦是怎么当上陈元接班人的？](../pages/yehuazhongnanhai/gx-01152021173249.md)
 #### [专栏 | 夜话中南海：习近平绝没有可能“对陈元下手”](../pages/yehuazhongnanhai/gx-01112021145921.md)
