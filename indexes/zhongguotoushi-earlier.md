@@ -1,3 +1,4 @@
+#### [专栏 | 中国透视：奇言分析：习近平谬赞张謇](../pages/zhongguotoushi/panel-11252020145145.md)
 #### [专栏 | 中国透视：中国意识形态光谱地域分布的政治经济意涵](../pages/zhongguotoushi/panel-11182020171910.md)
 #### [专栏 | 中国透视：从孙大午被拘和蚂蚁金服事件看中国民营企业的当下困境](../pages/zhongguotoushi/panel-11132020163328.md)
 #### [专栏 | 中国透视：特朗普的对华政策：哪些会继承，哪些会遗弃？](../pages/zhongguotoushi/panel-11112020151214.md)
