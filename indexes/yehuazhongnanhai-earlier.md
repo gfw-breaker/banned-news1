@@ -1,3 +1,4 @@
+#### [专栏 | 夜话中南海：草草处决赖小民，警告的是谁？保护的又是谁？](../pages/yehuazhongnanhai/gx-01292021164306.md)
 #### [专栏 | 夜话中南海：秦光荣被从轻发落的背后](../pages/yehuazhongnanhai/gx-01252021171130.md)
 #### [专栏 | 夜话中南海：赖小民之死与曾庆红的“铁帽子”](../pages/yehuazhongnanhai/gx-01222021145957.md)
 #### [专栏 | 夜话中南海：胡怀邦和赖小民居然是出自同一个“伯乐”](../pages/yehuazhongnanhai/gx-01182021152932.md)
