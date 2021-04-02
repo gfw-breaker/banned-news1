@@ -480,5 +480,3 @@
 #### [美科技和商界团体推动积极数字政策  应对中国挑战](../pages/yataibaodao/bx-02122021111500.md)
 #### [余文生除夕获奖  中国异见者节日有喜有忧](../pages/yataibaodao/hj-02122021131326.md)
 #### [中国禁BBC  德国跟随英国禁中国的CGTN](../pages/yataibaodao/rc-02122021133822.md)
-#### [中国禁止进口意大利猪肉  称可能传播新冠病毒惹争议](../pages/yataibaodao/sc-02122021144900.md)
-#### [拜登松绑孔子学院、Tiktok和微信?   未必如此](../pages/yataibaodao/jt-02122021103342.md)
