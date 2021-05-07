@@ -1,3 +1,4 @@
+#### [专栏 | 夜话中南海：习近平与李克强之间的学历之争](../pages/yehuazhongnanhai/gx-03082021155824.md)
 #### [专栏 | 夜话中南海：习近平是怎么知道自己“学历不足”的？](../pages/yehuazhongnanhai/gx-03052021150343.md)
 #### [专栏 | 夜话中南海：福建“老领导”对习近平恩同再造](../pages/yehuazhongnanhai/gx-03012021155337.md)
 #### [专栏 | 夜话中南海： 许永跃回忆中的的邓陈宫斗秘辛](../pages/yehuazhongnanhai/gx-02262021163947.md)
