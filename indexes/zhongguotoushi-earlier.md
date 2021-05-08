@@ -1,3 +1,4 @@
+#### [专栏 | 中国透视：从2020年澳中争执看中共战狼外交命运](../pages/zhongguotoushi/panel-01062021162250.md)
 #### [专栏 | 中国透视：2020年中共外交地位的陨落](../pages/zhongguotoushi/panel-12302020160029.md)
 #### [专栏 | 中国透视：中国民营企业寒冬 中共大幅让步欧盟](../pages/zhongguotoushi/panel-12232020190207.md)
 #### [专栏 | 中国透视：年终回顾：2020大疫情下的中国与世界](../pages/zhongguotoushi/panel-12162020140530.md)
