@@ -1,3 +1,5 @@
+#### [<<< HEAD](../pages/nsc413/n12935237.md)
+#### [USCIRF委员：北京现代版文革 威胁西方文明](../pages/nsc413/n12935137.md)
 #### [<<< HEAD](../pages/nsc413/n12935011.md)
 #### [<<< HEAD](../pages/nsc413/n12935008.md)
 #### [<<< HEAD](../pages/nsc413/n12934828.md)
