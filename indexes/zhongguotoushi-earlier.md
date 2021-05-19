@@ -1,3 +1,4 @@
+#### [专栏 | 中国透视：赵紫阳辞世16周年：赵的精神遗产与中共出路](../pages/zhongguotoushi/panel-01202021150011.md)
 #### [专栏 | 中国透视：中共百年：从陈云的“遗训”看中共与中国人的“契约”](../pages/zhongguotoushi/panel-01132021170741.md)
 #### [专栏 | 中国透视：从2020年澳中争执看中共战狼外交命运](../pages/zhongguotoushi/panel-01062021162250.md)
 #### [专栏 | 中国透视：2020年中共外交地位的陨落](../pages/zhongguotoushi/panel-12302020160029.md)
