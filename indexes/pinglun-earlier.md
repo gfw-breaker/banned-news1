@@ -480,4 +480,3 @@
 #### [评论 | 魏京生：北戴河的夏天  ](../pages/pinglun/weijingsheng-08172020100207.md)
 #### [评论 | 魏京生： 武汉肺炎的来历](../pages/pinglun/weijingsheng-02102020104612.md)
 #### [评论 | 魏京生： 春节的灾难](../pages/pinglun/weijingsheng-01282020131722.md)
-#### [评论 | 王丹：中共又开始为蔡英文助选了](../pages/pinglun/wd-12172019105510.md)
