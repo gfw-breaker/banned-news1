@@ -480,5 +480,3 @@
 #### [评论 | 魏京生：年前盘点2020  ](../pages/pinglun/weijingsheng-12252019102854.md)
 #### [评论 | 魏京生：历史的宿命](../pages/pinglun/weijingsheng-12032019113238.md)
 #### [评论 | 魏京生： 美中对抗是美国的责任吗？](../pages/pinglun/weijingsheng-09042019114613.md)
-#### [评论 | 魏京生：北戴河的夏天  ](../pages/pinglun/weijingsheng-08172020100207.md)
-#### [评论 | 魏京生： 武汉肺炎的来历](../pages/pinglun/weijingsheng-02102020104612.md)
