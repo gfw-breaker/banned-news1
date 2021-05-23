@@ -1,28 +1,11 @@
 #### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-#### [拜登引用毛泽东的“名言” 遭讽贬](../pages/soh6/508241.md?t=05240001) 
-#### [共和党议员要求白宫提供中共肺炎起源信息](../pages/soh6/508259.md?t=05240001) 
-#### [美数十名青少年接种第二剂疫苗后现心肌炎症状](../pages/soh6/508130.md?t=05240001) 
+
+### 已转移至新页面 [北美新闻](H北美新闻.md?t=05240053) 
+
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
-#### [极机密文件曝光：美曾考虑动用核武护卫台湾](../pages/soh6/508166.md?t=05240001) 
-#### [美议员吁世卫：邀台参加世卫大会 勿理中共施压 ](../pages/soh6/508139.md?t=05240001) 
-#### [乔州也要审票了 这次是富顿县15万邮寄选票](../pages/soh6/508154.md?t=05240001) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [防中共偷技术 美参院推国家安全保护法](../pages/soh6/507071.md?t=05240001) 
-#### [评论：中共利用联合国争霸权 挑战美国](../pages/soh6/508124.md?t=05240001) 
-#### [一位美国人被中共从新疆驱逐 他经历了什么？](../pages/soh6/508010.md?t=05240001) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
-#### [专家评美韩峰会：重申同盟 但关键问题无突破](../pages/soh6/508106.md?t=05240001) 
-#### [【明慧报告获奖系列】(下)对法轮功西方媒体为何放弃了使命？](../pages/soh6/508115.md?t=05240001) 
-#### [美国债达30万亿 美议员提案让红州牵头减债](../pages/soh6/508016.md?t=05240001) 
-#### [美参院新增跨党派动议 为香港人提供庇护](../pages/soh6/507404.md?t=05240001) 
-#### [苹果将推出强大功能 可用视线控制鼠标](../pages/soh6/507788.md?t=05240001) 
-#### [拜登政府让步 削减2.3万亿基建计划四分之一](../pages/soh6/507776.md?t=05240001) 
-#### [美多州推出打疫苗百万大抽奖 俄州接种率大增](../pages/soh6/507773.md?t=05240001) 
-#### [美参众两院提法案 拒绝给中共间谍发签证 ](../pages/soh6/507761.md?t=05240001) 
-#### [华为转战亚非拉云服务 专家：美国应与之竞争 ](../pages/soh6/507755.md?t=05240001) 
-#### [美媒：中共要维族人拍视频骂蓬佩奥 否认被虐待 ](../pages/soh6/507743.md?t=05240001) 
-#### [【明慧报告获奖系列】(中)追讨中共 报告无可替代 意义重大](../pages/soh6/507746.md?t=05240001) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
