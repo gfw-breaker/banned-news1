@@ -1,28 +1,11 @@
 #### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-#### [佛州州長：福奇被指進行病毒增益研究 應接受調查](../pages/soh6/511997.md?t=06040201) 
-#### [美25州宣布退出聯邦補助 約370萬人受影響](../pages/soh6/512015.md?t=06040201) 
-#### [美國務院六四前夕譴責中共：企圖抹去屠殺記憶](../pages/soh6/512003.md?t=06040201) 
+
+### 已转移至新页面 [北美新闻](H北美新闻.md?t=06040253) 
+
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
-#### [美頂級網路安全官員：確保網安是拜登政府首要任務](../pages/soh6/511880.md?t=06040201) 
-#### [ 8000萬劑疫苗該給誰？薛瑞福敦促拜登優先考慮台灣](../pages/soh6/511844.md?t=06040201) 
-#### [電郵顯示 福奇一開始即知中共病毒或源於實驗室](../pages/soh6/511586.md?t=06040201) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [拜登將修改對中企黑名單 瞄準特定關鍵行業](../pages/soh6/511778.md?t=06040201) 
-#### [探中共病毒源頭 保羅參議員再憂美為武毒所注資](../pages/soh6/511739.md?t=06040201) 
-#### [馬斯克進軍餐飲業？為特斯拉餐廳提交商標文件](../pages/soh6/511769.md?t=06040201) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
-#### [JBS嘗試從黑客襲擊中恢復 但美肉類供應仍緊張](../pages/soh6/511748.md?t=06040201) 
-#### [佛州州長簽法案 禁變性人參加女子體育比賽](../pages/soh6/511697.md?t=06040201) 
-#### [美議員促NBA勿代言中國公司 因其涉強迫勞動](../pages/soh6/511700.md?t=06040201) 
-#### [華男稱因計生政策被迫害來美申請庇護 被高院駁回](../pages/soh6/511694.md?t=06040201) 
-#### [“川普辦公桌”平台永久關閉 發言人：好的在後頭](../pages/soh6/511691.md?t=06040201) 
-#### [50年來UFO事件多多 五角大樓終於開始認真對待](../pages/soh6/511685.md?t=06040201) 
-#### [重查中共病毒起源 美中國問題專家給拜登提多個建議](../pages/soh6/511658.md?t=06040201) 
-#### [美議員：美國必須打擊中共 否則就太晚了](../pages/soh6/511643.md?t=06040201) 
-#### [黑命貴前領袖：發現了該組織的醜陋真相 我宣布退出](../pages/soh6/511382.md?t=06040201) 
-#### [中共阻台獲疫苗 加國議員敦促政府提供](../pages/soh6/511568.md?t=06040201) 
-#### [拜登政府正式取消非法移民“留在墨西哥”政策](../pages/soh6/511499.md?t=06040201) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
