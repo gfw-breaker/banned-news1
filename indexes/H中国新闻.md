@@ -1,11 +1,28 @@
 #### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-
-### 已转移至新页面 [中国新闻](H中国新闻.md?t=06052151) 
-
+#### [中國銀行推“三胎貸” 惹議後改口](../pages/soh5/512735.md?t=06052202) 
+#### [安徽安慶市男子步行街持刀亂砍  5死15傷（視頻）](../pages/soh5/512714.md?t=06052202) 
+#### [陝西公路旁再現金錢豹 網民追問：杭州跑過去的？](../pages/soh5/512717.md?t=06052202) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [廣州全員檢測 佛山多地封村 民眾翻牆逃難（多視頻）](../pages/soh5/512708.md?t=06052202) 
+#### [長沙一大型倉庫起火 現場濃煙滾滾](../pages/soh5/512666.md?t=06052202) 
+#### [廣州疫情續燒 南沙區突封閉 民眾措手不及被堵叫苦（視頻）](../pages/soh5/512654.md?t=06052202) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [吾爾開希為民國史讚歎 炮轟胡錫進是條狗](../pages/soh5/512618.md?t=06052202) 
+#### [“六四”異象？濟南夜晚出現奇特閃電（視頻）](../pages/soh5/512561.md?t=06052202) 
+#### [自稱曾參加過“六四”學運的胡錫進 為中共屠殺狡辯](../pages/soh5/512576.md?t=06052202) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [習近平對外宣不滿 學者：兩個故事讓他感受到了危機](../pages/soh5/512540.md?t=06052202) 
+#### [“天安門母親”公墓祭親人 牆內嚴厲管控“六四”](../pages/soh5/512534.md?t=06052202) 
+#### [美團CEO王興發“反詩”闖禍？大手筆交“投名狀”](../pages/soh5/512375.md?t=06052202) 
+#### [微信直播提躺平、家暴或被罰 新增未成年條款為表忠？](../pages/soh5/512333.md?t=06052202) 
+#### [廣州疫情蔓延整個中心城區 護士確診 2醫院急停（視頻）](../pages/soh5/512348.md?t=06052202) 
+#### [英使館貼圖悼六四 20分鐘被刪 公使諷比去年慢5分](../pages/soh5/512342.md?t=06052202) 
+#### [800年歷史名鎮被毀 重慶江津中山古鎮發生火災（視頻）](../pages/soh5/512330.md?t=06052202) 
+#### [中國國產疫苗問題大 官方吹風“吸入式”引質疑](../pages/soh5/512279.md?t=06052202) 
+#### [三亞原書記童道馳被捕 周小川曾喊他回中國](../pages/soh5/512321.md?t=06052202) 
+#### [疫苗供應吃緊 中共忽悠民眾減壓](../pages/soh5/512303.md?t=06052202) 
+#### [唐靖遠：恐懼政治制度破產 中共六四屠城延續統治](../pages/soh5/512198.md?t=06052202) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh5-earlier.md)
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
