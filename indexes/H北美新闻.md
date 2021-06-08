@@ -1,11 +1,28 @@
 #### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-
-### 已转移至新页面 [北美新闻](H北美新闻.md?t=06082218) 
-
+#### [對抗中共法案過軟遭批評 美眾議員促兩黨聯合應對](../pages/soh6/513503.md?t=06082251) 
+#### [雲服務公司故障 數大媒體和政府網站一度下線](../pages/soh6/513656.md?t=06082251) 
+#### [可望恢復美台貿易談判 布林肯：對話應該展開了](../pages/soh6/513458.md?t=06082251) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [“受夠了”佛州州長簽署法案以對抗中共負面影響](../pages/soh6/513482.md?t=06082251) 
+#### [燃料管道商遭駭襲 美政府追回230萬美金比特幣贓款](../pages/soh6/513452.md?t=06082251) 
+#### [世衛顧問：中共大規模掩蓋疫情 至今仍不悔改](../pages/soh6/513413.md?t=06082251) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [美高院禁止臨時保護身份者獲綠卡 或影響40萬人](../pages/soh6/513395.md?t=06082251) 
+#### [拜登訪歐前發文 三次提及中國](../pages/soh6/513401.md?t=06082251) 
+#### [獲任美陸軍太平洋地區指揮官 弗林胞弟宣誓就職](../pages/soh6/513377.md?t=06082251) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [曾親見蔣公 美107歲退役空軍中將談軍旅生涯](../pages/soh6/513389.md?t=06082251) 
+#### [反感左派攻擊執法部門 弗州警長退民主黨入共和黨](../pages/soh6/513353.md?t=06082251) 
+#### [美投資專家：中共掩蓋泄漏病毒真相 全球應索賠](../pages/soh6/513362.md?t=06082251) 
+#### [暴力事件後 美警察安慰受驚兒童照獲數千網讚](../pages/soh6/513347.md?t=06082251) 
+#### [布林肯：拜登政府決心徹查病毒起源 追責中共](../pages/soh6/513338.md?t=06082251) 
+#### [福奇博士四面楚歌 多位議員要求解僱他](../pages/soh6/513326.md?t=06082251) 
+#### [美前情報總監：美軍發現的UFO與中俄無關](../pages/soh6/513152.md?t=06082251) 
+#### [賴斯：美官員疫情之初否定實驗室泄毒 犯了大錯](../pages/soh6/513320.md?t=06082251) 
+#### [2024將和誰搭檔競選？川普：現在討論尚早](../pages/soh6/513155.md?t=06082251) 
+#### [美基金會被指收取中資500萬美元 涉布什家族](../pages/soh6/513167.md?t=06082251) 
+#### [反擊網路勒索攻擊 美部長：拜登不排除軍事選項](../pages/soh6/513080.md?t=06082251) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
