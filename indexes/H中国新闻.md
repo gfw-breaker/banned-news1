@@ -1,28 +1,11 @@
 #### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-#### [高考考場還能上網？武漢考生拍考題網絡求助引熱議](../pages/soh5/513632.md?t=06082102) 
-#### [蘋果的隱私保護新功能在中國將不可用](../pages/soh5/513665.md?t=06082102) 
-#### [“病毒”冰雹再現  山西晉城巨大冰雹砸爛汽車（視頻）](../pages/soh5/513650.md?t=06082102) 
+
+### 已转移至新页面 [中国新闻](H中国新闻.md?t=06082206) 
+
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
-#### [兩名中國人在西非國家尼日爾遭綁架](../pages/soh5/513653.md?t=06082102) 
-#### [嫌女乘客讓座慢 北京大媽怒罵：臭外地的，我正黃旗！](../pages/soh5/513641.md?t=06082102) 
-#### [借馬拉松慘禍照片做宣傳 上海服裝公司被批沒人性](../pages/soh5/513620.md?t=06082102) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [中國3省15校學生抗議院校合併 官方暴力維穩 爆流血衝突（視頻）](../pages/soh5/513581.md?t=06082102) 
-#### [中共教育部長或易人 港媒指接任者有四人選](../pages/soh5/513587.md?t=06082102) 
-#### [廣東疫情再升溫 三市全員檢測 專家：病毒比往年厲害](../pages/soh5/513584.md?t=06082102) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
-#### [嚇人！杭州15歲少年生逾100顆膽結石](../pages/soh5/513539.md?t=06082102) 
-#### [復旦老師割喉殺死數學學院書記 網揭深層內幕](../pages/soh5/513527.md?t=06082102) 
-#### [疫情初期已申請疫苗專利 中共軍事專家神秘去世](../pages/soh5/513479.md?t=06082102) 
-#### [美國軍機降落台灣猛觸中共紅線 北京反應異常](../pages/soh5/513437.md?t=06082102) 
-#### [穆迪不看好“三孩政策”：不大可能改變出生率](../pages/soh5/513410.md?t=06082102) 
-#### [借高考強化洗腦 今年作文8道題均緊扣中共建黨百年](../pages/soh5/513290.md?t=06082102) 
-#### [高考考場前都這陣勢  網友：還以為這是廟（視頻）](../pages/soh5/513308.md?t=06082102) 
-#### [學位求職受影響 江蘇浙江多校學生抗議學院轉職本](../pages/soh5/513266.md?t=06082102) 
-#### [上海復旦大學教師持刀行兇 數學學院高層被殺（視頻）](../pages/soh5/513263.md?t=06082102) 
-#### [湛江男子發布接種疫苗致死消息 遭拘留](../pages/soh5/513284.md?t=06082102) 
-#### [網文：99％中國人收入真相 令人大吃一驚](../pages/soh5/513278.md?t=06082102) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh5-earlier.md)
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
