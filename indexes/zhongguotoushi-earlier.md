@@ -1,3 +1,4 @@
+#### [专栏 | 中国透视：《对中战略长电报》面面观](../pages/zhongguotoushi/panel-02102021153105.md)
 #### [专栏 | 中国透视：美国重塑民主同盟：必要、困难及前瞻](../pages/zhongguotoushi/panel-02032021164407.md)
 #### [专栏 | 中国透视：美中关系展望：从美国国会听证会及习近平达沃斯讲话看](../pages/zhongguotoushi/review-01272021194414.md)
 #### [专栏 | 中国透视：赵紫阳辞世16周年：赵的精神遗产与中共出路](../pages/zhongguotoushi/panel-01202021150011.md)
