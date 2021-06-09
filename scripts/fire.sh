@@ -65,7 +65,7 @@ while read line; do
 	link=$(echo $line | cut -d',' -f1)
 	title=$(echo $line | cut -d',' -f2)
 	echo -e "#### [$title](https://github.com/gfw-breaker$link)" >> $hot_page
-done < /root/page_count/banned-news.hot
+done < /root/page_count/banned-news3.hot
 
 
 ## geneate indexes
