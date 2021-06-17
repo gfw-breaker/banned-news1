@@ -465,5 +465,3 @@
 #### [<<< HEAD](../pages/prog203/a103114262.md)
 #### [旧金山学员游行 欢庆世界法轮大法日](../pages/prog203/a103114246.md)
 #### [<<< HEAD](../pages/prog203/a103114093.md)
-#### [<<< HEAD](../pages/prog203/a103113929.md)
-#### [<<< HEAD](../pages/prog203/a103113870.md)
