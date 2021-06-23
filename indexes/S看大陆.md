@@ -1,29 +1,9 @@
 #### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-#### [广东疫情引发大规模抗议 官方维稳爆冲突(视频/图)](../pages/p1/975868.md?t=06231452) 
-#### [东京奥运会卫冕梦灭 孙杨禁赛期限减至4年(图)](../pages/p1/975867.md?t=06231452) 
-#### [建党百年将至 北京气氛诡谲 几件事不寻常(图)](../pages/p1/975860.md?t=06231452) 
+
+### 已转移至新页面 [看大陆](S看大陆.md?t=06231502) 
+
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [党庆近惨剧多 福建上杭墙砖脱落致9死7伤(图)](../pages/p1/975840.md?t=06231452) 
-#### [河北教授称推翻爱因斯坦 网嘲连自己都骗(组图)](../pages/p1/975821.md?t=06231452) 
-#### [百位说唱者合作献唱党庆 网评翻车：太难听了(图)](../pages/p1/975800.md?t=06231452) 
-#### [军方大校辛子陵病逝 生前揭中共重磅机密(图)](../pages/p1/975897.md?t=06231452) 
-#### [广东疫情引发大规模抗议 官方维稳爆冲突(视频/图)](../pages/p1/975868.md?t=06231452) 
-#### [东京奥运会卫冕梦灭 孙杨禁赛期限减至4年(图)](../pages/p1/975867.md?t=06231452) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
-#### [建党百年将至 北京气氛诡谲 几件事不寻常(图)](../pages/p1/975860.md?t=06231452) 
-#### [党庆近惨剧多 福建上杭墙砖脱落致9死7伤(图)](../pages/p1/975840.md?t=06231452) 
-#### [河北教授称推翻爱因斯坦 网嘲连自己都骗(组图)](../pages/p1/975821.md?t=06231452) 
-#### [百位说唱者合作献唱党庆 网评翻车：太难听了(图)](../pages/p1/975800.md?t=06231452) 
-#### [CGTN报道习近平出重大“失误” 编辑集体陷入恐慌(图)](../pages/p1/975778.md?t=06231452) 
-#### [传中共下封杀令 电商“躺平”商品统统下架(组图)](../pages/p1/975763.md?t=06231452) 
-#### [持刀杀害学院党委书记 复旦姜文华被批捕(图)](../pages/p1/975761.md?t=06231452) 
-#### [百年党庆好慌 京沪快递被切断 民怨沸腾(图)](../pages/p1/975750.md?t=06231452) 
-#### [小粉红心又碎？轰清华美院模特凤眼造型辱华(图)](../pages/p1/975729.md?t=06231452) 
-#### [病毒再发威 广东四城市告危 紧急“半封省”(图)](../pages/p1/975737.md?t=06231452) 
-#### [中共庆百年风声鹤唳 北京实施无线电管制(图)](../pages/p1/975718.md?t=06231452) 
-#### [疫情加剧？东莞大面积封城 传已扩散至海口(图)](../pages/p1/975692.md?t=06231452) 
-#### [三胎宣传广告大翻车：支持男人自己生(图)](../pages/p1/975673.md?t=06231452) 
-#### [山东泰安一确诊病例治愈者复阳 曾在广州隔离](../pages/p1/975668.md?t=06231452) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/p1-earlier.md)
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
