@@ -1,3 +1,4 @@
+#### [专栏 | 中国透视：从审判香港47位民主人士看中共近期的盘算及走向](../pages/zhongguotoushi/review-03042021145802.md)
 #### [专栏 | 中国透视：民主联盟抗中共的阻力及前路](../pages/zhongguotoushi/review-02242021161958.md)
 #### [专栏 | 中国透视：合纵连横：美中近期外交博弈](../pages/zhongguotoushi/panel-02172021145515.md)
 #### [专栏 | 中国透视：《对中战略长电报》面面观](../pages/zhongguotoushi/panel-02102021153105.md)
