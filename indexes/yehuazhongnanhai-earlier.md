@@ -1,3 +1,4 @@
+#### [专栏 | 夜话中南海：温家宝的如此敢说就已经是难能可贵！](../pages/yehuazhongnanhai/gx-05072021153632.md)
 #### [专栏 | 夜话中南海：温家宝与习近平之间的路线斗争由来已久](../pages/yehuazhongnanhai/gx-05032021150603.md)
 #### [专栏 | 夜话中南海：温家宝的谢幕哀歌与习近平的文革复辟](../pages/yehuazhongnanhai/gx-04302021152002.md)
 #### [专栏 | 夜话中南海：从未报复余杰证明了温家宝的开明](../pages/yehuazhongnanhai/gx-04262021155626.md)
