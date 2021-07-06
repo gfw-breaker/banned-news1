@@ -1,9 +1,26 @@
 #### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-
-### 已转移至新页面 [中国新闻](H中国新闻.md?t=07062051) 
-
+#### [中國人生三孩還要罰款 官員稱法規尚未修改](../pages/soh5/522863.md?t=07062101) 
+#### [防盜竊知識產權？美拒批五百多中國理工研究生簽證](../pages/soh5/522827.md?t=07062101) 
+#### [雲南再增本土病例 當地現德爾塔毒株](../pages/soh5/522839.md?t=07062101) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
+#### [浙江推父母持證上崗 網友：荒唐國度就會有荒唐的事](../pages/soh5/522824.md?t=07062101) 
+#### [廣州碧桂園工人溺死水塔 業主連喝多日屍水憤而抗議（視頻）  ](../pages/soh5/522797.md?t=07062101) 
+#### [狂毆兩院士一個月後 張陶被刑拘 傳後台“含趙量”爆表](../pages/soh5/522806.md?t=07062101) 
+#### [習近平晉陞四上將再露愁容 兩人前任去職被指不尋常](../pages/soh5/522794.md?t=07062101) 
+#### [溫家寶站天安門城樓一臉焦慮 背後驚現一仇人](../pages/soh5/522788.md?t=07062101) 
+#### [公鼠懷孕實驗再反轉 中國研究人員拒撤稿](../pages/soh5/522773.md?t=07062101) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [中國一家長提兩原因 拒絕孩子參加黨慶活動 ](../pages/soh5/522770.md?t=07062101) 
+#### [凈協自曝舉報“編程隨想”全過程 網民怒罵“假的不行”](../pages/soh5/522725.md?t=07062101) 
+#### [“七五事件”12周年 新疆當局公開點贊“教培中心”](../pages/soh5/522683.md?t=07062101) 
+#### [章天亮: 耐人尋味的“趙家人”觀禮  習近平算不過來的政治賬](../pages/soh5/522665.md?t=07062101) 
+#### [中國民眾出國越來越難 親歷者曝過海關“千難萬險”](../pages/soh5/522542.md?t=07062101) 
+#### [夏業良：習近平七一講話盡顯帝王夢 但中共正待被埋葬](../pages/soh5/522320.md?t=07062101) 
+#### [王靖渝曝重慶公安疑以酷刑逼父母發錄音誘他回國](../pages/soh5/522590.md?t=07062101) 
+#### [仿如地獄 中共黨慶剛過 天津天空驚現惡魔之臉（多圖）](../pages/soh5/522554.md?t=07062101) 
+#### [疫情追責聲浪下 中共推抗疫電影 再繞過李文亮？](../pages/soh5/522560.md?t=07062101) 
+#### [生活奢侈沉迷美容 北方工業大學副校長被判囚十年](../pages/soh5/522500.md?t=07062101) 
+#### [習近平稱建成小康社會 貧困民眾受訪：抱歉拖了後腿](../pages/soh5/522497.md?t=07062101) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh5-earlier.md)
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
